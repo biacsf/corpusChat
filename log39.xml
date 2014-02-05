@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>n vai ter como mecher nisso td nao, vai dar mto trabalho. E
+			agora?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto> pow.... tem muito coisa pela metade ...deveriamos ver as
+			prioridades</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>vai ter q voltar versao. Pq ou funciona ou nao funciona</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto> nao precisa voltar versao pq ta funcionando as telas..</texto>
+		<usuario>Usuario4</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>Po n ta. Qd vc seleciona um campo e depois deseleciona ele fica
+			disabled</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>discordancia</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>ta mas o usuario consegue fazer a insercao. Depois conserta
+			isso</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>ta bom.. eu só acho q ficou mto ruim</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>caramba... la embaixo na lanchonete ta cheiao... todo mundo
+			desce pra comer essa hora oO :-D</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>enche msm sempre la</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>pronto. Tem algum erro ai?</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>ta faltando colocar codigo sap em algumas</texto>
+		<usuario>Usuario4</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>vou colocar aqui</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>pow... hoje eu nao vou poder ficar até tarde nao =/</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>nem eu. eu ia sair as 5</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>vou sair as 18h tb</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>12</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>vm partir? to muito cansada</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto>vamos</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>14</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto> n guento fzr mais nd</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>17</numero>
+		<texto>pow... nao tem mais chocolate nas maquinas oO</texto>
+		<usuario>Usuario4</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>18</numero>
+		<texto>isso é uma falta de vergonha neh ??? :-D</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>17</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>19</numero>
+		<texto>é, nao tem mais msm</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>18</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>20</numero>
+		<texto>eu vou ter q ir embora... to terminando aqui a zona glp e vou
+			testar...ai vou partir... blza?</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>21</numero>
+		<texto>blzinha</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>20</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>22</numero>
+		<texto>c deve ta cheio de hr sobrando né?</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>23</numero>
+		<texto>um pouquinho ... heeheh</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>22</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>24</numero>
+		<texto>tu chegou a criar o pacote ?? tm erro ai?</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>25</numero>
+		<texto>deu erro na hr de gerar por causa do pom. To gerando dinovo</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>24</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>26</numero>
+		<texto>atualiza ae antes de gerar </texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>27</numero>
+		<texto>blza. quibou, e agora?</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>28</numero>
+		<texto>q q houve ?</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>27</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>29</numero>
+		<texto>vo pagar uma conta e ja volto</texto>
+		<usuario>Usuario4</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>30</numero>
+		<texto>ta blza</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>29</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>31</numero>
+		<texto>e agora? oq faremos?</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>32</numero>
+		<texto>qr tc?</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>33</numero>
+		<texto>tinha q ter um videogame aqui</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>34</numero>
+		<texto>vc vem sempre aqui??</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>35</numero>
+		<texto>pra gente jogar 1 pouco</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>36</numero>
+		<texto>infelizmente venho</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>34</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>37</numero>
+		<texto>pow até nisso aqui é proibido hahhaaha</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>38</numero>
+		<texto>hehehehe</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>39</numero>
+		<texto>pow... quero ir pra barra agora ... seria melhor ... rs rs rs</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>40</numero>
+		<texto>vai la po</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>39</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>41</numero>
+		<texto>vou ter ficar aqui atÈ as 17h :-)</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>42</numero>
+		<texto>tem erro do paulo no qc q tinha q ver tb</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>43</numero>
+		<texto>vou ver la</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>42</referenciaTreinamento>
+	</mensagem>
+</discussao>

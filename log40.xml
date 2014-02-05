@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>Você acha que as leis atuais que combatem o tráfico de pessoas são adequadas e suficientes?</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>No caso da legislação, acredito que deve haver o registro formal das vagas junto aos órgãos internacionais
+ou entidades internacionais voltadas à proteção dos direitos humanos. </texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>Não tenho dados, mas creio que a maioria dos casos de tráfico de pessoas seja para a prostituição, como não temos uma regulamentação dessa atividade aqui no Brasil fica difícil viabilizar esse registro formal das vagas.</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>4</numero>
+		<texto>Gostaria de opinar sobre o envolvimento de menores nos casos de aliciamento. Está claro que as organizações criminosas possuem
+expertise na área jurídica e conhecem perfeitamente o ECA, para uso incorreto. Seria interessante que a legislação fosse 
+revisada para evitar este tipo de atitude por parte do menor aliciador.</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>Seria bom também haver uma legislação específica para intercâmbio estudantil, até onde eu sei, isso não é uma atividade regulamentada, é muito fácil criar uma empresa de fachada.</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>6</numero>
+		<texto>O ministério das relações exteriores deveria criar uma secretaria que tratasse especificamente de 
+um cadastro unificado para consultas.
+
+Quando os jovens optam por oportunidades no exterior, poderiam consultar o cadastro administrado
+por aquela secretaria. Ou seja, as oportunidades teriam respaldo dos governos envolvidos.</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>Penso que a CPI, seus membros e servidores terão toda capacidade e material para sugerir melhorias substanciais na legislação ... O trabalho da Comissão é sério e competente ... Força aí galera...</texto>
+		<usuario>Usuario4</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+</discussao>

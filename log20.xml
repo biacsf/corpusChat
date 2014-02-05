@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>ta no lci?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>to</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>o monitor ta dando aula?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>não</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>ueh</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>ele já foi</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto> ele n ensinou as paradas do relatorio ai nao?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>ele enviou por email</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>aff. mas ele nem foi até o lci não?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>veio</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>e flw oq?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>mas ficou pouco tempo</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>huun</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

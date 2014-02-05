@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>Oi</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>vc pode ver se o arquivo business.xml esta em hijack ? esta
+			faltando esse bean gerenciaMaterialArgentinaESeSMeLIeGLPService</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>blz, vo ver aqui</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>blz</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>nao ta aqui mesmo, acho que eu devo ter tirado do hijack. Vou
+			colocar no bussiness</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>blz. Ve se tem o .keep</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>n tinha :-(. Mas adicionei aqui o servico</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>coloca em teste, por favor</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>blza</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+</discussao>

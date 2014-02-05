@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>oie, blza?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>blza e vc?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>blz
+			c trabalha em q?
+			sabe se eu te adicionei no msn??
+			vc n aparece la no meu</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>Programaçao visual..
+			ainda nao to on
+			no msn
+			vo ve la</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>lembro vc flw
+			blz.. pode ver dps.. eu tb n posso entrar no msn
+			to na aula</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>qual seu msn?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>usuario@hotmail.com</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>tenho vc la ja
+			e ja te vi on</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>eu n vejo vc</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>achei estranho nao aparecer para voce</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>dps vo conferir la se aparece</texto>
+		<referenciaTreinamento>10</referenciaTreinamento>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>ta blz</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+</discussao>

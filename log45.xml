@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>e-democracia</titulo>
+	<data></data>
+<mensagem>
+	<numero>1</numero>
+	<texto>Boa tarde. A transmissão já iniciou?</texto>
+	<usuario>Usuario1</usuario>
+</mensagem>
+<mensagem>
+	<numero>2</numero>
+	<texto>Boa tarde a todos</texto>
+	<usuario>Usuario2</usuario>
+</mensagem>
+<mensagem>
+	<numero>3</numero>
+	<texto>Não consio ver nada aind. algué já está recebendo sinal?</texto>
+	<usuario>Usuario3</usuario>
+</mensagem>
+<mensagem>
+	<numero>4</numero>
+	<texto>Boa tarde a todos. Falando direto de SC :)</texto>
+	<usuario>Usuario4</usuario>
+</mensagem>
+<mensagem>
+	<numero>5</numero>
+	<texto>esse é o melhor assunto do ano</texto>
+	<usuario>Usuario5</usuario>
+</mensagem>
+<mensagem>
+	<numero>6</numero>
+	<texto>Eu de recife</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>4</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>7</numero>
+	<texto>Concordo Usuario5</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>5</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>8</numero>
+	<texto>concordo</texto>
+	<usuario>Usuario4</usuario>
+</mensagem>
+<mensagem>
+	<numero>9</numero>
+	<texto>ainda não aparece nada de video</texto>
+	<usuario>Usuario4</usuario>
+</mensagem>
+<mensagem>
+	<numero>10</numero>
+	<texto>alguem aqui pratica eD?</texto>
+	<usuario>Usuario5</usuario>
+</mensagem>
+<mensagem>
+	<numero>11</numero>
+	<texto>eu</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>10</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>12</numero>
+	<texto>Eu, com meus 3 filhos.</texto>
+	<usuario>Usuario3</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	
+</mensagem>
+<mensagem>
+	<numero>13</numero>
+	<texto>Arrisco mencionar que quase todos aqui ou praticam ED ou têm algum interesse no tema.</texto>
+	<usuario>Usuario2</usuario>
+	<referenciaTreinamento>10</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>14</numero>
+	<texto>alguém conseguiu visualizar</texto>
+	<usuario>Usuario6</usuario>
+</mensagem>
+<mensagem>
+	<numero>15</numero>
+	<texto>minha interneeet éee leeeentaaa</texto>
+	<usuario>Usuario5</usuario>
+	<referenciaTreinamento>14</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>16</numero>
+	<texto>ainda só tem um zumbido.</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>14</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>17</numero>
+	<texto>ichi, o meu nem isso</texto>
+	<usuario>Usuario6</usuario>
+	<referenciaTreinamento>16</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>18</numero>
+	<texto>Usuario4, onde está publicado o video?</texto>
+	<usuario>Usuario2</usuario>
+</mensagem>
+<mensagem>
+	<numero>19</numero>
+	<texto>do ladinho do nosso bate-papo</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>18</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>20</numero>
+	<texto>é só tem um zumbido</texto>
+	<usuario>Usuario5</usuario>
+	<referenciaTreinamento>16</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>21</numero>
+	<texto>boa tarde</texto>
+	<usuario>Usuario7</usuario>
+</mensagem>
+<mensagem>
+	<numero>22</numero>
+	<texto>Taaarde!</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>21</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>23</numero>
+	<texto>este link nada acontece :rtsp://stream.camara.leg.br/plenario3</texto>
+	<usuario>Usuario6</usuario>
+</mensagem>
+<mensagem>
+	<numero>24</numero>
+	<texto>é o link que nos deram. mas não tem nada mesmo</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>23</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>25</numero>
+	<texto>Olá para todos que assim como eu praticam o ED.</texto>
+	<usuario>Usuario8</usuario>
+</mensagem>
+<mensagem>
+	<numero>26</numero>
+	<texto>ola</texto>
+	<usuario>Usuario5</usuario>
+	<referenciaTreinamento>25</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>27</numero>
+	<texto>vc é de onde?</texto>
+	<usuario>Usuario5</usuario>
+	<referenciaTreinamento>26</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>28</numero>
+	<texto>SSA</texto>
+	<usuario>Usuario7</usuario>
+	<referenciaTreinamento>27</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>29</numero>
+	<texto>Sou de MG</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>27</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>30</numero>
+	<texto>PR</texto>
+	<usuario>Usuario5</usuario>
+	<referenciaTreinamento>29</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>31</numero>
+	<texto>boa tarde Usuario8, não pratico mas sou uma curiosa sobre esse assunto, quero saber mais informações, acho uma excelente idéia para os dias de hoje.</texto>
+	<usuario>Usuario6</usuario>
+	<referenciaTreinamento>25</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>32</numero>
+	<texto>de BH?</texto>
+	<usuario>Usuario5</usuario>
+	<referenciaTreinamento>29</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>33</numero>
+	<texto>sim Usuario5</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>32</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>34</numero>
+	<texto>E vc Usuario5</texto>
+	<usuario>Usuario8</usuario>
+</mensagem>
+<mensagem>
+	<numero>35</numero>
+	<texto>comissão cadé o acesso para acompanharmos</texto>
+	<usuario>Usuario6</usuario>
+</mensagem>
+<mensagem>
+	<numero>36</numero>
+	<texto>Usuario9, vc é de qual cidade?</texto>
+	<usuario>Usuario1</usuario>
+</mensagem>
+<mensagem>
+	<numero>37</numero>
+	<texto>Isso cadeo acesso</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>35</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>38</numero>
+	<texto>Nao estamos conseguindo visualizar o link</texto>
+	<usuario>Usuario7</usuario>
+	<referenciaTreinamento>37</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>39</numero>
+	<texto>Olá a todos. Moro em Toronto, Canadá e temos 3 filhos sendo educados em casa.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>36</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>40</numero>
+	<texto>desisto de tentar asssitir</texto>
+	<usuario>Usuario5</usuario>
+</mensagem>
+<mensagem>
+	<numero>41</numero>
+	<texto>Boa tarde a todos! Em virtude da quantidade de pessoas, tivemos alteração do plenário e por isso os trabalhos não foram. Agradecemos a compreensão de todos.</texto>
+	<usuario>Usuario10</usuario>
+</mensagem>
+<mensagem>
+	<numero>42</numero>
+	<texto>por favor, poderia me explicar?</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>43</numero>
+	<texto>ahhh..... que isso?</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>44</numero>
+	<texto>foi cancelado?</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>45</numero>
+	<texto>Quantidade superior ou inferior?</texto>
+	<usuario>Usuario7</usuario>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>46</numero>
+	<texto>como assim não vai ter?</texto>
+	<usuario>Usuario6</usuario>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>47</numero>
+	<texto>Isto está mal explicado...</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>48</numero>
+	<texto>É apenas uma audiência pública</texto>
+	<usuario>Usuario7</usuario>
+	<referenciaTreinamento>47</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>49</numero>
+	<texto>A audiência não foi cancelada. Os trabalhos serão iniciados após serem preparados os serviços essenciais à transimissão e gravação do evento.</texto>
+	<usuario>Usuario10</usuario>
+	<referenciaTreinamento>46</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>50</numero>
+	<texto>otimo</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>49</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>51</numero>
+	<texto>ok</texto>
+	<usuario>Usuario7</usuario>
+	<referenciaTreinamento>49</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>52</numero>
+	<texto>vai ser na sala dois, falei com o alexandre Magno</texto>
+	<usuario>Usuario4</usuario>
+</mensagem>
+<mensagem>
+	<numero>53</numero>
+	<texto>ok</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>52</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>54</numero>
+	<texto>foi mudado para a sala dois devido ao número enorme de pessoas</texto>
+	<usuario>Usuario4</usuario>
+</mensagem>
+<mensagem>
+	<numero>55</numero>
+	<texto>Por favor, aguardem um pouco, estava tudo pronto para ser utilizado no Plenário nº 3 e nossos colaboradores estão fazendo o máximo para o tempo de espera seja o menor possível. A CLP agradece a compreensão de todos.</texto>
+	<usuario>Usuario10</usuario>
+</mensagem>
+<mensagem>
+	<numero>56</numero>
+	<texto>a comissão foi transferida para o plenário 2, daqui a 5 minutos vai começar</texto>
+	<usuario>Usuario6</usuario>
+</mensagem>
+<mensagem>
+	<numero>57</numero>
+	<texto>como faco para entrar?</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>56</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>58</numero>
+	<texto>baixe o programa VLCf (http://www.videolan.org/)</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>57</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>59</numero>
+	<texto>Com as orientações do Usuario4 Brennan consegui assistir. Lincoln Portela falando. Obrigado!!!</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>58</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>60</numero>
+	<texto>fico contente</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>59</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>61</numero>
+	<texto>Estão rodando a mesa... quando vão falar na questão do DIREITOS HUMANOS DA FAMÍLIA?</texto>
+	<usuario>Usuario9</usuario>
+</mensagem>
+<mensagem>
+	<numero>62</numero>
+	<texto>Calma Usuario9... começou agora...</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>61</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>63</numero>
+	<texto>Hoje em dia temos inúmeros recursos para aquisição de conhecimento. Não é mais necessário sair de casa para aprender e a família aprende junto com a criança.</texto>
+	<usuario>Usuario11</usuario>
+</mensagem>
+<mensagem>
+	<numero>64</numero>
+	<texto>Verdade Usuario11.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>63</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>65</numero>
+	<texto>E mais Usuario11, a escola é algo super recente na história da humanidade..</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>63</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>66</numero>
+	<texto>Especialmente importada de um sistema TOTALITARISTA.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>65</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>67</numero>
+	<texto>Prova disso é o Ensino à distãncia tão difundido, inclusive pelo próprio governo.</texto>
+	<usuario>Usuario11</usuario>
+</mensagem>
+<mensagem>
+	<numero>68</numero>
+	<texto>sim Usuario9.</texto>
+	<usuario>Usuario11</usuario>
+	<referenciaTreinamento>66</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>69</numero>
+	<texto>pois é</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>67</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>70</numero>
+	<texto>o governo não pediu a opinião pública para obrigar nossas crianças de 4 anos a frequentarem escola...a lei surgiu da noite para o dia... sem debates... porque será?</texto>
+	<usuario>Usuario11</usuario>
+</mensagem>
+<mensagem>
+	<numero>71</numero>
+	<texto>Verdade. Coisa de sistema totalitário.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>70</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>72</numero>
+	<texto>É mesmo Usuario11..Não houve ampla discussão</texto>
+	<usuario>Usuario7</usuario>
+	<referenciaTreinamento>70</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>73</numero>
+	<texto>sei que existem pais que não se importam em deixar seus filhos com terceiros, mesmo que estes tenham 4 anos ou menos....</texto>
+	<usuario>Usuario11</usuario>
+</mensagem>
+<mensagem>
+	<numero>74</numero>
+	<texto>Exato, ausência de liberdade, é inaceitável!</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>73</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>75</numero>
+	<texto>Vocês assisiram "Alerta aos cristãos do Brasil", da dra. Damares. Vídeo no youtube. É assustador.</texto>
+	<usuario>Usuario3</usuario>
+</mensagem>
+<mensagem>
+	<numero>76</numero>
+	<texto>eu assisti, é apavorante</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>75</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>77</numero>
+	<texto>Assustador e a realidade ainda é pior..</texto>
+	<usuario>Usuario7</usuario>
+	<referenciaTreinamento>76</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>78</numero>
+	<texto>prezados, o direito a educar os filhos fora do sistema tradicional não pode ser associado a nenhum tipo de crença, mesmo porque não é.</texto>
+	<usuario>Usuario11</usuario>
+</mensagem>
+<mensagem>
+	<numero>79</numero>
+	<texto>Correto.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>78</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>80</numero>
+	<texto>Concordo com o Usuario11.</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>78</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>80</numero>
+	<texto>verdade Usuario11.</texto>
+	<usuario>Usuario8</usuario>
+	<referenciaTreinamento>78</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>81</numero>
+	<texto>Acho q precisamos cada vez mais focar no direito de educar fora da instituição, pra que possamos unir o maior número de pessoas possível!</texto>
+	<usuario>Usuario12</usuario>
+</mensagem>
+<mensagem>
+	<numero>82</numero>
+	<texto>isso mesmo Usuario12</texto>
+	<usuario>Usuario11</usuario>
+	<referenciaTreinamento>81</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>83</numero>
+	<texto>Certíssimo, Usuario12.</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>81</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>84</numero>
+	<texto>15 MINUTOS É MUITO POUCO PARA FALAR.</texto>
+	<usuario>Usuario8</usuario>
+</mensagem>
+<mensagem>
+	<numero>85</numero>
+	<texto>Verdade. No entanto, é uma grande conquista e oportunidade rara.</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>84</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>86</numero>
+	<texto>Não estamos querendo "brigar" com as escolas. Estamos querendo os nossos direitos como pais.</texto>
+	<usuario>Usuario9</usuario>
+</mensagem>
+<mensagem>
+	<numero>87</numero>
+	<texto> Mas não se trata de uma briga com a escola mesmo não. Mas em algum momento será uma posição.</texto>
+	<usuario>Usuario13</usuario>
+	<referenciaTreinamento>86</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>88</numero>
+	<texto>Como assim Usuario13?</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>87</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>89</numero>
+	<texto>Na medida em que tvermos acesso a esse direito de educar nossos filhos em casa e isso acontecer com sucesso, aponatrá para lucanas no pocesso de educaçao ou modelo de educação nacional, e isso naturalmente será uma opsição ao modelo formal.</texto>
+	<usuario>Usuario13</usuario>
+	<referenciaTreinamento>88</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>90</numero>
+	<texto>Educar crianças não diz respeito a dar emprego para professores. Os nossos filhos não podem ser utilizados com esse argumento.</texto>
+	<usuario>Usuario9</usuario>
+</mensagem>
+<mensagem>
+	<numero>91</numero>
+	<texto>Isso mesmo Usuario9, e os professores contiuarão com seus empregos, pq ese modelo nao será edotado por todos.</texto>
+	<usuario>Usuario13</usuario>
+	<referenciaTreinamento>90</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>92</numero>
+	<texto>Mas imagino que isso fará repensar como fazer a escola, a aperfeiçoará (esperemos...).</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>91</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>93</numero>
+	<texto>Sim, e acontecendo isso trará um benefício também para educação formal.</texto>
+	<usuario>Usuario13</usuario>
+	<referenciaTreinamento>92</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>94</numero>
+	<texto>Isso mesmo Usuario13! Por isso que não podemos "brigar" com a escola. Na verdade temos até como ajudá-las com o nosso conhecimento experiência com educação domiciliar.</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>93</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>95</numero>
+	<texto>Isso mesmo Usuario13! Por isso que não podemos "brigar" com a escola. Na verdade temos até como ajudá-las com o nosso conhecimento experiência com educação domiciliar.</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>93</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>96</numero>
+	<texto>É verdade, no Canadá, como exemplo, os pais que educcam seus filhos em casa são mais envolvidos na comunidade. Cerca de 98% participam ativamente da vida política, comparando com 93% das crianças em escolas privadas e cerca de 60% dos pais com crianças em escolas públicas.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>95</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>97</numero>
+	<texto>93%???? puxa...</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>96</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>98</numero>
+	<texto>o ensino domiciliar nos passa valores e nos encina cidadania, cultura, muito mais q escolas</texto>
+	<usuario>Usuario14</usuario>
+</mensagem>
+<mensagem>
+	<numero>99</numero>
+	<texto>Isso mesmo.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>98</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>100</numero>
+	<texto>E se tem algum conteúdo não dominado pelos pais, isso pode ser resolvido de várias formas.</texto>
+	<usuario>Usuario15</usuario>
+	<referenciaTreinamento>98</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>101</numero>
+	<texto>verdade</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>100</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>102</numero>
+	<texto>É muito complicado falar de eliminação da escola em sociedades em que a desigualdade social e a pobreza é predominante.</texto>
+	<usuario>Usuario16</usuario>
+</mensagem>
+<mensagem>
+	<numero>103</numero>
+	<texto>A questão não é a eliminação das escolas, e sim o direito dos pais de educar em casa para os pais que assim desejam.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>102</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>104</numero>
+	<texto>exato Usuario16</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>102</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>105</numero>
+	<texto>Já conversei com muitos sobre tema e até agora não me deram um argumento plausível que fale contra o ensino omiciliar. Pra mim, é uma alternativa totalmente válida e eficiente para todos que puderem usá-la</texto>
+	<usuario>Usuario3</usuario>
+</mensagem>
+<mensagem>
+	<numero>106</numero>
+	<texto>as pessoas não sabem o beneficio que e´o ensino em casa.</texto>
+	<usuario>Usuario17</usuario>
+	<referenciaTreinamento>105</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>107</numero>
+	<texto>Legal, gostei dessa leitura do que está sendo escrito aqui!</texto>
+	<usuario>Usuario15</usuario>
+</mensagem>
+<mensagem>
+	<numero>108</numero>
+	<texto>INTERESSANTE... não sabia que estávamos com voz tão ativa na discusão.</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>107</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>109</numero>
+	<texto>Legal isso não Usuario3. Fiquei realmente supreso.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>108</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>110</numero>
+	<texto>vamos então aproveitar para contribir mais com a discussão...</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>109</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>111</numero>
+	<texto>Nem eu sabia.</texto>
+	<usuario>Usuario16</usuario>
+	<referenciaTreinamento>109</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>112</numero>
+	<texto>Achei legal isso, mesmo morando longe, senti valorizada a minha cidadania. Obrigado.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>107</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>113</numero>
+	<texto>Não temos condições de enviar todos os comentários à Mesa, mas a participação de vocês é fundamental. Obrigado!</texto>
+	<usuario>Usuario10</usuario>
+	<referenciaTreinamento>112</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>114</numero>
+	<texto>Muito bem dito doutor Fábio! Socialização acontece quando a criança interage até mesmo com os pais</texto>
+	<usuario>Usuario18</usuario>
+</mensagem>
+<mensagem>
+	<numero>115</numero>
+	<texto>A questão da socialização não está diretamente relacionada à escola, mas principalmente à atenção recebida dos pais. Pois crianças seguras não possuem dificuldades em se relacionar, sem contar que o fato de não estar na escola não quer dizer que os pais irão privar seus filhos de se relacionarem.</texto>
+	<usuario>Usuario19</usuario>
+	<referenciaTreinamento>114</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>116</numero>
+	<texto>SOCIALIZAÇÃO ISTO É MITO.</texto>
+	<usuario>Usuario17</usuario>
+	<referenciaTreinamento>115</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>117</numero>
+	<texto>Pessoal, infelzmente algum tipo de avaliação por parte do Estado é indispenável, pois senão muitos pais podem tirar filhos da escola para trabalhar, se prostituir... sei lá. Sou do NORDESTE, sei do que estou falando...</texto>
+	<usuario>Usuario3</usuario>
+</mensagem>
+<mensagem>
+	<numero>118</numero>
+	<texto>nao e na escola que a sociaizao acontee</texto>
+	<usuario>Usuario14</usuario>
+	<referenciaTreinamento>116</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>119</numero>
+	<texto>No Brasil, a socialização não é problema. O brasileiro é culturalmente sociável.</texto>
+	<usuario>Usuario4</usuario>
+	<referenciaTreinamento>118</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>120</numero>
+	<texto>Sim, a sociedade de hoje tem grandes problemas sociais. E esta sociedade de hoje, foi 100% educada pelo sistema escolar que o governo controla. A sociedade de hoje é o produto do sistema de ensino do próprio governo.</texto>
+	<usuario>Usuario9</usuario>
+	<referenciaTreinamento>119</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>121</numero>
+	<texto>se o governo chama ver brigas todos os dias a escola ser humilhado e mautratado de socializaçao , e nos obriga a ver isso nas escolas todos os dias nao sei onde vamos parar</texto>
+	<usuario>Usuario14</usuario>
+	<referenciaTreinamento>120</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>122</numero>
+	<texto>concordo com vc Usuario14</texto>
+	<usuario>Usuario19</usuario>
+	<referenciaTreinamento>121</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>123</numero>
+	<texto>Usuario21, vc é esposa do serginho, que tem uma padaria ? rs</texto>
+	<usuario>Usuario20</usuario>
+</mensagem>
+<mensagem>
+	<numero>124</numero>
+	<texto>pessoal, preciso ir. Um abraço a todos.</texto>
+	<usuario>Usuario4</usuario>
+</mensagem>
+<mensagem>
+	<numero>125</numero>
+	<texto>valeu Usuario4</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>124</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>126</numero>
+	<texto>Que tinha padaria rs</texto>
+	<usuario>Usuario21</usuario>
+	<referenciaTreinamento>123</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>127</numero>
+	<texto>vou sair do bate-papo, mas continuar assistindo</texto>
+	<usuario>Usuario4</usuario>
+</mensagem>
+<mensagem>
+	<numero>128</numero>
+	<texto>Serginho e Sérgio Murilo estão lá</texto>
+	<usuario>Usuario21</usuario>
+	<referenciaTreinamento>123</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>129</numero>
+	<texto>a é, esqueci que tinha a padaria rsrsr, sou daqui de curitiba, do Alan e do jeres rs</texto>
+	<usuario>Usuario20</usuario>
+	<referenciaTreinamento>128</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>130</numero>
+	<texto>É O Usuario20 ESPOSO DA ROSANGELA?</texto>
+	<usuario>Usuario21</usuario>
+	<referenciaTreinamento>129</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>131</numero>
+	<texto>não, o da rosangela é flavio</texto>
+	<usuario>Usuario20</usuario>
+	<referenciaTreinamento>130</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>132</numero>
+	<texto>CONSIDERAÇÕES FINAIS JÁ???????</texto>
+	<usuario>Usuario3</usuario>
+</mensagem>
+<mensagem>
+	<numero>133</numero>
+	<texto>Excelente discussão, parabens a todos!</texto>
+	<usuario>erica</usuario>
+</mensagem>
+<mensagem>
+	<numero>133</numero>
+	<texto>Pessoal, temos um grupo de discussão por e-mail do google.groups chamado "ensino domiciliar no nordeste". Quem quiser partiipar entrem em contato.</texto>
+	<usuario>Usuario3</usuario>
+</mensagem>
+<mensagem>
+	<numero>134</numero>
+	<texto>Quero participar Usuario3. Moro no Ceará.</texto>
+	<usuario>Usuario16</usuario>
+	<referenciaTreinamento>133</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>135</numero>
+	<texto>Procuro no site do google groups "ensino domiciiar no nordeste" e pede para participar.</texto>
+	<usuario>Usuario3</usuario>
+	<referenciaTreinamento>134</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>136</numero>
+	<texto>Boa noite a todos!</texto>
+	<usuario>Usuario10</usuario>
+</mensagem>
+<mensagem>
+	<numero>137</numero>
+	<texto>Abraço a todos. Deus os abençoe ricamente.</texto>
+	<usuario>Usuario3</usuario>
+</mensagem>
+<mensagem>
+	<numero>138</numero>
+	<texto>Usuario3 não achei o grupo. Pode postar o link?</texto>
+	<usuario>Usuario16</usuario>
+	<referenciaTreinamento>135</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>139</numero>
+	<texto>desculpe, que grupo?</texto>
+	<usuario>Usuario21</usuario>
+	<referenciaTreinamento>138</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>139</numero>
+	<texto>Onde encontramos os videos gravados da audiencia?</texto>
+	<usuario>Usuario7</usuario>
+</mensagem>
+<mensagem>
+	<numero>140</numero>
+	<texto>O vídeo será disponibilizado aqui no e-Democracia e, também, no portal da Câmara. Agradecemos a participação e informamos que a sala será fechada dentro de instantes.</texto>
+	<usuario>Usuario10</usuario>
+	<referenciaTreinamento>139</referenciaTreinamento>
+</mensagem>
+</discussao>

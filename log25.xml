@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>Usuario2</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>oie</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>mandou email com seu login? rs</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>sim</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>e ele respondeu ?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>ainda nao. Se quiser pode mandar email tb</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>blza</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+</discussao>

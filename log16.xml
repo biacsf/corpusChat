@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>Vai pra ksa!</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>ja vou, calma</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+</discussao>

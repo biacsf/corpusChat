@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>oi Usuario2</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>se quiser pode ir passando outra tarefa
+			pq eu acho q to acabando essa</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>blza</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>pessoal, qr dizer q vms comemorar hj?</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>pois eh.. falei com o thiago pra te chamar.</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto> ele flw aki pra gente ^^
+			espero q isso seja bom msm hehehehe</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>É sim, muito bom</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>poxa, vc ta me deixando curiosa hehehe</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>eh soh o que o rogerio te falou msm
+			disseram que estamos indo bem
+			eu falei com ele do chop pq ele disse que tinha uma boa noticia pra mim
+			ae eu disse que o dia estava bom.. pq a reuniao foi boa e ele
+			terminou o relatorio
+			rsrsrsrs</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>hehehe, ainda bem né</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>claro, sempre bom</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>bjos, até segunda</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>bjooos</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+</discussao>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>oieeeee</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>td bom?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>oie</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>td e vc</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>td bom</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>estao na dabm?</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>não, no Serpro</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>:(</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>vc queria algo?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>comer</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>poxa, acho q vou la fora</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>faz tempo que nao comemos juntas...</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>é verdade. Aqui hoje também é ruim, feijoada</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>12</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>temos que marcar outro encontro que nem aquele do iguatemi</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto>vamos marcar sim e vm no cinema tb. Vo indo almoçar, bjoss t++</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>14</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto>ta bom, bjoo</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>15</referenciaTreinamento>
+	</mensagem>
+</discussao>

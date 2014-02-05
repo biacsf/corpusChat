@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>vc mandou akele email soh p mim e p alan?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>sim</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>vou mandar p td mundo q faz a materia</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>aonde c vai achar os emails?
+			eh pra quinta msm?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto> vou mandar p td mundo da nossa turma</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>ok</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>estou boiando</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>kkkk.
+			jboss eu uso no estagio tb
+			mais o rails eu tb nao conheco po
+			me passa e gtalk da carol?
+			tb n tenho o msn dela</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>...@gmail.com</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>c vai na aula 12h30 de quimica ?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>ih ...
+			tinha esquecido q era esse horasrio
+			mais eu vou sim. vc vai?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>aham</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+</discussao>

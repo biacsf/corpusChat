@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>amigaa</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>oieee</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>ola meninas</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>conseguiram fzr o exercicio?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>q exercicio?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>xiii esqueci</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>o 2</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>eu fiz sim, mandei p ele jah</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>po vcs entenderam oq sao essas 2 palavras? oq eh pra fzr c isso? e
+			ql a diferenca qdo elas mudam de ordem?</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto> eu e a carol fizemos uma comparacao entre as 2 palavras meio q
+			fizemos o q uma influenciava na outra
+			e qd mudava de ordem viamos o q
+			a outra influenciava em uma rs
+			soh q tem umas q praticamente ficam
+			iguais ou ficam iguai
+			eh embromation
+			ah e qd eu enviei o segundo, acho
+			q substituiu o primeiro
+			entao eu salvei td num arquivo soh e mandei os
+			2 juntos</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>entendi, vo fzr a 3</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>a 3 tinham umas 2 perguntas q eu naum fazia ideia
+			ai preferi
+			fazer a 2 q dava p enrolar</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>hehehehe</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>backchannel</tipo>
+	</mensagem>
+</discussao>

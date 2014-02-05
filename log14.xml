@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>Usuario2</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>oi</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>alguem mecheu hoje no projeto?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>no projeto nao.. mexeu no banco</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>em alguma coisa no core?
+			ta dando erro no controle de acesso aqui</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>o vinicios mexeu na classe que vc ta mexendo no core.
+			mas foi ontem. ele soh trocou um atributo que estava com '_' no nome</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>huun</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>backchannel</tipo>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>se nao me engano data_inicio
+			ficou dataInicio</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>nao é isso que deu erro aqui nao</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>eh.. entao deve ser pq o esquema do banco foi alterado
+			matheus jogou o banco novo hj
+			tenta identificar ae e me fala
+			se nao conseguir, me fala tb
+			rsrs</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>consegui
+			ele nao estava atualizando
+			ai eu abri o projeto dinovo
+			muito estranho isso</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>eh.. mas que bom que deu certo</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>É
+			se eu nao tivesse dado comit em tudo ontem eu nao ia poder dar mais
+			hehehe</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>12</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>ufa
+			ainda bem
+			:)</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+</discussao>

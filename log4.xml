@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto> Usuario2, essa parada q o rogerio peddiu pra fzr,
+			qdo vc roda a parada normalmente pelo eclipse ele te dah uma tela
+			escrita run type pra escolher??</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>não...ele imprime o q vc coloca pra imprimir</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>eu criei 1 novo projeto
+			ai eu ponho run as java apication
+			e n funfa</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+
+	<mensagem>
+		<numero>4</numero>
+		<texto>vc tem criar uma classe Main...
+			vc criou ???</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+		<tipo>pergunta</tipo>
+	</mensagem>
+
+	<mensagem>
+		<numero>5</numero>
+		<texto>jah tm no probgrama q eu vi</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+
+	<mensagem>
+		<numero>6</numero>
+		<texto>eu não usei a main do programa. Usei o metodo show que tem na
+			classe. Ai criei uma classe main assim:</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+
+	<mensagem>
+		<numero>7</numero>
+		<texto>o que voce colocou na main?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+
+	<mensagem>
+		<numero>8</numero>
+		<texto> Extenso teste = new Extenso (132.33) *answer.3
+			teste.show();</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+
+
+</discussao>

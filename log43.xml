@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Médicos estrangeiros no brasil</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>Bom Dia!</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>Bom Dia</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>Bom Dia</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>Quero saber o que esse ministro demagogo tem a dizer..</texto>
+		<usuario>Usuario4</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>Bom dia! Sejam todos(as) bem vindos(as).</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>Há um link para os slides da apresentação do ministro?</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>No momento os slides não estão disponíveis.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>O Ministro Alexandre Padilha afirma que faltam médicos no Brasil e que mais de 1.900 municípios têm menos de 1 médico para 3 mil habitantes na atenção básica.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<usuario>Usuario6</usuario>
+		<texto>Ele não fala que na cidade de São Paulo tem 4,33 médicos por 1.000 habitantes e a saúde é um caos.</texto>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>Mas qual o valor médio dos salários nesses empregos criados?</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>Mas qual o valor médio dos salários nesses empregos criados?</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>As perguntas apresentadas nesse ambiente de bate-papo serão encaminhadas à Mesa.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>Não estou tendo acesso ao video. Vcs estão?</texto>
+		<usuario>Usuario8</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>14</numero>
+		<texto>O vídeo somente pode ser acessado pelo Internet Explorer.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>15</numero>
+		<texto>Por que não se cria plano de carreira para os médicos? Isso sim seria uma medida coerente, e iria atrair muitos médicos para o interior. Sou estudante de medicina da UFPA.</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>16</numero>
+		<texto>	Provab é útil, mas não enfrenta a carência de médicos no SUS de modo mais permanente.E também depende de estrutura local.</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>17</numero>
+		<texto>Temso que ter PROVAB + Vagas +residência + mais médicos estrangeiros. Portugal e outros países fazem isso de forma intermitente e é BOM!</texto>
+		<usuario>Usuario7</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>18</numero>
+		<texto>Se Portugal "importa" médicos, como vai "exportar" para o Brasil?</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>17</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>19</numero>
+		<texto>Por que o ministerio não cria a carreira de estado para médicos e faz concurso pra eles? Primeiro temos q valorizar nossos profissionais</texto>
+		<usuario>Usuario8</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>20</numero>
+		<texto>A ampliação de vagas de residência médica tem de ser movida pela necessidade da população, afirma o Ministro Padilha.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>19</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>21</numero>
+		<texto>Sou médica e nossos alunos e profissionais só querem atender em hospitais, desvalorizam a atenção básica e as pessoas estão lá, nas periferias largadas</texto>
+		<usuario>Usuario7</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>22</numero>
+		<texto>Temos que trazer médicos de fora, aumentar o PROVAB, enfim fazer todas as estratégias para as pessoas serem atendidas nos postos de saúde</texto>
+		<usuario>Usuario7</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>23</numero>
+		<texto>Ministro, se a Inglaterra tem 35% de médicos estrangeiros e os EUA tem 25%, quantos desses médicos estrangeiros NÃO enfrentaram um processo de revalidação RIGOROSÍSSIMO para garantir a assistência a saúde por profissionais bem formados?</texto>
+		<usuario>Usuario4</usuario>
+		<referenciaTreinamento>20</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>24</numero>
+		<texto>Por que o ministerio não cria a carreira de estado para médicos e faz concurso pra eles?</texto>
+		<usuario>Usuario8</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>25</numero>
+		<texto>As pessoasprecisam ser atendidas HOJE, não no dia do MUNDO MÀGICO que o CFM quer, com tudo ajeitado, com todos os exames, estrutura, salários fantasiosos... as pessoas precisam ser atendidas: Médicos Estrangeiros e + Provab Já!!! CFM desça para o mundo REAL!!</texto>
+		<usuario>Usuario7</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>26</numero>
+		<texto>Usuario7, minha querida!! Adianta chamar encanador pra resolver o problema de água no NORDESTE BRASILEIRO???</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>25</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>27</numero>
+		<texto>Carreira de estado não garante nada Usuario8...Veja quantos municípios estão sem Juízes, que tem carreira de estado...eles só querem trabalhar na cidade!!! Medicos estrangeiros e + PROVAB já</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>24</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>28</numero>
+		<texto>FAÇA CONCURSOS</texto>		
+		<usuario>Usuario8</usuario>
+		<referenciaTreinamento>27</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>29</numero>
+		<texto>Então Usuario9, a sua solução é que morram??? Vc já houviu falar em atenção primária a saúde? Promoção à saúde? várias estratégias podem evitar doenças com tecnologias leves.</texto>		
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>26</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>30</numero>
+		<texto>num adianta só falar que quer fazer carreira de estado, tem que fazer de verdade</texto>
+		<usuario>Usuario8</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>31</numero>
+		<texto>temos que ter sim carreira de estado sim!</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>32</numero>
+		<texto>O ministério da saúde apresentou proposta à presidente Dilma, para que o nível federal participe do financiameno (manutenção) de carreiras da saude no SUS?</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>33</numero>
+		<texto>absurdo vc fala isso Usuario7</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>29</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>34</numero>
+		<texto>Usuario7, você tá de brincadeira né? As cidades que estão SEM juízes não é por FALTA de pessoas dispostas a irem.. É porque em todo concurso pra juiz é a maioria das vagas não são preenchidos porque os candidatos não atingem a pontuação mínima.. Se pra juizes eles precisam serem aprovados num concurso rigoroso, por que médicos, que lida diretamente com a vida, podemos trazer médicos sem nenhuma comprovação de suas habilidades?</texto>
+		<usuario>Usuario4</usuario>
+		<referenciaTreinamento>29</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>35</numero>
+		<texto>Usuario7, duvido muito que você seja médica. No mínimo é uma secretariazinha de saúde do interior..</texto>
+		<usuario>Usuario4</usuario>
+		<referenciaTreinamento>29</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>36</numero>
+		<texto>sim minha querida , várias estratégias, por exemplo : SANEAMENTO BÁSICO!!! Já procurou saber quanto dele tem em sua cidade. Nosso ministro é SANITARISTA e (infecto??) mas esqueceu dos detalhes ...</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>29</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>37</numero>
+		<texto>Usuario4 eu tenho residência, mestrado e doutorado pela UNIFESP e vc tem educação? parece que não, pois o preconceito com as pessoas do interior é grande em vc</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>35</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>38</numero>
+		<texto>eu sou estudante de medicina da ufpa, eu quero trabalhar no interior sim, pois sou do interior do PA, mas só irei se tiver condições de trabalho digna, os nossos profissionais não tem férias, não décimo terceiro, as mulheres não tem licença maternidade, isso é um absurdo !!</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>39</numero>
+		<texto>Se fosse seu familiar, gostaria que fosse atendido de qualquer jeito? Um SUS pobre ra pobres?</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>37</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>40</numero>
+		<texto>Usuario7 vejo que e vc que tá sendo mal educada !</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>37</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>41</numero>
+		<texto>Então prá vcs as pessoas só tem direito a atendimento qdo tudo estiver resolvido no mundo???</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>40</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>42</numero>
+		<texto>Usuario7 ,suas colocações não tem coerência ..</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>41</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>43</numero>
+		<texto>minha querida Usuario7, chega de MAQUIAGEM!!! nosso dinheiro esta indo pelo RALO com essas medidas...</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>41</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>44</numero>
+		<texto>Usuario3, meu pai fez cirurgia cardíaca no SUS na Beneficência portuguesa. Minha cunhada faz quimioterapia no Hospital público e meus filhos são vacinados em postos de saúde e os seus?</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>39</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>45</numero>
+		<texto>quer fazer algo, faça direito!</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>44</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>46</numero>
+		<texto>Usuario7 já morrem muitos por falta de leitos , macas , remédios e até fio de sutura . Não precisa ir para Amazônia , até aqui na capital . A necessidade da população é por mais profissionais médicos com revalidação e estrutura para tal . Não se pode transformar necessidade do profissional em discurso político eleitoreiro</texto>
+		<usuario>Usuario10</usuario>
+		<referenciaTreinamento>44</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>47</numero>
+		<texto>verdade Usuario10 ...</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>46</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>48</numero>
+		<texto>trabalhei do INTERIOR de SANTA CATARINA!!! Vi gente morrendo pq o HOSPITAL não tem recurso!! Tu deves achar DIGNO pra um médico VER e não poder RESOLVER!!</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>44</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>49</numero>
+		<texto>Usuario10, não sei de que capital vc está falando, mas vc tem razão...devemos lutar por melhores condições de atendimento, só que os médicos estrangeiros virão para a atenção básica/primária...o que devemos temer?</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>46</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>50</numero>
+		<texto>As pessoas têm direito constitucional a um sistema em que haja o esforço para uma saúde integral. Não apenas a medidas fragmentadas e insuficientes (há décadas)</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>49</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>51</numero>
+		<texto>Usuario7 não é copenhagen , por ter certeza</texto>
+		<usuario>Usuario10</usuario>
+		<referenciaTreinamento>49</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>52</numero>
+		<texto>ninguém teme nada, que venha, desde de passe pela prova</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>49</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>53</numero>
+		<texto>que venha mas faça o REVALIDA ! É SIMPLES, ninguém é contra a vinda deles, mas que faça o revalida</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>49</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>54</numero>
+		<texto>ninguém esta TEMENDO nada!! o receio é isso seja a REGRA e não exceção!!</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>49</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>55</numero>
+		<texto>Faça prova como todo mundo , tem muito médico brasileiro que não consegue entrar na França , Alemanha e outros países por terem seriedade no processo de revalidação</texto>
+		<usuario>Usuario10</usuario>
+		<referenciaTreinamento>49</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>56</numero>
+		<texto>Precisamos de MUITOS médicos na atenção primária, vários estudos comprovam que 80% dos probçlemas podem ser resovidos com atenção básica à saúde e os estrangeiros virão para isso. Luto tb que tenha MAIS vagas no PROVAB, tenho alunos que estão no PROVAB e estão gostando.</texto>
+		<usuario>Usuario7</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>57</numero>
+		<texto>quer exemplo mais TRISTE: alunos da medicina UFSCAR querem fechar o curso por FALTA de RECURSOS!!</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>58</numero>
+		<texto>Usuario7, vc acha que vindo médico para interior a saúde vai melhorar ?</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>56</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>59</numero>
+		<texto>não sou McGyver nem Dr HOUSE, nossa realidade exige condições MÏNIMAS</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>60</numero>
+		<texto>A vida e a falta de saúde (de médicos) nos municípios está acontecendo agora e em todos os outros países que utilizaram a estatégia de trazerem médicos de fora a saúde na atenção básica mélhorou...</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>58</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>61</numero>
+		<texto>Cezar disse tudo ..</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>59</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>62</numero>
+		<texto>nosso SAMU em algumas regiões de SC é completamente DESPREPARADO!! Cadê o compromisso!!</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>63</numero>
+		<texto>que países ?</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>60</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>64</numero>
+		<texto>a Usuario7 deve ser politica, so pode ser do governo</texto>
+		<usuario>Usuario8</usuario>
+		<referenciaTreinamento>60</referenciaTreinamento>
+	</mensagem>
+					<mensagem>
+		<numero>65</numero>
+		<texto>ela é... ta na cara</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>64</referenciaTreinamento>
+	</mensagem>
+						<mensagem>
+		<numero>66</numero>
+		<texto>só pde!! ela faz como o PADILHA, só fala e não escuta</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>64</referenciaTreinamento>
+	</mensagem>
+						<mensagem>
+		<numero>67</numero>
+		<texto>que paises Usuario7?</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>60</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>68</numero>
+		<texto>Pessoal, chega de sermos testemunhas oculares do que ocorre na saúde , chega de politicagem , de falta de sensibilidade com o nosso povo. Devemos recuperar nosso protagonismo continuando denúncias dos absurdos ocorridos com a nossa população . Quem ama o que faz sabe o que estou dizendo</texto>
+		<usuario>Usuario10</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>69</numero>
+		<texto>Usuario9, já trabalhei em Tefé-Am, na Reserva Mamirauá e só com atenção básica conmseguimos baixar de 84 para 15 a mortalidade infantil...não devemos temer ..temos que pensar nas pessoas. Hoje trabalho em um grande hospital que está recèm instalado aqui no GDF e não sei pq os colegas médicos temem concorrência para áreas que eles não QUEREM ir</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>66</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>70</numero>
+		<texto>Ninguém teme isso, já foi dito, que venha os estrangeiro, mas desde de que faça a prova do revalida</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>69</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>71</numero>
+		<texto>Usuario7 quem lhe garantr que estes médicos ficarão na atençao primária de saúde? Esta vinda de médicos está sendo totalmente sem planejamento, estes mesmos irão migrar para os grandes centros e o problema nao se resolverá.</texto>
+		<usuario>Usuario11</usuario>
+		<referenciaTreinamento>69</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>72</numero>
+		<texto>Volto a dizer: independente de politicagem, etc...que devemos mesmo nos indignarmos...pq temer a vinda de colegas para postos de trabalhos que não q</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>71</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>73</numero>
+		<texto>Usuario7, o que você relatou são direitos conquistados e oferecidos pelo SUS e que devem estar dsponíveis todos o basileiros. Sem divisão de classes</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>72</referenciaTreinamento>
+	</mensagem>
+					<mensagem>
+		<numero>73</numero>
+		<texto>Usuario7... eu acredito em vc. Mas basta uma situação "não contornável, com gravidade suficiente para "aleijar" que coloco minha carreira em risco e vc sabe que isso ocorre.</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>72</referenciaTreinamento>
+	</mensagem>
+						<mensagem>
+		<numero>74</numero>
+		<texto>Basta que revalidem seus diplomas conforme manda a constituição . Ainda não viramos Venezuela ...</texto>
+		<usuario>Usuario10</usuario>
+		<referenciaTreinamento>72</referenciaTreinamento>
+	</mensagem>
+						<mensagem>
+		<numero>75</numero>
+		<texto>Se fizerem o REVALIDA acho que não ficarão na atenção básica, por isso nos outros países os contratos são especiais para que trabalhem SÒ na Atenção Primária</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>74</referenciaTreinamento>
+	</mensagem>
+							<mensagem>
+		<numero>76</numero>
+		<texto>se CUBA tem resolvido o problema, provavelmente esteja relacionado ao ALTO GRAU de informação da população - eles tem médico saindo pelo ladrão.</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+								<mensagem>
+		<numero>77</numero>
+		<texto>Carreira de estado com concurso, faça isso antes de importar profissionais, num adianta so apoiar a ideia, tem que realizar!!!</texto>
+		<usuario>Usuario8</usuario>
+	</mensagem>
+									<mensagem>
+		<numero>78</numero>
+		<texto>O Ministro Padilha concluiu sua exposição. A partir de agora a palavra será concedida aos parlamentares para perguntas e considerações.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>79</numero>
+		<texto>Enfim meus caros vou trabalhar, mas antes deixo minha mensagem: não devemos temer os estrangeiros , devemos e dar acesso aos mais desfavorecidos a médicos: Estrangeiros + PROVAB!!! bom dia a todos</texto>
+		<usuario>Usuario7</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>80</numero>
+		<texto>Vários países aceitam sim médicos estrangeiros. No entanto, após comprovação de qualificação. EUA faz prova em 3 etapas (são 3 provas). Canadá tem sua regulamentação de validação gerida por cada região. Quanto ao exemplo que o minitro deu, de a Inglaterra aceitar Espanha e Portugal. Bem, na europa os curriculos são semelhantes, permitindo maior mobilidade. Não é tão simples e sem controle como exposto</texto>
+		<usuario>Usuario12</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>81</numero>
+		<texto>Ao final da reunião os slides da apresentação do Ministro estarão disponíveis no Fórum e-Democracia.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>82</numero>
+		<texto>Ao final da reunião os slides da apresentação do Ministro estarão disponíveis no Fórum e-Democracia.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>83</numero>
+		<texto>eu canso de orientar - diariamente - na NÃO necessiade de se usar Antibiótico - eu informo e mostro ao paciente que isso é possível. que com água e sal se resolve uma odinofagia. mas podeira gastar 1 minuto para prescrevê-lo e não explicar nada (pois gasto 5 ou 10 para falar)</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>84</numero>
+		<texto>Usuario12, ante de sair leia sobre os programa de ida de estrangeiros para atenção básica. Fizemos um estudo que publicaremos em breve com a USP...e para Atenção básica È diferente...justamente para garantir a permanência</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>80</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>85</numero>
+		<texto>Usuario7, bom dia, precsamos pensar além das medidas imediatistas, se quisermos resolver de modo mais duradouro</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>84</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>86</numero>
+		<texto>100% concordo Usuario3. Não podemos perpetuar essa falsa forma de fazer saúde pública, as custas de vidas.</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>85</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>87</numero>
+		<texto>Deputado Henrique Fontana está com a palavra.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>88</numero>
+		<texto>E os internautas?</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>87</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>89</numero>
+		<texto>Pergunta para o Ministro: teremos mais vagas para o PROVAB? teremos entrada no segundo semestre pois vários alunos concluem o curso em julho?</texto>
+		<usuario>Usuario7</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>90</numero>
+		<texto>eu realmente gostaria de transferir a"oportuidade"de trabalhar no SUS para cada Deputado, técnico ou mesmo do ministro , sentir na pele tudo que vemos diariamente. É lamentável não poder lhes fazer entender. Nas visitas realizadas pela gestão se mascara tudo que deveria ser exposto.</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>91</numero>
+		<texto>Os internautas não poderão usar da palavra diretamente. As perguntas podem ser apresentadas neste ambiente para serem repassadas à Mesa.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>88</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>92</numero>
+		<texto>Concordo que a população deva ser ouvida, mas ainda não aprendi a fazer "benzimento".</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>93</numero>
+		<texto>Usuario7, voce é médica?</texto>
+		<usuario>Usuario13</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>94</numero>
+		<texto>Vou ser curto e franco, médico que apoia esta ídeia deveria perder seu CRM por ir contra ideaia da classe. Até o mais ignorante dos animais que tivesse entendendimento da nossa língua entenderia que este projeto é mais uma forma de sucatear a saúde pùblica favorecendo apenas ao governo Dilma e aos prefeitos de cidades praticamente esquecidas pelo nosso Brasil. Parabéns Dilma por me fazer sentir como um palhaço, e a quem insiste em defender a causa de trazer esses médicos de segunda categoria, dispenso meus comentários.</texto>
+		<usuario>Usuario11</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>95</numero>
+		<texto>Sim. Com residência, mestrado e doutorado pela UNIFESP</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>93</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>96</numero>
+		<texto>Sem mêdo de estrageiros e que acredita na força da Atenção Primária a Saúde</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>93</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>97</numero>
+		<texto>O Deputado Mandetta comenta que houve equívocos na fala do Ministro.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>98</numero>
+		<texto>Usuario7, onde está disponível o programa de ida de estrangeiros para atenção básica</texto>
+		<usuario>Usuario12</usuario>
+		<referenciaTreinamento>96</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>99</numero>
+		<texto>Usuario7, o gargalo deve apertar. Antigamente tínhamos 33% de cobertura (vagas em residência) para recém-formados. Vc pode oferecer 500mil vagas de PROVAB e minguar esta iniciativa logo, logo... então comecem a pensar como tapar o próximo buraco.. que não deve demorar a aparecer.. fui</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>96</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>100</numero>
+		<texto>Acho q, pelo que o Ministro está falando que ainda não foi lançado Usuario12, só foi lançado o PROVAB.</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>98</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>101</numero>
+		<texto>só para constar: Eu acredito na atenção primária. Mas não acredito nos gestores. Depois de mais de 6 meses que iniciei com projeto de Atividade Física para a população que atendia (excercendo ILEGALMENTE o ato de dar atividade física, pois sou médico) escutei da Secretaria Municipal de Saúde que não haveria mais investimento neste setor...</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>102</numero>
+		<texto>O Dep. Madetta comentou o posicionamento do internauta Usuario6, concordando que o número de médicos em um estado não é garantia de qualidade dos serviços médicos, lembrando o caso do SP - estado com maior número de médicos per capita e com a pior avaliação médica pelos pacientes.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>70</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>103</numero>
+		<texto>Concordo Céza, a estratégia devem ser várias. Baixei agora a apresentação do MINistro e lí que vão aumentar vagas de residência e vagas em cursos de medicina. Mas, não podemos deixar as pessoas que já estão no município esperando o mundo ficar totalmente AZUL com o CFM quer para oferecer médicos para atenção primária, locus que pode resolver 80% dos problemas.</texto>
+		<usuario>Usuario7</usuario>
+		<referenciaTreinamento>101</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>104</numero>
+		<texto>enquanto não houver iniciativa REAL do governo, particularmente não pretendo ser "ASSINDOR de ATESTADO de öbito"</texto>
+		<usuario>Usuario9</usuario>
+		<referenciaTreinamento>103</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>105</numero>
+		<texto>Vão aumentar as vagas de faculdades de medicina sem melhorar a estrutura (pelo menos nas instituições federais)</texto>
+		<usuario>Usuario12</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>106</numero>
+		<texto>Com a palavra agora, Dep. Izalci</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>107</numero>
+		<texto>UFSCar: após greve de 82 dias, alunos de medicina pedem fim do curso</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>108</numero>
+		<texto>Os estudantes alegam que após 82 dias de greve nada foi feito para melhorar a estrutura do curso.</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>109</numero>
+		<texto> "Os alunos pedem que o curso seja fechado para evitar que outros estudantes entrem numa estrutura que não é compatível com o ensino da medicina", diz o documento, assinado por alunos do primeiro ao quarto ano.</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>110</numero>
+		<texto>Sou estudante de medicina. Nós ficamos espremidos nos ambulatórios e vão aumentar ainda mais as vagas.</texto>
+		<usuario>Usuario12</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>111</numero>
+		<texto>universidade PÚBLICA para todos...</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>112</numero>
+		<texto>de 2003 a 2011 surgiram 147 mil novos postos de trabalho medicos, contra 93 mil medicos formados</texto>
+		<usuario>Usuario13</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>113</numero>
+		<texto>medicos estrangeiros sao bem vindos, so vao trabalhar onde os brasileiros se recusarem</texto>
+		<usuario>Usuario13</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>114</numero>
+		<texto>Por que gerar uma sub classe de médicos? Atração de médicos através de plano de carreira e estrutura</texto>
+		<usuario>Usuario12</usuario>
+		<referenciaTreinamento>113</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>115</numero>
+		<texto>concordo, plano de cargos é importante, mas isto nao muda a questao do pequeno numero de medicos, plano e mais medicos, este eh o caminho</texto>
+		<usuario>Usuario13</usuario>
+		<referenciaTreinamento>114</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>116</numero>
+		<texto>pra quem perdeu esta: o excelentíssimo senhor Ex-presidente Usuario17 Inácio, em cadeia nacional de rádio -Voz do Brasil - já defendeu a criação de uma formação TÉCNICA para médico - PASMEM.</texto>
+		<usuario>Usuario9</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>117</numero>
+		<texto>Deputado Ronaldo Caiada, pergunta: "como é possível um médico generalista sobreviver recebendo do SUS."</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>118</numero>
+		<texto>Caiado afirma que "a medicina não pode ser utilizada como escambo".</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>119</numero>
+		<texto>Quando a mesa vai considerar as perguntas dos internautas?</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>120</numero>
+		<texto>Usuario3, as perguntas dos internautas já foram repassadas à Mesa. Em princípio, o Presidente seguirá a lista de inscrição parlamentar. São mais de 40 deputados inscritos para usar da palavra.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>119</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>121</numero>
+		<texto>MINISTRO MENTIROSO</texto>
+		<usuario>Usuario14</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>122</numero>
+		<texto>Carreira de estado com concurso, faça isso antes de importar profissionais, num adianta so apoiar a ideia, tem que realizar!!!!</texto>
+		<usuario>Usuario8</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>123</numero>
+		<texto>Carreira de Estado para todos os profissionais da saúde</texto>
+		<usuario>Usuario14</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>124</numero>
+		<texto>Ministro Alexandre Padilha recebe as perguntas dos internautas e está com a palavra para apresentar considerações</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>119</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>125</numero>
+		<texto>obrigado</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>124</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>126</numero>
+		<texto>Ministro Alexandre Padilha reitera a importância de carreiras de bases locais, regionais e federais.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>127</numero>
+		<texto>Chega de Calote, carreira de estado regional é enrolação, quer mudar a saúde do Brasil Ministro. Então faça carreira de Estado Federal para todos os médicos brasileiros.</texto>
+		<usuario>Usuario14</usuario>
+		<referenciaTreinamento>126</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>128</numero>
+		<texto>carreira de estado e federal, porque isso não sai do papel?</texto>
+		<usuario>Usuario8</usuario>
+		<referenciaTreinamento>126</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>129</numero>
+		<texto>Ministro reafirma que faltam médicos no Brasil.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>130</numero>
+		<texto>Falta sim! investimento em infraestrutura, e trabalho digno para os profissionais da área da saúde, isso sim falta Ministro... Tem estado no Brasil que mais de 80 porcento dos médicos trabalham no interior, mas nesses interiores tem infraestrutura, e condições de trabalho digno..</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>129</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>131</numero>
+		<texto>precisa de estratégias diferentes para realidades diferentes e não a contraposição de estratégias, comenta Ministro Alexandre Padilha.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>130</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>132</numero>
+		<texto>Qual a razão de tantos médicos cubanos querem sair do país e virem para ca sem terem sua capacida testada?</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>133</numero>
+		<texto>Estudantes de medicina tem vergonha do ministro !</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>134</numero>
+		<texto>Ele não sai desse discurso de falta de médico! Claro, é mais fácil pra ele assim justificar as medidas imediatas absurdas de importação! Não importe ministro! rediatribua com adequadas condições de trabalho os médicos que estão no sul e sudeste e refaça as contas pra ver como não faltam médicos!</texto>
+		<usuario>Usuario16</usuario>
+		<referenciaTreinamento>129</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>135</numero>
+		<texto>Desviando do assunto!</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>136</numero>
+		<texto>carreira de estado e federal, porque isso não sai do papel??</texto>
+		<usuario>Usuario8</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>137</numero>
+		<texto>Ministro politiqueiro !</texto>
+		<usuario>marcus</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>138</numero>
+		<texto>Diga o salário e a segurança do emprego qe foi oferecida.Contraos temporários de trabalho?</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>139</numero>
+		<texto>Ministro, quem venha os estrangeiro, mas que façam o REVALIDA, qual o problema de fazer o revalida ? sou estudante de medicina, fiz prova para entrar na faculdade, faço prova todo tempo..</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>140</numero>
+		<texto>Ministro comenta sobre indagação referente a interesse de médico que atua na Europa querer vir para o Brasil.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+				<mensagem>
+		<numero>141</numero>
+		<texto>Auto publicidade vale? É candidato ao governo de SP e acha que com isso ganha espaço na mida. Desavergnhado e mentiroso!</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>140</referenciaTreinamento>
+	</mensagem>
+				<mensagem>
+		<numero>142</numero>
+		<texto>Revalida! Qual o problema em avaliar com criterio os medicos estrangeiros? Nenhum médico brasileiro tem passe livre ou facilitado na Europa!</texto>
+		<usuario>Usuario16</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>143</numero>
+		<texto>Ministro, explique porque para virem para o Brasil os médicos cubanos devem ter dois anos de filiação partidária!</texto>
+		<usuario>Usuario17</usuario>
+		<referenciaTreinamento>140</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>144</numero>
+		<texto>Ministro fala sobre sua experiência de trocar o cargo de médico assistente da USP para ir para o interior do Pará.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>145</numero>
+		<texto>O ASSUNTO É ESSE: REVALIDA! PROVA CAPACIDADE! CUANO FALA A PALAVRA DO POVO?</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>146</numero>
+		<texto>imagine os estrangeiros ?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>147</numero>
+		<texto>mentiroso</texto>
+		<usuario>Usuario18</usuario>
+		<referenciaTreinamento>144</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>148</numero>
+		<texto>é uma vergonha para a classe !!</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>144</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>149</numero>
+		<texto>A língua não pode ser considerado um obstáculo intransponível para a vinda de médicos estrangeiros, argumenta Ministro.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>150</numero>
+		<texto>Necessitam comprovar sua capacidade médica. Anos atras cubanos foram retirados da prisão e enviados ao EU como refugiados. Agora pegam o ebotalhoda medicina cubana, se é que são médicos, e querem trazer para cás. Qual o problem de passar pelo REVALIDA?</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>149</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>151</numero>
+		<texto>Ministro comenta sobre a referência a Portugal formulada por internauta.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>17</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>152</numero>
+		<texto>Porque não investem em estrutura?</texto>
+		<usuario>Usuario19</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>153</numero>
+		<texto>Ele ainda faz Medicina?</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>154</numero>
+		<texto>Não é razoável basear política pública para regiões carentes em crenças de que médicos estrangeiros altruístas aceitarão o desafio. Por que não oferecer condições aos médicos brasileiros? Ao que parece, buscam-se as soluções mais baratas.</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>155</numero>
+		<texto>Presidente Décio Lima anunciou que passará ao segundo bloco de perguntas a serem formuladas pelos parlamentares inscritos.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>156</numero>
+		<texto>Ministro ignorou questões de internautas</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>157</numero>
+		<texto>O Ministro falou muiyto. mas ainda faz medicina. Precisamos dele trabalhando.</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>158</numero>
+		<texto>Ato Médico, porque o governo não tem interesse em aprovar, se várias outras carreiras já foram normatizadas?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>159</numero>
+		<texto>Perfeito Usuario6 A Medicina nem regulamentda esta? Olhe sóo risco ao trazer q um para á sem coprovação da qualidade... o Estado ja comprovou de muito que nãoé confiavel.</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>158</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>160</numero>
+		<texto>Os senhores congressistas gostariam de ser atendidos por um médico estrangeiro que mal fala português e que não passou na prova do REVALIDA ?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>161</numero>
+		<texto>Existe algum viés político-ideológico em trazer médicos de Cuba ?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>162</numero>
+		<texto>Porque o governo não exige que as prefeituras invistam na saúde dos municípios?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>163</numero>
+		<texto>Se o governo diz que repassa as verbas, e as prefeituras reiteradamente não investem, porque o governo Federal não intervém ?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>164</numero>
+		<texto>Só oferecem contratos temporáris de trabalho; um, dois, máximo de tres anos e í, tchau. Temos de ir embora com uma mão na frente e outa atras. É isso que os prefeitos oferecem!</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>163</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>165</numero>
+		<texto>As condições de atendimento hospitalar da nossa população é às vezes sub-humana, vocês acham realmente que trazer médicos do exterior vai mudar isto?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>166</numero>
+		<texto>Porque o governo não abre concursos _COM_CARREIRA_ para médicos atuarem no interior, aos moldes do que já é feito com os juízes ? Falta de interesse ?</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>167</numero>
+		<texto>EXATAMENTE DE QUE FORMA TRAZENDO MÉDICOS DE FORMA DESNECESSÁRIA E SEM REVALIDAÇÃO FARÁ COM QUE O GOVERNO RESTAURE A SAÚDE PÚBLICA ESGOTADA?</texto>
+		<usuario>Usuario20</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>168</numero>
+		<texto>O Ministro não fala em garantias prolongadas de trabalho e emprego no interior. 2- Não ha estrutura para os problemas de saúde que erão encontrados: faltam RX, medicamentos, US, Tomografias, Rssonnci Magnética. 3- Não ha Plano de Carreira.</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>169</numero>
+		<texto>Na minha opinião o interesse ,agora, do governo é puramente eleitoreiro. O SUS está sendo desmantelado há anos !</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>170</numero>
+		<texto>O Ministro Padilha é pré-candidato ao Governo de São Paulo nas próximas leições.</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>169</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>171</numero>
+		<texto>Entregar o que é público para ser gerenciado pela iniciativa privada, isto é correto ? O governo está deixando de fazer a sua obrigação !</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>172</numero>
+		<texto>Deputado Toninho Pinheiro afirma que falta dinheiro na saúde e indaga se o Ministro tem medo da Presidente Dilma.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>173</numero>
+		<texto>Como o governo pretende gerir a questão de erro médico e negligência no caso de médicos estrangeiros?</texto>
+		<usuario>Usuario21</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>174</numero>
+		<texto>No orçamento de 2012 o governo cortou mais de 5 bilhões de reais para a saúde, então em 2013 estamos vendo apenas o resultado de uma política incompetente !</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>175</numero>
+		<texto>O governo quer importar médicos baratos, de qualidade duvidosa.</texto>
+		<usuario>Usuario22</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>176</numero>
+		<texto>Não haverá conrole do CFM Usuario21.</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>173</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>177</numero>
+		<texto>Exatamente. Como pode-se importar médicos que não são regidos pelas mesmas regras que nós?</texto>
+		<usuario>Usuario21</usuario>
+		<referenciaTreinamento>176</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>178</numero>
+		<texto>Então um médico estrangeiro só poderá atuar em locais remotos e não terá CRM - assim eu entendi. Logo, se ele toma uma atitude negligente, imprudente ou for imperito, como é que fica?]</texto>
+		<usuario>Usuario21</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>179</numero>
+		<texto>O que estão tentando fazer equivale a colocar um juiz estrangeiro num tribunal brasileiro !</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>180</numero>
+		<texto>E o CFM não se manifestará ou ferrará o coitd quand solicitado pelos juízes a dar seu parecer. Mais uma ação perigosa do governo populista do P. A meta agora´são as eleiçoes de 2014. Irresponsáveis e desesperados</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>178</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>181</numero>
+		<texto>O problema das verbas para a saúde passa pela má gestão financeira.</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+			<mensagem>
+		<numero>182</numero>
+		<texto>O que o Ministro quer é aparecer na midia para o povão miseravel e que não tem capacidade de julgamento</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>183</numero>
+		<texto>Valeu, deputado Toninho Pinheiro. O ministro não respondeu minhas perguntas, mas me sinto contemplado nas suas. Espero que ele lhe responda.</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>184</numero>
+		<texto>O ministro Padilha encampou uma medida demagógica e irresponsável, pois não haverá como selecionar esses médicos, que virão ao Brasil com que critério? POr que seis mil medicos cubanos? Eles estão sobrando em Cuba?</texto>
+		<usuario>Usuario22</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>185</numero>
+		<texto>Quem vai garantir que um médico estrangeiro não saia do interior e rume para as capitais ? Eles encontrarao os mesmo problemas que nos por la</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>186</numero>
+		<texto>Claro, há verba para bolsa gas, bolsa familia, bolsa isso, bolsa aquilo, porém SAUDE é ESSENCIAL. todos nos invariavelmente precisamos de saude, e é justamente desse local que não poderia ser tirado, é que se tira para ganhar votos com medidas populistas</texto>
+		<usuario>Usuario21</usuario>
+		<referenciaTreinamento>185</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>187</numero>
+		<texto>Os médicos não vão para o interior porque não tem estrutura e não tem garantia de salário equivalente ao risco jurídico e ético de atuar em locais remotos. Por que não pagar por dedicação exclusiva um salário compatível com um juiz federal? Mais tem médico ganhando bruto 3 mil reais por 20 horas semanais. O cubano vem porque seu salário é 50 dólares em Cuba</texto>
+		<usuario>Usuario22</usuario>
+		<referenciaTreinamento>185</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>188</numero>
+		<texto>Plano de carreira, melhorias na infra-estrutura e direitos trabalhistas...</texto>
+		<usuario>frazao</usuario>
+		<referenciaTreinamento>187</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>189</numero>
+		<texto>direito trabalhista principalmente!!! ja fui trabalhar em interior e depois de meses descobri que os descontos de inss e imposto de renda foram ILUSORIOS. nao se assina contrato, nao se assina carteira, é tudo na ilegalidade</texto>
+		<usuario>Usuario21</usuario>
+		<referenciaTreinamento>188</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>190</numero>
+		<texto>É isto mesmo. Tudo superficial, transitóro e irrgular!</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>189</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>191</numero>
+		<texto>O dever do governo é fiscalizar o emprego das verbas da saúde pelos municípios - o que ele não tem feito.</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>192</numero>
+		<texto>E o governo tambem tem que implantar a carreira da saude,e inadmissível que o maior sistema de saude publico do mundo(sus)nao tenha um plano de carreira</texto>
+		<usuario>Usuario23</usuario>
+		<referenciaTreinamento>191</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>193</numero>
+		<texto>claro q nao. a solucao tem sido cortar da saude pra dar pro vale gás e bolsa familia, ai pra contornar contrara qqer um que queira receber uma miseria como em cuba</texto>
+		<usuario>Usuario21</usuario>
+		<referenciaTreinamento>192</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>194</numero>
+		<texto>Malu esta solto anda?</texto>
+		<usuario>Usuario15</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>195</numero>
+		<texto>fiquei fã do maluf, heheheehe</texto>
+		<usuario>Usuario8</usuario>
+		<referenciaTreinamento>194</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>196</numero>
+		<texto>hehehe</texto>
+		<usuario>Usuario15</usuario>
+		<referenciaTreinamento>195</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>197</numero>
+		<texto>Achei MUITO tendenciosa a imagem no site da Câmara que mostra a quantidade de médicos estrangeiros em vários países. É claro que países como EUA, Canadá, Inglaterra têm muitos estrangeiros. Eles têm toda a estrutura para exercer medicina de ponta em países que oferecem segurança, educação, cultura e saúde. Se formos comparar, façamos o seguinte: lá tem um número absurdamente menor, proporcionalmente, de políticos com uma estrutura pública incomparável à nossa! Aquela imagem tenta fazer com que pensemos: "nossa, vamos aumentar os médicos estrangeiros para fircarmos igual aos EUA". É brincar com a minha inteligência!!!</texto>
+		<usuario>Usuario24</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>198</numero>
+		<texto>A Inglaterra é minúscula, eles investem em saúde maciçamente há décadas !</texto>
+		<usuario>Usuario6</usuario>
+		<referenciaTreinamento>197</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>199</numero>
+		<texto>A equipe le nossas mensagens ou estamos aqui apenas perdendo tempo no "e-democracia"?</texto>
+		<usuario>Usuario24</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>200</numero>
+		<texto>Usuario24, acho que não leem</texto>
+		<usuario>Usuario22</usuario>
+		<referenciaTreinamento>199</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>201</numero>
+		<texto>Usuario24, estamos atentos a tudo que está sendo debatido neste ambiente.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>199</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>202</numero>
+		<texto>As perguntas apresentadas neste ambiente foram repassadas à Mesa e lidas ao vivo pelo Dep. Dr. Rosinha ao final do primeiro bloco de parlamentares inscritos.</texto>
+		<usuario>Usuario5</usuario>
+		<referenciaTreinamento>199</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>203</numero>
+		<texto>Ótimo!!!</texto>
+		<usuario>Usuario24</usuario>
+		<referenciaTreinamento>202</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>204</numero>
+		<texto>Quem deseja apresentar alguma pergunta ao Ministro ou aos parlamentares poderão fazê-lo. Todas as perguntas direcionadas serão repassadas à Mesa.</texto>
+		<usuario>Usuario5</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>205</numero>
+		<texto>como serão punidos os erros dos médicos cubanos? Eles poderão ser processados no Conselho Regional de Medicina, podendo perder o direito de exercer medicina no Brasil, bem como na Justiça, cível e criminal? Ou serão blindados?</texto>
+		<usuario>testemunha</usuario>
+		<referenciaTreinamento>204</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>206</numero>
+		<texto>Por quê o ministro acredita que exista uma porcentagem tão maior de médicos em países como EUA, Canadá e Inglaterra? Ele atribui à essa diversidade a qualidade do sistema de saúde ou acredita que um sistema que já é ótimo atraia médicos de todo o mundo, e por isso tamanha diversidade?</texto>
+		<usuario>Usuario21</usuario>
+		<referenciaTreinamento>204</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>207</numero>
+		<texto>Pergunto ao ministro: por que importar apenas médicos, se também faltam enfermeiras? Parece discriminação</texto>
+		<usuario>Usuario22</usuario>
+		<referenciaTreinamento>204</referenciaTreinamento>
+	</mensagem>
+		<mensagem>
+		<numero>208</numero>
+		<texto>Falta tudo, não faltam apenas médicos e outros profissionais: falta até fio de sutura, macas, leitos, UTI...</texto>
+		<usuario>Usuario6</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>209</numero>
+		<texto>falta desfibrilador!!! gente, falta eletrocardiograma, uma maquina super barata, a gente vê paciente morrer na nossa cara e não sabe nem de que foi!</texto>
+		<usuario>Usuario21</usuario>
+		<referenciaTreinamento>208</referenciaTreinamento>
+	</mensagem>
+			<mensagem>
+		<numero>210</numero>
+		<texto>Os médicos de Cuba são reféns de um regime sabidamente condenado por diversos órgãos dos direitos humanos, trazer médicos de cuba pagando seus salários diretamente ao governo Cubano é o equivalente a tráfico de pessoas! É crime!!!!!</texto>
+		<usuario>Usuario25</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>211</numero>
+		<texto>pq n obrigamos o ministro medico da saude a trabalhar num posto de saude no interior?</texto>
+		<usuario>Usuario26</usuario>
+	</mensagem>
+		<mensagem>
+		<numero>212</numero>
+		<texto>pois é, ele devia mesmo</texto>
+		<usuario>Usuario27</usuario>
+		<referenciaTreinamento>211</referenciaTreinamento>
+	</mensagem>
+</discussao>

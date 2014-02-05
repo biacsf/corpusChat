@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>tah querendo comprar carro tb eh</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>tow
+			aline nao gosta de carro
+			:(</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>como assim n gosta?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>ops
+			nao gosta de moto!</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>ah sim
+			entendi</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>aih agora vou ter q esperar o dobro do tempo!
+			=/</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>huaheua
+			oq nao eh uma mulher na vida de um homem
+			XD</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto> hahahahahahahhahaha!!!!!!!!!!
+			falo nada!</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>o meu eu vo comprar em agosto
+			soh preciso aprender a estacionar
+			heuauheua</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>isso aprende na prática!
+			:P</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>heaheuaheua
+			vai ter seguro msm neh</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>entao, show!</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>po eu queria mto comprar logo tb</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>imagina eu!!!
+			só falta a grana!!!</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto> eu quase comprei nas ferias
+			e ia ficar pagando prestacao msm
+			mas n ia valer a pena</texto>
+		<referenciaTreinamento>14</referenciaTreinamento>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto>È, qndo eu tava falando com um amigo meu quase q fomos tbm!
+
+			+ fiquei com medo!</texto>
+		<referenciaTreinamento>15</referenciaTreinamento>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto> qdo eu for comprar em agoisto
+			vai faltar ns 5 mil tb
+			ai vo pagar
+			em prestacao msm pq eu n aguento mais</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>17</numero>
+		<texto>CARAAAAAAACAAA!
+			vai faltar tudo isso!?</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>16</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>18</numero>
+		<texto>sim</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>17</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>19</numero>
+		<texto>nossa</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>20</numero>
+		<texto>para min acho q o carro tm q ter direcao</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>21</numero>
+		<texto>eu nao gosto de direção.Acho perigoso</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>20</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>22</numero>
+		<texto>pq? So meu pai tm. Eu gostei</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>21</referenciaTreinamento>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>23</numero>
+		<texto> pow, pra andar devagar é molezinha, + qndo tu ta a 120, 140
+			km/h qualquer toquezinho errado é tenso</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>22</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>24</numero>
+		<texto>ai eu nao sei</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>25</numero>
+		<texto>ql site vc tah vendo para pesquisar?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>26</numero>
+		<texto>classificados online e no 4 rodas</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>25</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>27</numero>
+		<texto>ah tb uso o 4 rodas, icarros, webmotors, zap</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>26</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>28</numero>
+		<texto>show!</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+</discussao>

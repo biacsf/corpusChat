@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>ola :)</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>oie</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>qto tempo</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>po, eu achei esse cara mongol..</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>ah.. n achei mto nao heaheua</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>discordancia</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>hehehehe
+			"se vc estiver sozinho em casa sexta-feira a noite, brinca com
+			python!!!"</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>eh mongol pra uma pessoa normal.. mas acho q a aula n vai ser
+			ruim</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto> partiu almoçar onde?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>a comida da mamae. Aonde n sei!</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto> hehehehe</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

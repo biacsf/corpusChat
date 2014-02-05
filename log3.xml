@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto> vc não vai pra casa não ???? gosta de estagiar hein ???
+			hehehehehe</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>gosto mto XD</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>e vc? vai não?</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>eu só vou as 20h</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>eu tb</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>tsc tsc tsc</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

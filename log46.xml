@@ -1,0 +1,4050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+<mensagem>
+	<numero>1</numero>
+	<usuario>Usuario1</usuario>
+	<texto>Boa noite! Será que da para assistir online?</texto>
+</mensagem>
+<mensagem>
+	<numero>2</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Bom dia Usuario3. Você está recebendo já a transmissão em vídeo? Eu não consegui abrir ainda...</texto>
+</mensagem>
+<mensagem>
+	<numero>3</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Tb nao consegui ver o video. To atualizando o plugin</texto>
+	<referenciaTreinamento>2</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>4</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Atualizei aqui já, acho que ainda não está online...</texto>
+	<referenciaTreinamento>3</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>5</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Achei interessante essa forma de acesso, pois moro na Holanda em Amsterdam e sempre que posso acompanho esse tipo de debate ou seminário.</texto>
+</mensagem>
+<mensagem>
+	<numero>6</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Pessoal, ainda não consigo acompanhar pelo video....</texto>
+</mensagem>
+<mensagem>
+	<numero>7</numero>
+	<usuario>Usuario5</usuario>
+	<texto>acho q ainda não está transmitindo, mi</texto>
+	<referenciaTreinamento>6</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>8</numero>
+	<usuario>Usuario1</usuario>
+	<texto>Bom dia! Por aqui nada ainda de vídeo</texto>
+	<referenciaTreinamento>7</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>9</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Obrigada Usuario5</texto>
+	<referenciaTreinamento>7</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>10</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Bom dia! Vídeo ainda não disponível?</texto>
+</mensagem>
+<mensagem>
+	<numero>11</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Ainda não, Usuario6!</texto>
+	<referenciaTreinamento>10</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>12</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Obrigado, mi</texto>
+	<referenciaTreinamento>11</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>13</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Voltei, tb tive problema ao acessar novamente a sala</texto>
+</mensagem>
+<mensagem>
+	<numero>14</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Se alguém conseguir ver a transmissão, avisa o resto da sala, por gentileza!! Ainda nada aqui.</texto>
+</mensagem>
+<mensagem>
+	<numero>15</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Boa....Usuario2</texto>
+	<referenciaTreinamento>14</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>16</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Bom, como ainda não conseguimos ver a transmissão, poderiamos realizar uma pequena apresentação de cada um. O que acham?</texto>
+</mensagem>
+<mensagem>
+	<numero>17</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Relembrar os tempos de chat da uol né? rsrs</texto>
+	<referenciaTreinamento>16</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>18</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Otimo Usuario3...começa vc!!!!</texto>
+	<referenciaTreinamento>16</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>19</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Se o chat do Uol tivesse o nosso mesmo interesse, eu frequentaria!</texto>
+	<referenciaTreinamento>18</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>20</numero>
+	<usuario>Usuario4</usuario>
+	<texto>heheheheh</texto>
+	<referenciaTreinamento>19</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>21</numero>
+	<usuario>Usuario5</usuario>
+	<texto>rs ok, foi só uma brincadeira rs</texto>
+	<referenciaTreinamento>20</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>22</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Aqui tem o canal alternativo da Câmara: http://www.camara.gov.br/internet/tvcamara</texto>
+</mensagem>
+<mensagem>
+	<numero>23</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Usuario6, se começar por esse canal alternativo, vc avisa aqui</texto>
+	<referenciaTreinamento>22</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>24</numero>
+	<usuario>Usuario6</usuario>
+	<texto>pode deixar</texto>
+	<referenciaTreinamento>23</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>25</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Bom, sou natural de Manaus, mas vivo atualmente em Amsterdam. Pretendo voltar Brasil, de vez, talvez final deste ano. Obviamente sempre me pergunto como o nosso país estar caminhando em direção à liberdade</texto>
+	<referenciaTreinamento>18</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>26</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Que legal, Usuario3, sou de Manaus também. E permaneço aqui haha :P</texto>
+	<referenciaTreinamento>25</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>27</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Deixa vender "meu peixe", sou da LiHS - Liga Humanista Secular do Brasil, que será representado pela nossa presidente Åsa Dahls Tröm Heuser na mesa de abertura</texto>
+</mensagem>
+<mensagem>
+	<numero>28</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Quero ver a transmissão a fim de expor alguns exemplos que são exemplos aqui na Holanda.</texto>
+</mensagem>
+<mensagem>
+	<numero>29</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Nossa, ou estão atrasando muito ou esqueceram de transmitir aqui :/</texto>
+</mensagem>
+<mensagem>
+	<numero>30</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Ainda estou na expectativa</texto>
+	<referenciaTreinamento>29</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>31</numero>
+	<usuario>Usuario7</usuario>
+	<texto>Nossa, ainda nao etão transmitindo????</texto>
+	<referenciaTreinamento>30</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>32</numero>
+	<usuario>Usuario6</usuario>
+	<texto>ainda não, temo estar perdendo :/</texto>
+	<referenciaTreinamento>31</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>33</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Poxa.....que demora...30 minutossssssss</texto>
+	<referenciaTreinamento>32</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>34</numero>
+	<usuario>Usuario6</usuario>
+	<texto>não sei se atrasou ou se não estão transmitindo para a rede por algum problema tecnico</texto>
+	<referenciaTreinamento>33</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>35</numero>
+	<usuario>Usuario8</usuario>
+	<texto>O vídeo sera transmitido nesse link, não entendi??</texto>
+</mensagem>
+<mensagem>
+	<numero>36</numero>
+	<usuario>Usuario6</usuario>
+	<texto>deveriam transmitir aqui, pelo que entendi</texto>
+	<referenciaTreinamento>35</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>37</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Puxa, queria tanto acompanhar a transmissão...</texto>
+</mensagem>
+<mensagem>
+	<numero>38</numero>
+	<usuario>Usuario6</usuario>
+	<texto>é, o jeito é esperar. Mas a equipe do e-democracia poderia nos informar do que está acontecendo, se é um problema técnico, se houve um atraso ou algo similar. Quase 1 hora já e nada.</texto>
+	<referenciaTreinamento>37</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>39</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Opaaaaaa...Começou</texto>
+</mensagem>
+<mensagem>
+	<numero>40</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Bom dia a todos! Infelizmente, o Presidente da CLP teve um contratempo e não consegui chegar no horário previsto. Mas ele já se encontra no plenário e dentro de instantes os trabalhos serão iniciados.</texto>
+</mensagem>
+<mensagem>
+	<numero>41</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Bom dia!Estou aqui de Amsterdam tentado ver..o video não abre.</texto>
+</mensagem>
+<mensagem>
+	<numero>42</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Aqui eu só ouço o som</texto>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>43</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario9, no Brasil tb não abre. Nada no governo Brasileiro funciona direito, pq vc acha q a site do congresso ia ser diferente??</texto>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>44</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Obrigado Usuario8</texto>
+	<referenciaTreinamento>43</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>45</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Eu estou vendo e ouvindoooo perfeitamente</texto>
+</mensagem>
+<mensagem>
+	<numero>46</numero>
+	<usuario>Usuario8</usuario>
+	<texto>passa link mi</texto>
+	<referenciaTreinamento>45</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>47</numero>
+	<usuario>Usuario4</usuario>
+	<texto>sai da sala do chat e entra novamente!!!!</texto>
+	<referenciaTreinamento>46</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>48</numero>
+	<usuario>Usuario8</usuario>
+	<texto>To assistindo video tv camera, falando sobre instituto palavra?</texto>
+	<referenciaTreinamento>47</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>49</numero>
+	<usuario>Usuario9</usuario>
+	<texto>estou assistindo</texto>
+	<referenciaTreinamento>48</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>50</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Cês ainda não estão acompanhando?</texto>
+</mensagem>
+<mensagem>
+	<numero>51</numero>
+	<usuario>Usuario9</usuario>
+	<texto>o que esta passando exatamente agora?</texto>
+</mensagem>
+<mensagem>
+	<numero>52</numero>
+	<usuario>Usuario7</usuario>
+	<texto>somente o audio</texto>
+	<referenciaTreinamento>51</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>53</numero>
+	<usuario>Usuario9</usuario>
+	<texto>aqui estou vendo propaganda....</texto>
+	<referenciaTreinamento>51</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>54</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Um rapaz ta tocando violino</texto>
+	<referenciaTreinamento>51</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>55</numero>
+	<usuario>Usuario9</usuario>
+	<texto> é o Jean ali no lado esquerdo?</texto>
+</mensagem>
+<mensagem>
+	<numero>56</numero>
+	<usuario>Usuario11</usuario>
+	<texto>sim, é ele sim..</texto>
+	<referenciaTreinamento>55</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>57</numero>
+	<usuario>Usuario9</usuario>
+	<texto>pô o jean tem a tv pequena?to vendo nada....</texto>
+</mensagem>
+<mensagem>
+	<numero>58</numero>
+	<usuario>Usuario5</usuario>
+	<texto>comé que é Usuario9?</texto>
+	<referenciaTreinamento>57</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>59</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Pessoal, recebemos a informação que o vídeo não pode ser visualizado pelo chrome, somente pelo internet explore?</texto>
+</mensagem>
+<mensagem>
+	<numero>60</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Gentem eu to acompanhando pelo chrome normalmente</texto>
+</mensagem>
+<mensagem>
+	<numero>61</numero>
+	<usuario>Usuario9</usuario>
+	<texto>mi...estao cantando o hino?</texto>
+	<referenciaTreinamento>60</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>62</numero>
+	<usuario>Usuario4</usuario>
+	<texto>não o Presidente da CLP já esta falando</texto>
+	<referenciaTreinamento>61</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>63</numero>
+	<usuario>Usuario11</usuario>
+	<texto>Usuario9 vc esta assistindo pelo canal...q esta passando a sessão solene , prcisa ir pras comissões</texto>
+	<referenciaTreinamento>62</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>64</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Usuario12!</texto>
+</mensagem>
+<mensagem>
+	<numero>65</numero>
+	<usuario>Usuario12</usuario>
+	<texto>Eu!</texto>
+	<referenciaTreinamento>64</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>66</numero>
+	<usuario>Usuario12</usuario>
+	<texto>cheguei da aula e corri pra cá! Que linda a Asa toda representando-nos</texto>
+</mensagem>
+<mensagem>
+	<numero>67</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Nossa presidente ainda não falou, chegaste bem na hora</texto>
+	<referenciaTreinamento>66</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>68</numero>
+	<usuario>Usuario12</usuario>
+	<texto>:D</texto>
+	<referenciaTreinamento>67</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>69</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Essa mulher excelente ! fala perfeitamente....aplausos</texto>
+</mensagem>
+<mensagem>
+	<numero>70</numero>
+	<usuario>Usuario6</usuario>
+	<texto>presidente da Comissão de cultura da Câmara Federal</texto>
+	<referenciaTreinamento>69</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>71</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Me sinto muito bem representado.....Esse nome vai pra agenda!</texto>
+	<referenciaTreinamento>70</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>72</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Jandira</texto>
+	<referenciaTreinamento>71</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>73</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Nome de ´´indio.......tudo a ver !</texto>
+	<referenciaTreinamento>72</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>74</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Muito bom!!!! Parabénsssssssssss.......</texto>
+	<referenciaTreinamento>73</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>75</numero>
+	<usuario>Usuario9</usuario>
+	<texto>alguem tirou a roupa?</texto>
+	<referenciaTreinamento>74</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>76</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Jean veio para marcar história !</texto>
+</mensagem>
+<mensagem>
+	<numero>77</numero>
+	<usuario>Usuario6</usuario>
+	<texto>"Usuario14", olha troll hahaha</texto>
+</mensagem>
+<mensagem>
+	<numero>78</numero>
+	<usuario>Usuario12</usuario>
+	<texto>É MARCO não MARCOS Sr. Usuario14...</texto>
+	<referenciaTreinamento>77</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>79</numero>
+	<usuario>Usuario14</usuario>
+	<texto>Jesus vai salvar vcs!</texto>
+</mensagem>
+<mensagem>
+	<numero>80</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario14 começe a trollar para ficar engraçado :)</texto>
+	<referenciaTreinamento>79</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>81</numero>
+	<usuario>Usuario11</usuario>
+	<texto>ei algum sabe como faço abrir a telinha...?</texto>
+</mensagem>
+<mensagem>
+	<numero>82</numero>
+	<usuario>Usuario14</usuario>
+	<texto>Já estão usando os remedios?</texto>
+</mensagem>
+<mensagem>
+	<numero>83</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Dois pagos um contra o outro...que coisa mais feia.....#ignorar</texto>
+</mensagem>
+<mensagem>
+	<numero>84</numero>
+	<usuario>Usuario14</usuario>
+	<texto>vão queimar em nome de Jesus!</texto>
+</mensagem>
+<mensagem>
+	<numero>85</numero>
+	<usuario>Usuario6</usuario>
+	<texto>se pronuncia Ôsa, mas tudo bem Jean, você pode :P</texto>
+</mensagem>
+<mensagem>
+	<numero>86</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Não é a toa que jean sita cada um deles.........é a quem temos que prestar atenção....</texto>
+	<referenciaTreinamento>85</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>87</numero>
+	<usuario>Usuario15</usuario>
+	<texto>Jean, PAGUE O DÍZIMO!</texto>
+	<referenciaTreinamento>86</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>88</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Trolls alegrando a sala :)</texto>
+	<referenciaTreinamento>87</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>89</numero>
+	<usuario>Usuario13</usuario>
+	<texto>nem leio....não vou perder a fala do jean</texto>
+	<referenciaTreinamento>88</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>90</numero>
+	<usuario>Usuario16</usuario>
+	<texto>quem dera ficasse só no humor esses trolls.rsrsr</texto>
+	<referenciaTreinamento>88</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>91</numero>
+	<usuario>Usuario13</usuario>
+	<texto>e ainda falam que ele é contra a Fé.....Jean é movido pela Fé !</texto>
+</mensagem>
+<mensagem>
+	<numero>92</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario16, mas a ignorancia é as vezes tragicamente Usuario10.</texto>
+	<referenciaTreinamento>90</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>93</numero>
+	<usuario>Usuario13</usuario>
+	<texto>O cara é muito culto......tudo que Jean afirma é embasado em argumento!</texto>
+</mensagem>
+<mensagem>
+	<numero>94</numero>
+	<usuario>Usuario16</usuario>
+	<texto>infelizmente</texto>
+	<referenciaTreinamento>92</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>95</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Ele não esta sozinho.......a voz dele já é a de muitos !</texto>
+	<referenciaTreinamento>93</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>96</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Muito bom Deputado Jean!!!</texto>
+</mensagem>
+<mensagem>
+	<numero>97</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Deputado que acha que esta na casa dele e não numa posição pública esta no lugar errado.</texto>
+	<referenciaTreinamento>96</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>98</numero>
+	<usuario>Usuario17</usuario>
+	<texto>Espero que tenha algum lider catolico fiel ao Papa, senão fica facil criticar a igreja colocando Padre beto</texto>
+</mensagem>
+<mensagem>
+	<numero>99</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Presta atenção nas palavras desse Padre......detalhe: é hétero!</texto>
+	<referenciaTreinamento>98</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>100</numero>
+	<usuario>Usuario17</usuario>
+	<texto>Mais infiel ao Papa</texto>
+	<referenciaTreinamento>99</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>101</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Ainda não conheço o Francisco pra ser fiel a ele, mas gosto desse Padre !</texto>
+	<referenciaTreinamento>100</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>102</numero>
+	<usuario>Usuario17</usuario>
+	<texto>Ser fiel ao Papa é inerente conhece-lo ou não, é ser fiel aos dogmas, a tradição e a tudo o que a Igreja ensinou, espero ele não querer vir falar em nome da Igreja</texto>
+	<referenciaTreinamento>101</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>103</numero>
+	<usuario>Usuario18</usuario>
+	<texto>A discussão aqui deveria ser outra povo..</texto>
+</mensagem>
+<mensagem>
+	<numero>104</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Os dogmas da igreja já foram mudados divesas vezes, isso não existe.</texto>
+	<referenciaTreinamento>102</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>105</numero>
+	<usuario>Usuario17</usuario>
+	<texto>os dogmas não, deeme um exmplo? não existe isso, o que espero é que tenham representantes verdadeiros das igrejas e não fantoches que dertupam os verdadeiros ensinamentos das igrejas</texto>
+	<referenciaTreinamento>104</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>106</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Enfrentar todas as formas de racismo! A começar pelos nossos próprios...</texto>
+	<referenciaTreinamento>105</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>107</numero>
+	<usuario>Usuario8</usuario>
+	<texto>É bom lembrar, que Brasil é um Estado Democrático de DIREITO, onde a "ditadura da maioria", não pode gerar privilégios.</texto>
+</mensagem>
+<mensagem>
+	<numero>108</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Não vejo a igreja católica hoje combatendo os direitos das mulheres, como costumava ser seu dogma</texto>
+	<referenciaTreinamento>105</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>109</numero>
+	<usuario>Usuario17</usuario>
+	<texto>desculpa mais acho que vc não sabe o que é um dogma</texto>
+	<referenciaTreinamento>108</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>110</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Na verdadeira Democracia não existe minorias e maiorias.....são todos iguais em direitos !</texto>
+</mensagem>
+<mensagem>
+	<numero>111</numero>
+	<usuario>Usuario17</usuario>
+	<texto>ele defende a mulher sim e muito mais do que qualquer instituição, é so vermos as loucuras do aborto que querem dar as mulheres escondendo todo o mal que ele faz</texto>
+	<referenciaTreinamento>108</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>112</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario13, coisa q o Brasil não é.</texto>
+	<referenciaTreinamento>110</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>113</numero>
+	<usuario>Usuario6</usuario>
+	<texto>ok, não vou debater isto aqui. Pouco importa o que diz a igreja em um Estado Laico.</texto>
+	<referenciaTreinamento>111</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>114</numero>
+	<usuario>Usuario18</usuario>
+	<texto>em tese é assim</texto>
+	<referenciaTreinamento>112</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>115</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Defender a Liberdade de crença ou de não-crenças de Todos !</texto>
+</mensagem>
+<mensagem>
+	<numero>116</numero>
+	<usuario>Usuario17</usuario>
+	<texto>logico que importa, um pais de maioria crsita deve ser ouvida</texto>
+	<referenciaTreinamento>113</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>117</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Se a ICAR defende a "mulher" pq ela lutou contra divorcio??</texto>
+	<referenciaTreinamento>111</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>118</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Gente religião na politica não vai sabe.....Religião é uma coisa muito particular</texto>
+</mensagem>
+<mensagem>
+	<numero>119</numero>
+	<usuario>Usuario17</usuario>
+	<texto>o divorcio é um mal, so vermos quantos mals traz a familia, meus pais são separados e sei as dores que pássei, logico em um casamento onde o Usuario37do bate na mulher, deve ter a separação, mais antes do casamento é preciso conhecer bem o esposo e a esposa para não ter grandes traumas no futuro</texto>
+	<referenciaTreinamento>117</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>120</numero>
+	<usuario>Usuario9</usuario>
+	<texto>gente casamento quando acabou...acabou...separa.</texto>
+	<referenciaTreinamento>119</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>121</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario17 vc acha justo sua religião impor seus valores a TODOS???</texto>
+</mensagem>
+<mensagem>
+	<numero>122</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Usuario17, pare de escrever e vê se aprende algo durante o seminário</texto>
+<referenciaTreinamento>121</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>123</numero>
+	<usuario>Usuario17</usuario>
+	<texto>não posso escrever tbm?</texto>
+	<referenciaTreinamento>122</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>124</numero>
+	<usuario>Usuario16</usuario>
+	<texto>é troll tb.</texto>
+</mensagem>
+<mensagem>
+	<numero>125</numero>
+	<usuario>Usuario17</usuario>
+	<texto>é sempre assim quem tem religião não pode falar.</texto>
+	<referenciaTreinamento>124</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>126</numero>
+	<usuario>Usuario6</usuario>
+	<texto>assim não prestará atenção</texto>
+	<referenciaTreinamento>125</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>127</numero>
+	<usuario>Usuario17</usuario>
+	<texto>mais irei falar sim</texto>
+	<referenciaTreinamento>126</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>128</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Esse cara fala bem...qual mesmo o nome dele ?</texto>
+</mensagem>
+<mensagem>
+	<numero>129</numero>
+	<usuario>Usuario17</usuario>
+	<texto>a igreja tbm entra na parte social da sociedade nos não podemos nos calar</texto>
+	<referenciaTreinamento>126</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>130</numero>
+	<usuario>Usuario16</usuario>
+	<texto>tem todo o direito de falar</texto>
+	<referenciaTreinamento>129</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>131</numero>
+	<usuario>Usuario17</usuario>
+	<texto>é so vermos o que esse homem fala, um pais de maioria Usuario1ta não pode falar</texto>
+	<referenciaTreinamento>130</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>132</numero>
+	<usuario>Usuario16</usuario>
+	<texto>mas não venha trazer dogmas as pessoas q nao seguem</texto>
+	<referenciaTreinamento>131</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>133</numero>
+	<usuario>Usuario18</usuario>
+	<texto>Gente, aqui não é lugar de evangelização</texto>
+	<referenciaTreinamento>132</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>134</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Vcs podem falar a vontade, oq vcs não podem é obrigar toda a população a seguir dogmas de sua religião. O casamento LGBT ainda não foi legalizado por causa disso, entre outros motivos.</texto>
+	<referenciaTreinamento>133</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>135</numero>
+	<usuario>Usuario13</usuario>
+	<texto>eu nem leio Usuario18......tem que manter o foco</texto>
+	<referenciaTreinamento>133</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>136</numero>
+	<usuario>Usuario18</usuario>
+	<texto>POIS É</texto>
+	<referenciaTreinamento>135</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>137</numero>
+	<usuario>Usuario17</usuario>
+	<texto>Graças a Deus</texto>
+</mensagem>
+<mensagem>
+	<numero>138</numero>
+	<usuario>Usuario19</usuario>
+	<texto>Cristãos em um bate-papo sobre Seminário e eles que são os "perseguidos"?</texto>
+</mensagem>
+<mensagem>
+	<numero>139</numero>
+	<usuario>Usuario17</usuario>
+	<texto>imagino o que virá depois caso isso seja autorizado</texto>
+	<referenciaTreinamento>138</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>140</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Eu também adoro o Jean!!!</texto>
+</mensagem>
+<mensagem>
+	<numero>141</numero>
+	<usuario>Usuario16</usuario>
+	<texto>maioria nao pode JAMAIS mandar em minorias</texto>
+	<referenciaTreinamento>139</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>142</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Pera, tem religiosos defensores da Família Preconceituosa aqui? rs</texto>
+</mensagem>
+<mensagem>
+	<numero>143</numero>
+	<usuario>Usuario17</usuario>
+	<texto>tbm não posso ver debate? sou cidadão pago impostos e tenho todo direito a isso</texto>
+	<referenciaTreinamento>142</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>144</numero>
+	<usuario>Usuario17</usuario>
+	<texto>mas não tá nem prestando atenção ao que está sendo dito</texto>
+	<referenciaTreinamento>143</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>145</numero>
+	<usuario>Usuario19</usuario>
+	<texto>Pode ver, só não tem o direito de infectar aos outros com suas ideias agourentas e arcaicas...</texto>
+	<referenciaTreinamento>143</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>146</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Nós também pagamos impostos... não podemos ter os mesmo direitos que os heteros?</texto>
+	<referenciaTreinamento>143</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>147</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Gente...serio.Eu Vivo na holanda ....estou daqui apavorado por vcs.Vcs tem que fazer um movimento maior.</texto>
+</mensagem>
+<mensagem>
+	<numero>148</numero>
+	<usuario>Usuario17</usuario>
+	<texto>os mesmos direitos sim mais não super direitos</texto>
+	<referenciaTreinamento>146</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>149</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Oq vira, são apenas casamentos entre pessoas q se amam. Falácia de apelo ao medo não funciona com pessoas cultas.</texto>
+	<referenciaTreinamento>139</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>150</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Ai Usuario17, preguicinha</texto>
+	<referenciaTreinamento>148</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>151</numero>
+	<usuario>Usuario18</usuario>
+	<texto>preguicinha ³³³³</texto>
+	<referenciaTreinamento>150</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>152</numero>
+	<usuario>Usuario16</usuario>
+	<texto>verdade... não vale nem o debate com pessoas assim</texto>
+	<referenciaTreinamento>151</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>153</numero>
+	<usuario>Usuario19</usuario>
+	<texto>Realmente, a população LGBT no Brasil é tão grandiosa, mas as manifestações são diminutas...</texto>
+	<referenciaTreinamento>147</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>154</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Tambem acho Usuario19</texto>
+	<referenciaTreinamento>153</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>155</numero>
+	<usuario>Usuario9</usuario>
+	<texto>aqui na holanda fizeram manifestação ate para os gays na Russia</texto>
+	<referenciaTreinamento>153</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>156</numero>
+	<usuario>Usuario22</usuario>
+	<texto>MARCHA NACIONAL CONTRA A HOMOFOBIA!!!</texto>
+</mensagem>
+<mensagem>
+	<numero>157</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Ah, Usuario9, comparar brasil com holonda?</texto>
+	<referenciaTreinamento>155</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>158</numero>
+	<usuario>Usuario9</usuario>
+	<texto>pq nao Usuario21?</texto>
+	<referenciaTreinamento>157</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>159</numero>
+	<usuario>Usuario21</usuario>
+	<texto>são realidade tão diferentes</texto>
+	<referenciaTreinamento>158</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>160</numero>
+	<usuario>Usuario9</usuario>
+	<texto>tem que se colocar...para de ver o Brasil como um pais novo. vamos pra frente</texto>
+	<referenciaTreinamento>159</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>161</numero>
+	<usuario>Usuario21</usuario>
+	<texto>vamos sim</texto>
+	<referenciaTreinamento>160</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>162</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Isso já esta acontecendo , parcipativa ....</texto>
+</mensagem>
+<mensagem>
+	<numero>163</numero>
+	<usuario>Usuario8</usuario>
+	<texto>O problema q fundamentalistas tem poder econômico, para eles é facil arrancar dinheiro através de ameaças. Já q se fala em rede nacional de tv, ou da dízimo ou vai para o inferno.</texto>
+</mensagem>
+<mensagem>
+	<numero>164</numero>
+	<usuario>Usuario16</usuario>
+	<texto>e o remedio contra isso, seria uma melhor instruçao da populaçao</texto>
+	<referenciaTreinamento>163</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>165</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Gostaria de ver segmento de minorias, patrocianarem um anuncio em horário nobre sobre liberdades individuais, e ensinando q democracia não é ditadura da maioria. E q todas minorias devem ter direitos iguais.</texto>
+</mensagem>
+<mensagem>
+	<numero>166</numero>
+	<usuario>Usuario16</usuario>
+	<texto>só q chega ser intrigante o pq do Estado nao instrui melhor seu povo</texto>
+	<referenciaTreinamento>165</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>167</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Estamos tendo a chance de mos instruir com esse Seminário......</texto>
+	<referenciaTreinamento>166</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>168</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Usuario16...falou tudo...se o povo tivesse mais acesso...nao teriamos tantos Evangelicos</texto>
+	<referenciaTreinamento>166</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>169</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario16 ficar esperando o Estado é dar um tiro no pé, é preciso convencer as pessoas, para q as pessoas precionem os políticos.</texto>
+	<referenciaTreinamento>166</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>170</numero>
+	<usuario>Usuario18</usuario>
+	<texto>Usuario9, não se combate preconceito com preconceito</texto>
+	<referenciaTreinamento>168</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>171</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Desculpa Usuario18...eu to puto com tudo que esta acontecendo</texto>
+	<referenciaTreinamento>170</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>172</numero>
+	<usuario>Usuario8</usuario>
+	<texto>O melhor jeito é fazendo propaganda na grande midia, e em pequenas mídias.</texto>
+</mensagem>
+<mensagem>
+	<numero>173</numero>
+	<usuario>Usuario16</usuario>
+	<texto>com certeza. Mas vindo "de cima" seria mais facil...por assim dizer</texto>
+	<referenciaTreinamento>172</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>174</numero>
+	<usuario>Usuario8</usuario>
+	<texto>tanto que se falou la em cima e podemos ver como alguns genralizam totalmenete</texto>
+	<referenciaTreinamento>173</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>175</numero>
+	<usuario>Usuario18</usuario>
+	<texto>Estamos todos</texto>
+	<referenciaTreinamento>171</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>176</numero>
+	<usuario>Usuario17</usuario>
+	<texto>parabens pelo grande respeito</texto>
+</mensagem>
+<mensagem>
+	<numero>177</numero>
+	<usuario>Usuario23</usuario>
+	<texto>Engraçado que no Brasil ainda discutirmos questões que já poderiam ser sanadas. Não me entra na cabeça deixarmos que a bancada conservadora dite regras num país com tanta diversidade.</texto>
+</mensagem>
+<mensagem>
+	<numero>178</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Ta certa Usuario23</texto>
+	<referenciaTreinamento>177</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>179</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Gostei muito dessa Trans.............Qual o nome dela mesmo ? Sou péssimo pra guardar nomes...</texto>
+</mensagem>
+<mensagem>
+	<numero>180</numero>
+	<usuario>Usuario9</usuario>
+	<texto>gente quem pode fazer um resumo para mim...pois nao estou assistindo...esta tudo indo bem?</texto>
+</mensagem>
+<mensagem>
+	<numero>181</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Usuario13</texto>
+	<referenciaTreinamento>179</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>182</numero>
+	<usuario>Usuario24</usuario>
+	<texto>Exelente este debate e rumo a aprovação do casamento igualitario.</texto>
+</mensagem>
+<mensagem>
+	<numero>183</numero>
+	<usuario>Usuario18</usuario>
+	<texto>Ai Usuario12!</texto>
+</mensagem>
+<mensagem>
+	<numero>184</numero>
+	<usuario>Usuario13</usuario>
+	<texto>uhull! Isso ai</texto>
+</mensagem>
+<mensagem>
+	<numero>185</numero>
+	<usuario>Usuario9</usuario>
+	<texto>quem tirou a roupa...?me diz</texto>
+</mensagem>
+<mensagem>
+	<numero>186</numero>
+	<usuario>Usuario12</usuario>
+	<texto>Eeeeeeeeeeeeee</texto>
+</mensagem>
+<mensagem>
+	<numero>187</numero>
+	<usuario>Usuario24</usuario>
+	<texto>Recife estamos presente..</texto>
+</mensagem>
+<mensagem>
+	<numero>188</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Ae Eugênia .... ajcap@globomail.com bem vinda !</texto>
+	<referenciaTreinamento>187</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>189</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Obrigada!</texto>
+	<referenciaTreinamento>188</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>190</numero>
+	<usuario>Usuario24</usuario>
+	<texto>https://twitter.com/..</texto>
+	<referenciaTreinamento>189</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>191</numero>
+	<usuario>Usuario13</usuario>
+	<texto>opa indo lá</texto>
+	<referenciaTreinamento>190</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>192</numero>
+	<usuario>Usuario9</usuario>
+	<texto>nao consigo ver imagem, quem esta falando?</texto>
+</mensagem>
+<mensagem>
+	<numero>193</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Asa da Liga humanista secular</texto>
+	<referenciaTreinamento>192</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>194</numero>
+	<usuario>Usuario9</usuario>
+	<texto>brigada</texto>
+	<referenciaTreinamento>193</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>194</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Melhor discruso da Asa até agora.</texto>
+</mensagem>
+<mensagem>
+	<numero>195</numero>
+	<usuario>Usuario13</usuario>
+	<texto>aplausos</texto>
+</mensagem>
+<mensagem>
+	<numero>196</numero>
+	<usuario>Usuario18</usuario>
+	<texto>A LiHS me representa super!</texto>
+</mensagem>
+<mensagem>
+	<numero>197</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Esse vídeo tem que bombar depois !</texto>
+</mensagem>
+<mensagem>
+	<numero>198</numero>
+	<usuario>Usuario18</usuario>
+	<texto>tem mesmo</texto>
+	<referenciaTreinamento>197</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>199</numero>
+	<usuario>Usuario24</usuario>
+	<texto>Otimo discursso... cheguei a arrepiar.</texto>
+</mensagem>
+<mensagem>
+	<numero>200</numero>
+	<usuario>Usuario24</usuario>
+	<texto>Otimo discursso... cheguei a arrepiar.</texto>
+</mensagem>
+<mensagem>
+	<numero>201</numero>
+	<usuario>Usuario8</usuario>
+	<texto>precisamos da ajuda dos artistas mesmo</texto>
+</mensagem>
+<mensagem>
+	<numero>202</numero>
+	<usuario>Usuario18</usuario>
+	<texto>precisamos de informação desde cedo</texto>
+</mensagem>
+<mensagem>
+	<numero>203</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario18, infeslismente fundamentalistas governam a mente da pessoas através do medo. E o medo castra o senso crítico. Logo a informação não vai funcionar, com uma mente dominado pelo medo.</texto>
+	<referenciaTreinamento>202</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>204</numero>
+	<usuario>Usuario18</usuario>
+	<texto>informação nas escolas, por exemplo</texto>
+	<referenciaTreinamento>203</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>204</numero>
+	<usuario>Usuario18</usuario>
+	<texto>informação nas escolas, por exemplo</texto>
+	<referenciaTreinamento>203</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>205</numero>
+	<usuario>Usuario13</usuario>
+	<texto>A Educação ta´mbém esta na pauta do Seminário.....</texto>
+	<referenciaTreinamento>204</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>206</numero>
+	<usuario>Usuario9</usuario>
+	<texto>deveria ter...aqui na holanda a criança sabe cedo se o professor tem namorado ou namorada....</texto>
+	<referenciaTreinamento>205</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>207</numero>
+	<usuario>Usuario4</usuario>
+	<texto>também,mas a igreja catolica e os pais são os que detonam , quando mais as pessoas se assumirem mais vao ser aceitos na sociedade,pois vai passar de anormal para comun</texto>
+	<referenciaTreinamento>206</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>208</numero>
+	<usuario>Usuario18</usuario>
+	<texto>acho que nossa geração gerarão filhos menos preconceituosos</texto>
+	<referenciaTreinamento>207</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>209</numero>
+	<usuario>Usuario8</usuario>
+	<texto>mi, não falei q pessoas devem se calar. Mas é fato q artistas tem facilidade de falar com a grande massa, ou vc acha mesmo q o "povão" esta interessado em laicidade e liberdades individuais??</texto>
+	<referenciaTreinamento>207</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>210</numero>
+	<usuario>Usuario25</usuario>
+	<texto>é... muitos acham que o mundo é lindo e que o preconceito é coisa do passado!</texto>
+</mensagem>
+<mensagem>
+	<numero>211</numero>
+	<usuario>Usuario4</usuario>
+	<texto>graças a deus,mas é isso temos , nossa os artistas brasileiros de verdade? da vontade de matar de tanto medo q eles tem,pq grande maioria é e não fala.</texto>
+	<referenciaTreinamento>209</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>212</numero>
+	<usuario>Usuario25</usuario>
+	<texto>alguem pode me passar oq esta rolando? Nao consigo ver o video</texto>
+</mensagem>
+<mensagem>
+	<numero>213</numero>
+	<usuario>Usuario13</usuario>
+	<texto>entra pelo explorer e baixa um programa que pede na hora...eu fiz assim e rolou</texto>
+	<referenciaTreinamento>212</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>214</numero>
+	<usuario>Usuario4</usuario>
+	<texto>o brasil ta bem ultrapassado.. nos eua é super liberal,vejam a ellen degeneres .. no canada as crianças sao educadas de forma diferente,aberta para a homossexualidade e o brasil continua na mesma,acreditando em adao e eva.</texto>
+</mensagem>
+<mensagem>
+	<numero>215</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Verdade mi</texto>
+	<referenciaTreinamento>214</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>216</numero>
+	<usuario>Usuario25</usuario>
+	<texto>desculpa mi, mas este mea culpa que rolou na França é pior de que aqui!</texto>
+	<referenciaTreinamento>214</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>217</numero>
+	<usuario>Usuario8</usuario>
+	<texto>EUA super liberal???? Vc esta por fora. Partido conservador lá, e praticamente todo fundamentalista.</texto>
+	<referenciaTreinamento>214</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>218</numero>
+	<usuario>Usuario9</usuario>
+	<texto>AQUI NA HOLANDA TE LEIS PARA GAY JA CRIADAS NO MEIO DOS ANOS 80</texto>
+</mensagem>
+<mensagem>
+	<numero>219</numero>
+	<usuario>Usuario4</usuario>
+	<texto>é melhor que no brasil,com certeza</texto>
+	<referenciaTreinamento>217</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>220</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Não é não, é pior te dou certeza.</texto>
+	<referenciaTreinamento>219</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>221</numero>
+	<usuario>Usuario4</usuario>
+	<texto>lá a gente pelo menos escuta muitos casos de filhos de homossexuais, no brasil não conheço um</texto>
+	<referenciaTreinamento>220</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>222</numero>
+	<usuario>Usuario9</usuario>
+	<texto>America apesar de tudo o caminho que eles estao pegando esta melhor que no Brasil</texto>
+	<referenciaTreinamento>221</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>223</numero>
+	<usuario>Usuario25</usuario>
+	<texto>acho que deve haver espaço até pros idiotas manifestarem seus preconceitos, por que não? agora dizer que não existe...</texto>
+</mensagem>
+<mensagem>
+	<numero>224</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Quero saber lé de EUA....quero saber é de 2014 aqui no Brasil.......já estou posicionando meu voto e fazendo campanha !</texto>
+	<referenciaTreinamento>222</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>225</numero>
+	<usuario>Usuario9</usuario>
+	<texto>preconceito existe ate na holanda....mas existe lei e é respeitada</texto>
+	<referenciaTreinamento>223</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>226</numero>
+	<usuario>Usuario3</usuario>
+	<texto>Ola Usuario9. Tb moro na Holanda, em Amsterdam. Moras em que parte?</texto>
+	<referenciaTreinamento>225</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>227</numero>
+	<usuario>Usuario50</usuario>
+	<texto>tem algum filho de homossexual ou homossexual que tenham filhos na sala? estou fazendo um projeto de entrevistas , demonstração de material para pais homofobicos de homossexuais. esses pais aceitam a ajuda e o objetivo é passar o maximo de informaçoes possivel para que eles comecem a achar natural e mais tranquilo em relação aos filhos</texto>
+</mensagem>
+<mensagem>
+<numero>228</numero>
+<usuario>Usuario13</usuario>
+<texto>Usuario50 me add no face e procura por lá....tem uma boa turma ! http://www.facebook.com/augustojose.Usuario13/friends</texto>
+<referenciaTreinamento>227</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>229</numero>
+	<usuario>Usuario23</usuario>
+	<texto>Que maravilha o CNJ regulamentou para todo o Brasil o casamento igualitario.</texto>
+</mensagem>
+<mensagem>
+	<numero>230</numero>
+	<usuario>Usuario27</usuario>
+	<texto>sim Usuario23, assim para com essa palhaçada de um estado reconhecer e o outro nao...</texto>
+	<referenciaTreinamento>229</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>231</numero>
+	<usuario>Usuario23</usuario>
+	<texto>Isso mesmo Usuario27!</texto>
+	<referenciaTreinamento>230</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>232</numero>
+	<usuario>Usuario26</usuario>
+	<texto>Gente, mal consigo acreditar...então conseguimos o casamento igualitário mesmo?!?!</texto>
+	<referenciaTreinamento>229</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>233</numero>
+	<usuario>Usuario27</usuario>
+	<texto>juridicamente sim Usuario26</texto>
+	<referenciaTreinamento>232</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>234</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Boa tarde!</texto>
+</mensagem>
+<mensagem>
+	<numero>235</numero>
+	<usuario>Usuario29</usuario>
+	<texto>GENTE O CASAMENTO CIVIL FOI APROVADO MEMO VERDADE O ENTENDI ERRADO</texto>
+	<referenciaTreinamento>229</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>236</numero>
+	<usuario>Usuario30</usuario>
+	<texto>Usuario29 o cnj regulamentou juridicamente sim</texto>
+	<referenciaTreinamento>235</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>237</numero>
+	<usuario>Usuario26</usuario>
+	<texto>Enfim, ventos de mudanças na justiça brasileira, que essa decisão traga mais lucidez pra nossa sociedade</texto>
+	<referenciaTreinamento>236</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>238</numero>
+	<usuario>Usuario29</usuario>
+	<texto>FINAMENTEMEU SONHO SE REALIZOU OBRIGADO DEUS E A TODOS QUE UNTOS FIZERAM ELE SE TORNAR REAL</texto>
+	<referenciaTreinamento>236</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>239</numero>
+	<usuario>Usuario23</usuario>
+	<texto>quero ver agora as igrejas catolicas e evangelicas garantir, essa será uma batalha ardua, mas resistiremos na luta.</texto>
+</mensagem>
+<mensagem>
+	<numero>240</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Parabens Gente!!!! Merecemos</texto>
+</mensagem>
+<mensagem>
+	<numero>241</numero>
+	<usuario>Usuario29</usuario>
+	<texto>SIM MERECEMOS E MUITO SER FELIZ</texto>
+	<referenciaTreinamento>240</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>242</numero>
+	<usuario>Usuario3</usuario>
+	<texto> Parabéns. Viva a laicidade do estado brasileiro</texto>
+	<referenciaTreinamento>241</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>243</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Elá é excelente...esse grupo que conseguiram juntar é Perfeito ! Tudo gente do Bem !</texto>
+</mensagem>
+<mensagem>
+	<numero>244</numero>
+	<usuario>Usuario29</usuario>
+	<texto>ESSA MULHER ESTA FALANDO MUITO BEM LINDAMENTE</texto>
+	<referenciaTreinamento>243</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>245</numero>
+	<usuario>Usuario9</usuario>
+	<texto>"O ensino religioso nas escolas não é educação religiosa, mas ensino do humanismo, sem dogmas", diz Débora Diniz.</texto>
+</mensagem>
+<mensagem>
+	<numero>246</numero>
+	<usuario>Usuario23</usuario>
+	<texto>Débora Diniz, membro emérito da LiHS está tanto show ao falar do Estado Laico. Parabéns!!!!!!</texto>
+	<referenciaTreinamento>245</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>247</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Sem qualificadores íntimos ......ela arraza !</texto>
+	<referenciaTreinamento>246</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>248</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Ensino religioso?? Estado laico??? Jurava q estado laico deveria tratar todas visões mundo igualemente. Duvido q se ensine a visão de agnósticos, ateus e deistas.</texto>
+	<referenciaTreinamento>245</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>249</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Vou copiar seu post no meu face Usuario23</texto>
+	<referenciaTreinamento>246</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>250</numero>
+	<usuario>Usuario24</usuario>
+	<texto>Decisão do CNJ obriga cartórios do Brasil a fazer o casamento gay http://glo.bo/18IjOMC saiu na ÉPOCA</texto>
+</mensagem>
+<mensagem>
+	<numero>251</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Eugênia não basta conseguir aprovação juridica, tem q conseguir aprovação na política tb.</texto>
+	<referenciaTreinamento>250</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>252</numero>
+	<usuario>Usuario30</usuario>
+	<texto>Alguem me ajude por favor, o casamento gay foi liberado no Brail?</texto>
+</mensagem>
+<mensagem>
+	<numero>253</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Isso o voto faz Usuario8........senão não adianta reclamar depois!</texto>
+	<referenciaTreinamento>251</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>254</numero>
+	<usuario>Usuario30</usuario>
+	<texto>o casamento gay foi aprovado no Brasil?</texto>
+</mensagem>
+<mensagem>
+	<numero>255</numero>
+	<usuario>Usuario29</usuario>
+	<texto>sim</texto>
+	<referenciaTreinamento>254</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>256</numero>
+	<usuario>Usuario24</usuario>
+	<texto>Concodo, a luta continua...</texto>
+	<referenciaTreinamento>251</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>257</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Acabou de ser aprovado pelo CNJ Usuario30 a partir de um requerimento do Jean Wyllys</texto>
+	<referenciaTreinamento>254</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>258</numero>
+	<usuario>Usuario30</usuario>
+	<texto>Sério?</texto>
+	<referenciaTreinamento>257</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>259</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Já ta nas redes</texto>
+	<referenciaTreinamento>258</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>260</numero>
+	<usuario>Usuario30</usuario>
+	<texto>eu to emocionado</texto>
+	<referenciaTreinamento>259</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>261</numero>
+	<usuario>Usuario9</usuario>
+	<texto>"Se há uma doença neste debate, é a perversão da homofobia", diz Débora Diniz #XSeminarioLGBT</texto>
+</mensagem>
+<mensagem>
+	<numero>262</numero>
+	<usuario>Usuario31</usuario>
+	<texto>Quem é ela?</texto>
+	<referenciaTreinamento>261</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>263</numero>
+	<usuario>Usuario13</usuario>
+	<texto>e não tem mais como voltar atras !</texto>
+	<referenciaTreinamento>260</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>264</numero>
+	<usuario>Usuario29</usuario>
+	<texto>GRAÇAS A DEUS SIM E VERDADE FINALMENTE TODS PODEM CASAR</texto>
+	<referenciaTreinamento>263</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>265</numero>
+	<usuario>Usuario30</usuario>
+	<texto>Eu vi Usuario13 nas redes mas não acreditei entao o ano que vem eu posso casar com me parceiro?</texto>
+	<referenciaTreinamento>263</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>266</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Débora Diniz, membro emérito da LiHS *-*</texto>
+</mensagem>
+<mensagem>
+	<numero>267</numero>
+	<usuario>Usuario29</usuario>
+	<texto>QUE DISCURSO LINDO DA DEBORA PARABENS LINDO</texto>
+	<referenciaTreinamento>266</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>268</numero>
+	<usuario>Usuario32</usuario>
+	<texto>Perdoem minha ignorância, mas alguém pode me esclarecer a respeito da homofobia?</texto>
+</mensagem>
+<mensagem>
+	<numero>269</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Deve estar no Twitter tb......e no mundo.......Em breve repercursão Internacional!</texto>
+</mensagem>
+<mensagem>
+	<numero>270</numero>
+	<usuario>Usuario32</usuario>
+	<texto>O que devo entender como sendo HOMOFOBIA</texto>
+</mensagem>
+<mensagem>
+	<numero>271</numero>
+	<usuario>Usuario22</usuario>
+	<texto>Alguém está gravando a transmissão?</texto>
+	
+</mensagem>
+<mensagem>
+	<numero>272</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Eles sempre gravam e disponibilizam depois</texto>
+	<referenciaTreinamento>271</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>273</numero>
+	<usuario>Usuario13</usuario>
+	<texto>outra hora Usuario32...começa prestando atenção no Seminário que está acontecendo nesse momento em Brasília...vai te ajudar muito</texto>
+	<referenciaTreinamento>270</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>274</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Eles = Câmara dos Deputados</texto>
+	<referenciaTreinamento>271</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>275</numero>
+	<usuario>Usuario22</usuario>
+	<texto>OI Usuario6, A TRANSmiSSÃO FICA DISPONIVEL NESSE ENDEREÇO AQUI?</texto>
+	<referenciaTreinamento>274</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>276</numero>
+	<usuario>Usuario23</usuario>
+	<texto>Queria ver os canais abertos exibirem um discurso tão forte e coerente sobre Laicidade que a Débora fez.</texto>
+</mensagem>
+<mensagem>
+	<numero>277</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Só depende de nós Usuario23......a mídia depende de audiência...se a maioria quer, ela mostra! A globo está fazendo isso</texto>
+	<referenciaTreinamento>276</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>278</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Novela gay chegando na Globo</texto>
+	<referenciaTreinamento>277</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>279</numero>
+	<usuario>Usuario32</usuario>
+	<texto>posso estar enganado, mas "imaginação" não pode ser considerado um argumento válido, ou pode?</texto>
+</mensagem>
+<mensagem>
+	<numero>280</numero>
+	<usuario>Usuario33</usuario>
+	<texto>quem está falando?</texto>
+</mensagem>
+<mensagem>
+	<numero>281</numero>
+	<usuario>Usuario9</usuario>
+	<texto>esta rolando nesse momento o 10º Seminário LGBT</texto>
+	<referenciaTreinamento>280</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>282</numero>
+	<usuario>Usuario33</usuario>
+	<texto>sim, mas quem está falando neste momento?</texto>
+	<referenciaTreinamento>281</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>283</numero>
+	<usuario>Usuario9</usuario>
+	<texto>"O preâmbulo da Constituição não tem força normativa", diz procurador @jeffdiasmpf s\ menção à Deus no preâmbulo da CF. #XSeminarioLGBT</texto>
+	<referenciaTreinamento>282</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>284</numero>
+	<usuario>Usuario33</usuario>
+	<texto>ok Usuario9</texto>
+	<referenciaTreinamento>283</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>285</numero>
+	<usuario>Usuario32</usuario>
+	<texto>"o PREAMBULO DA CONSTITUIÇÃO NÃO TEM FORÇA NORMATIVA" (?) Estão afirmando que a carta magna da nação não tem força normativa?</texto>
+	<referenciaTreinamento>283</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>286</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32 ele disse q preambulo não tem força normativa. O preambulo da CF88 não foi votado.</texto>
+	<referenciaTreinamento>285</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>287</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Imaginem um duas irmãs disputando a guarda de uma sobrinha de uma outra irma falecida. Uma irma é católica a outra é umbadista, e no tribunal tem simbolo Usuario1tão. E o advogado da irmã Usuario1ta, fala q a outra irmã é umbadista.</texto>
+</mensagem>
+<mensagem>
+	<numero>288</numero>
+	<usuario>Usuario9</usuario>
+	<texto>A retirada de símbolos religiosos de prédios públicos estava prevista quando se estabeleceu o Estado laico em 1890, revela o procurador Jefferson Aparecido Dias no X Seminário LGBT do Congresso.</texto>
+</mensagem>
+<mensagem>
+	<numero>289</numero>
+	<usuario>Usuario32</usuario>
+	<texto>me perdoe, mas religião nunca foi argumento válido em disputa judicial.</texto>
+	<referenciaTreinamento>288</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>290</numero>
+	<usuario>Usuario33</usuario>
+	<texto>símbolos religiosos em prédios públicos é flagrate desrespeito constitucional</texto>
+	<referenciaTreinamento>288</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>291</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32, tem casos onde a religião é citada no Tribunal com pura intensão de discriminar.</texto>
+	<referenciaTreinamento>289</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>292</numero>
+	<usuario>Usuario32</usuario>
+	<texto>querem encher os prédios públicos de simbolos? Usuario1tãos, muçulmanos, judaicos, yorubas, indigenas.... tudo bem, qual é o problema?</texto>
+	<referenciaTreinamento>290</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>293</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Não, unico simbolos q deveriam ter espaço público são simbolos da republica. E isso q vc esta fazendo é, tentar justificar um erro com outro erros.</texto>
+	<referenciaTreinamento>292</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>294</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ok, deixemos então somente os simbolos da república. vamos exisgir inclusive que os parlamentares usem cores neutras nas gravatas, retirem os botons do partido e inclusive que Jean Wiliy tire a flor da lapela.</texto>
+	<referenciaTreinamento>293</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>295</numero>
+	<usuario>Usuario8</usuario>
+	<texto>A claro, agora as cores foram sequestradas por ideologias?? Vc só pode estar bricando. Quer dizer Flamenguista, obrigatoriamente é comunista, pq usa vermelho?? Piada.</texto>
+	<referenciaTreinamento>294</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>296</numero>
+	<usuario>Usuario32</usuario>
+	<texto>Estou falando que os parlamentares de partidos esquerdistas usam gravatas vermelhas.</texto>
+	<referenciaTreinamento>295</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>297</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Alem do mais, pendurar algo no próprio corpo é liberade individual, mas a parede do espaço comum de um prédio público é MUITO diferente.</texto>
+	<referenciaTreinamento>296</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>298</numero>
+	<usuario>Usuario32</usuario>
+	<texto>então se eu entrar no senado com um cruz no pescoço esta tudo bem?</texto>
+	<referenciaTreinamento>297</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>299</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Não tem problema nenhuma entra com a cruz no pescoço, isso não fere laicidade.</texto>
+	<referenciaTreinamento>298</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>300</numero>
+	<usuario>Usuario32</usuario>
+	<texto>pois qual a diferença entre o homem público e o prédio público? ambos não representam amesma coisa?</texto>
+	<referenciaTreinamento>299</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>301</numero>
+	<usuario>Usuario8</usuario>
+	<texto>O corpo do parlamentar é só dele, "não de todos". O prédio público é espaço comum a todos.</texto>
+	<referenciaTreinamento>300</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>302</numero>
+	<usuario>Usuario32</usuario>
+	<texto>o prédio público é espaço comum a todos? todos quem? quer dizer que eu posso entrar em um tribunal, sentar na cadeira do juiz e legislar a meu favor?</texto>
+	<referenciaTreinamento>301</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>303</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32, suas retórica tosca para tentar distorcer o obvio não vai funcionar. Uma parede sustentanto somente 1 simbolo, está sim fazendo propaganda daquela ideologia, isso é INEGAVEL. Isso alem de ferir laicidade, fere a isonomia. Quero igualdade, não privilégios. Oq conservadores querem?? "Manter os privilégios." O cidadão comum não pode tomar lugar de um júiz pq para isso precisa passar em concurso público.</texto>
+	<referenciaTreinamento>302</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>304</numero>
+	<usuario>Usuario33</usuario>
+	<texto>Isto é gravíssimo !!! Prática medieval !!! Tem que ser amplamente divulgad</texto>
+</mensagem>
+<mensagem>
+	<numero>305</numero>
+	<usuario>Usuario32</usuario>
+	<texto>por que um simbolo na parede é tão assustador?</texto>
+	<referenciaTreinamento>304</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>306</numero>
+	<usuario>Usuario33</usuario>
+	<texto>não é assustador , é inconstitucional</texto>
+	<referenciaTreinamento>305</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>307</numero>
+	<usuario>Usuario32</usuario>
+	<texto>de toda a inconstitucionalidade existente no pais, esta é mesmo prioritária?</texto>
+	<referenciaTreinamento>306</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>308</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32 não acho simbolo assustador, apesar de ser ateu, acho bonito simbolos de anjos e figuras de candomble e etc.</texto>
+	<referenciaTreinamento>305</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>309</numero>
+	<usuario>Usuario32</usuario>
+	<texto>se não é assustador qual o problema de ter um simbolo pendurada na parede</texto>
+	<referenciaTreinamento>308</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>310</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario32 nao tem problema nem um, mas nao é justo</texto>
+	<referenciaTreinamento>309</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>311</numero>
+	<usuario>Usuario32</usuario>
+	<texto>para quem não acredita não é um símbolo, é um objeto</texto>
+	<referenciaTreinamento>310</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>312</numero>
+	<usuario>Usuario27</usuario>
+	<texto>pq os simbulos da minha religiao não estão lá</texto>
+	<referenciaTreinamento>311</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>313</numero>
+	<usuario>Usuario32</usuario>
+	<texto>então por que não exigir que sejam adicionados simbolos, ao invez de retirados?</texto>
+	<referenciaTreinamento>312</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>314</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Pelo simples fato, q o Estado deve SER NEUTRO, e tratar todos igualmente.</texto>
+	<referenciaTreinamento>313</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>315</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ok, então a laicidade deve se restringir ao prédios públicos, é isso?</texto>
+	<referenciaTreinamento>314</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>316</numero>
+	<usuario>Usuario27</usuario>
+	<texto>pelo simples fato de que não existe parede suficiente neste mundo para se colocar todos os simbolos</texto>
+	<referenciaTreinamento>313</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>317</numero>
+	<usuario>Usuario8</usuario>
+	<texto>não entendi sua pergunta.</texto>
+	<referenciaTreinamento>315</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>318</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ou se eu quiser colocar um simbolo na fachada da minha casa eu não posso?</texto>
+	<referenciaTreinamento>317</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>319</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Vcs tão perdendo um discursso ótimo...pena</texto>
+</mensagem>
+<mensagem>
+	<numero>320</numero>
+	<usuario>Usuario8</usuario>
+	<texto>laicidade deve se restringir a prédios públicos e a qualquer ação do governo. Não quero ser regido por dogmas de religião x ou y.</texto>
+	<referenciaTreinamento>318</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>321</numero>
+	<usuario>Usuario6</usuario>
+	<texto>na sua casa pode colocar o que quiser, meu caro</texto>
+	<referenciaTreinamento>318</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>322</numero>
+	<usuario>Usuario27</usuario>
+	<texto>na sua casa, no seu templo vc faz oq vc quiser</texto>
+	<referenciaTreinamento>318</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>323</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e na rua?</texto>
+	<referenciaTreinamento>322</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>324</numero>
+	<usuario>Usuario27</usuario>
+	<texto>realmente está ótimo os discursos</texto>
+	<referenciaTreinamento>319</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>325</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Vc pode manifestar sua crença na rua a vontade.</texto>
+	<referenciaTreinamento>323</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>326</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e se eu for agrdido por fazer isso?</texto>
+	<referenciaTreinamento>325</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>327</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Chama polícia.</texto>
+	<referenciaTreinamento>326</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>328</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario32 mantenha um foco e seja direto por favor...</texto>
+</mensagem>
+<mensagem>
+	<numero>329</numero>
+	<usuario>Usuario32</usuario>
+	<texto>sendo direto. já vi Usuario1tãos sendo agredidos simplesmente por participarem de manifestações religiosas públicas</texto>
+	<referenciaTreinamento>328</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>330</numero>
+	<usuario>Usuario27</usuario>
+	<texto>e dai?</texto>
+	<referenciaTreinamento>329</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>331</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Existe lei para isso. Agora é obvio q vc não pode chamar outros de demonio na rua, e achar q vão te tratar com carinho. Chamar o outro da encarnação do própio mal é respeitoso?? Como respeitar alguem q diz que sou o próprio mal?</texto>
+	<referenciaTreinamento>329</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>332</numero>
+	<usuario>Usuario32</usuario>
+	<texto>dai que os agressores eram os mesmos caras que defendem o estado laico e os direitos constitucionais de livre expressão</texto>
+	<referenciaTreinamento>330</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>333</numero>
+	<usuario>Usuario27</usuario>
+	<texto>existem babacas em todos os lugares Usuario32</texto>
+	<referenciaTreinamento>332</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>334</numero>
+	<usuario>Usuario32</usuario>
+	<texto>pois é, e o que acontece com esses babacas? não podem nem ser presos por que a polícia vai ser esculachada pela mídia e pelos "homens públicos"</texto>
+	<referenciaTreinamento>333</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>335</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Beijos em todos esse é o meu nme no facebook!.Nos vemos queridos !Sucesso e muita luta!</texto>
+</mensagem>
+<mensagem>
+	<numero>336</numero>
+	<usuario>Usuario27</usuario>
+	<texto>concordo plenamente Usuario32</texto>
+	<referenciaTreinamento>334</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>337</numero>
+	<usuario>Usuario32</usuario>
+	<texto>já pensou se os judeus resolvessem revidar as agressões contra os alemães?</texto>
+</mensagem>
+<mensagem>
+	<numero>338</numero>
+	<usuario>Usuario27</usuario>
+	<texto>por isso que não sou Usuario1tao. pq os Usuario1toes eram perseguidos e hj perseguem</texto>
+	<referenciaTreinamento>337</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>339</numero>
+	<usuario>Usuario32</usuario>
+	<texto>já pensou se o povo resolvesse revidar as agreções de Stalin?</texto>
+</mensagem>
+<mensagem>
+	<numero>340</numero>
+	<usuario>Usuario27</usuario>
+	<texto>e todos revidaram, por isso houveram as grandes guerras</texto>
+	<referenciaTreinamento>339</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>341</numero>
+	<usuario>Usuario23</usuario>
+	<texto>e o que vc propõe Usuario32?</texto>
+</mensagem>
+<mensagem>
+	<numero>342</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Na época do nazismo, qualquer judeu teria direito a revidar a agressão dos nazistas.</texto>
+	<referenciaTreinamento>339</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>343</numero>
+	<usuario>Usuario32</usuario>
+	<texto>o verdadeiro Usuario1tão não persegue, se persegue deixou de ser Usuario1tão</texto>
+</mensagem>
+<mensagem>
+	<numero>344</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario32 é só vc estudar um pouco de historia que vc vai ver as mais diverssas formas de perseguição feita pelos Usuario1toes</texto>
+	<referenciaTreinamento>343</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>345</numero>
+	<usuario>Usuario32</usuario>
+	<texto>você deve estar falando da inquisição...</texto>
+	<referenciaTreinamento>344</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>346</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32 vc esta tentando transformar o algos em vitima, não duvido q aja exessos em parte das minorias. Mas isso não invalida o direito da busca por igualdade.</texto>
+</mensagem>
+<mensagem>
+	<numero>347</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ok, digamos que você tenha razão. diga-me então o que é igualdade de acordo com seus conceitos?</texto>
+	<referenciaTreinamento>346</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>348</numero>
+	<usuario>Usuario23</usuario>
+	<texto>e Isso Usuario32 que vc está fazendo aqui nesse espaço trazendo a sua verdade de maneira dogmática.</texto>
+	<referenciaTreinamento>347</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>349</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Só cara fera neh Usuario23....</texto>
+	<referenciaTreinamento>348</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>350</numero>
+	<usuario>Usuario32</usuario>
+	<texto>vc me acha dogmatico? por que?</texto>
+	<referenciaTreinamento>348</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>351</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Diga-me pq gays não tem vários direitos, devido a proibição do casamento??</texto>
+	<referenciaTreinamento>347</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>352</numero>
+	<usuario>Usuario24</usuario>
+	<texto>Jesus deixou um legado "amai uns aos outros" e infelizmente muitos não amam e ainda abre a boca e dizem que são Usuario1tãos, eu sou Usuario1tã e gay e amo a todos sem acepção. Visitem a uma igreja Usuario1tã inclusiva perto e vc!</texto>
+</mensagem>
+<mensagem>
+	<numero>353</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Me de 1 único argumento racional, contra casamento homoafetivo??</texto>
+	<referenciaTreinamento>347</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>354</numero>
+	<usuario>Usuario32</usuario>
+	<texto>como eu digo e repito, aquele que segue a igreja e não a Usuario1to não é um Usuario1tão</texto>
+	<referenciaTreinamento>353</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>355</numero>
+	<usuario>Usuario23</usuario>
+	<texto>A questão Usuario32 não é dizer que hoje quem é vítma amanhã será o perseguidor, esse não é o debate aqui, mas sim a garantia de direitos que foram e ainda são negados. Será que estamos falando da mesma problemática?</texto>
+	<referenciaTreinamento>354</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>356</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e quais saõ estes direitos que são negados?</texto>
+	<referenciaTreinamento>355</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>357</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32, vc é obrigado a entregar um papel todo dia dizendo que "deus não existe"?? Não né?? Eu como ateu sou obrigado a entregar e a receber isso.</texto>
+	<referenciaTreinamento>356</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>358</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e quem é que te obriga afazer isso?</texto>
+	<referenciaTreinamento>357</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>359</numero>
+	<usuario>Usuario23</usuario>
+	<texto>Sinceridade se vc não sabe, o debate aqui fica suspenso.</texto>
+	<referenciaTreinamento>358</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>360</numero>
+	<usuario>Usuario8</usuario>
+	<texto>A moeda nacional carrega propaganda monoteista.</texto>
+	<referenciaTreinamento>358</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>361</numero>
+	<usuario>Usuario32</usuario>
+	<texto>vc esta dizendo que uma pequena frase em um pedaço de papel te incomoda?</texto>
+	<referenciaTreinamento>360</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>362</numero>
+	<usuario>Usuario27</usuario>
+	<texto>sim me incomoda</texto>
+	<referenciaTreinamento>361</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>363</numero>
+	<usuario>Usuario23</usuario>
+	<texto>O debate com quem tem a verdade e carrega em si o fundamentalismo e dificil.</texto>
+</mensagem>
+<mensagem>
+	<numero>364</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e por que incomoda?</texto>
+	<referenciaTreinamento>362</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>365</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Tenho certeza q se vc obrigado a etregar esse papel, vc iria se sentir incomodado. Basta inverter a situação e se colocar no lugar do outro.</texto>
+	<referenciaTreinamento>364</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>366</numero>
+	<usuario>Usuario27</usuario>
+	<texto>pq nao me representa</texto>
+	<referenciaTreinamento>364</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>367</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Vcs deviam estar no uol.....</texto>
+</mensagem>
+<mensagem>
+	<numero>368</numero>
+	<usuario>Usuario32</usuario>
+	<texto>não, uma pequena fraze em um pedaço de papel não me incomoda.</texto>
+	<referenciaTreinamento>365</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>369</numero>
+	<usuario>Usuario23</usuario>
+	<texto>Resumindo Usuario32 é contra o casamento civil e o estado laico.</texto>
+</mensagem>
+<mensagem>
+	<numero>370</numero>
+	<usuario>Usuario32</usuario>
+	<texto>por exemplo, você presume que eu não seja ateu, embora eu não tenha dito uma palavra sobre isso</texto>
+</mensagem>
+<mensagem>
+	<numero>371</numero>
+	<usuario>Usuario8</usuario>
+	<texto>A então vc não vai se encomodar se tirar ela.</texto>
+	<referenciaTreinamento>368</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>372</numero>
+	<usuario>Usuario32</usuario>
+	<texto>posso estar errado, mas fazer afirmações a respeito de uma pessoa pode constituir calúnia</texto>
+</mensagem>
+<mensagem>
+	<numero>373</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario32 se vc acompanhar o debate ali na telinha vc vai entender</texto>
+</mensagem>
+<mensagem>
+	<numero>374</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Com esse nick precisa dizer alguma coisa?</texto>
+	<referenciaTreinamento>370</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>374</numero>
+	<usuario>Usuario32</usuario>
+	<texto>querem tirar a frase tirem, querem tirar as cruzes tirem, mas se estão falando em igualdade, não façam isso para satisfazer apenas uma parcela da sociedade, se não não é igualdade</texto>
+	<referenciaTreinamento>371</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>375</numero>
+	<usuario>Usuario24</usuario>
+	<texto>A religião mata, Jesus salva, a região instiga o ódio, Jesus é amor a religião persegue, Jesus acolhe...este é o Jesus filho de Deus que muitos falam porém não tiveram realmente uma experiência com ele.</texto>
+</mensagem>
+<mensagem>
+	<numero>376</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Claro, peblicito para determionar igualdade. Adoro a ditadura da maioria.</texto>
+	<referenciaTreinamento>374</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>377</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Que lindo !!!!!</texto>
+</mensagem>
+<mensagem>
+	<numero>378</numero>
+	<usuario>Usuario27</usuario>
+	<texto>lindo mesmo Usuario13</texto>
+	<referenciaTreinamento>377</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>379</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ditadora da maioria? o que é isso? melhor seria aditadura da minoria?</texto>
+	<referenciaTreinamento>376</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>380</numero>
+	<usuario>Usuario8</usuario>
+	<texto>A maioria manda, e azar das minorias. Obviamente se vc vivesse em pais com uma teocracia islamica, não iria gostar q tivessem peblicito obrigando todas mulheres, inclusive a sua mulher usaram veu.</texto>
+	<referenciaTreinamento>379</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>381</numero>
+	<usuario>Usuario32</usuario>
+	<texto>desculpe, mas no mundo islamico, quem manda é um minoria e não uma maioria, tanto é que não há democracia no mundo islamico</texto>
+	<referenciaTreinamento>380</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>382</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32 direito básico. Brasil é um Estado democrático de DIREITO. Logo a população não pode suprimir direitos igualitários.</texto>
+	<referenciaTreinamento>381</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>383</numero>
+	<usuario>Usuario51</usuario>
+	<texto>Que belo seminario! Parabéns pela iniciativa, pessoal. É um momento lindo na história do país.</texto>
+</mensagem>
+<mensagem>
+	<numero>384</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario51 realmente está maravilindo</texto>
+	<referenciaTreinamento>383</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>385</numero>
+	<usuario>Usuario7</usuario>
+	<texto>URGENTE o casamento é permitido em todo o país</texto>
+</mensagem>
+<mensagem>
+	<numero>386</numero>
+	<usuario>Usuario52</usuario>
+	<texto>Boa tarde a todos e todas.</texto>
+</mensagem>
+<mensagem>
+	<numero>387</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Tratar TODOS como iguais. Tolerar não basta, tolerar e se colocar em posição acima, é preciso ver todos como IGUAIS em direitos e deveres.</texto>
+</mensagem>
+<mensagem>
+	<numero>388</numero>
+	<usuario>Usuario32</usuario>
+	<texto>tolerancia? então vocÊ esta me dizendo que impedir a população de se pronunciar sobre um assunto através dos meios democráticos é igual a tolerância? é isso mesmo?</texto>
+	<referenciaTreinamento>387</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>389</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Vcs virão que o CNJ liberou o casamento igualitário em todo o brasil?</texto>
+</mensagem>
+<mensagem>
+	<numero>390</numero>
+	<usuario>Usuario52</usuario>
+	<texto>O grande problema é que Usuario1tãos fundamentalistas (e aqueles nem tão fundamentalistas assim) só concebem o mundo como arena de guerra entre o bem e o mal...Já vivem como se estivessem numa teocracia, não entendem nada de direito civil, etc - aliás, como a grande maioria dos brasileiros.</texto>
+	<referenciaTreinamento>388</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>391</numero>
+	<usuario>Usuario32</usuario>
+	<texto>não sei dos Usuario1tãos, mas eu estou apenas fazendo perguntas e tentando compreender os argumentos deste debate</texto>
+	<referenciaTreinamento>390</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>392</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario32 vai sambando de um tema para outro, impressionante.</texto>
+	<referenciaTreinamento>391</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>393</numero>
+	<usuario>Usuario52</usuario>
+	<texto>Essa ignorÂncia é o preço a se pagar por um sistema de educação deficiente e defasada...</texto>
+</mensagem>
+<mensagem>
+	<numero>394</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario21 o Jean Willys falou no seminario já a 3 hras atras</texto>
+	<referenciaTreinamento>389</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>395</numero>
+	<usuario>Usuario32</usuario>
+	<texto>técnica de desqualiquificação do interlocutor, na tentativa de desqualificar os argumentos, golpe baixo</texto>
+	<referenciaTreinamento>393</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>396</numero>
+	<usuario>Usuario52</usuario>
+	<texto>Oi? Usuario32, vc está num monólogo ou se dirigindo a alguém aqui?</texto>
+	<referenciaTreinamento>395</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>397</numero>
+	<usuario>Usuario32</usuario>
+	<texto>se voltarem minhas palavras, verão que só estou fazendo perguntas. Não sou tão sabio quanto vocês, não sei nada... estou apenas tentando compreender a natureza desta realidade</texto>
+	<referenciaTreinamento>396</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>398</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario32 se vc acompanhar as discussoes ali na telinha vc vai entender algumas coisas</texto>
+	<referenciaTreinamento>396</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>399</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e o que é que eu devo entender do que estou vendo?</texto>
+	<referenciaTreinamento>398</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>400</numero>
+	<usuario>Usuario27</usuario>
+	<texto>o que lhe couber entender</texto>
+	<referenciaTreinamento>399</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>401</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Se realmente quisesse isso Usuario32 prestava atenção no Seminário</texto>
+	<referenciaTreinamento>399</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>402</numero>
+	<usuario>Usuario51</usuario>
+	<texto>Amigo, se você tem problemas de interpretação, não cabe a nós te ajudar.</texto>
+	<referenciaTreinamento>399</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>403</numero>
+	<usuario>Usuario32</usuario>
+	<texto>mas eu não posso fazer perguntas para os membros do seminário</texto>
+</mensagem>
+<mensagem>
+	<numero>404</numero>
+	<usuario>Usuario27</usuario>
+	<texto>pode, fique a vontade</texto>
+	<referenciaTreinamento>403</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>405</numero>
+	<usuario>Usuario32</usuario>
+	<texto>eles me deixam com muitas dúvidas</texto>
+</mensagem>
+<mensagem>
+	<numero>406</numero>
+	<usuario>Usuario51</usuario>
+	<texto>Não vi nenhuma dúvida concreta tua aqui até agora.</texto>
+	<referenciaTreinamento>405</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>407</numero>
+	<usuario>Usuario32</usuario>
+	<texto>é, de fato a dúvida é por definiçaõ não concreta, visto que representa uma lacuna cognitiva, apenas acerteza é concreta.</texto>
+	<referenciaTreinamento>406</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>408</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario27, só fiquei sabendo agora, estava em reunião. Mas que bacana a notícia ter sido dada nesse Seminário</texto>
+	<referenciaTreinamento>394</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>409</numero>
+	<usuario>Usuario27</usuario>
+	<texto>foi lindo Usuario21, logo na abertura</texto>
+	<referenciaTreinamento>408</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>410</numero>
+	<usuario>Usuario32</usuario>
+	<texto>como eu faço para mandar perguntas aos palestrantes, posso fazer isso?</texto>
+</mensagem>
+<mensagem>
+	<numero>411</numero>
+	<usuario>Usuario51</usuario>
+	<texto>Ah, então o problema não é só má interpretação - é também má fé :) Entendi.</texto>
+	<referenciaTreinamento>407</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>412</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Usuario21...se der volta as 14:40......vai ter tudo no youtube depois....super avaleu a pena....tenta buscar e compartilhar</texto>
+	<referenciaTreinamento>408</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>413</numero>
+	<usuario>Usuario51</usuario>
+	<texto>Boa tarde a todos! Abraço</texto>
+</mensagem>
+<mensagem>
+	<numero>414</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ma fé? para haver mafé, não é preciso que haja aboa fé?</texto>
+	<referenciaTreinamento>411</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>415</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Vou procurar. Fiquei emocionado só de imaginar</texto>
+	<referenciaTreinamento>412</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>416</numero>
+	<usuario>Usuario13</usuario>
+	<texto>volto depois..quem tivet face e tiver afim me add</texto>
+</mensagem>
+<mensagem>
+	<numero>417</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario32, má-fé = mau caratismo</texto>
+	<referenciaTreinamento>414</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>418</numero>
+	<usuario>Usuario32</usuario>
+	<texto>devo entender que esta sendo atribuída amim o título de mau caráter?</texto>
+	<referenciaTreinamento>417</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>419</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario32 como te disse antes mantenha um foco</texto>
+	<referenciaTreinamento>418</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>420</numero>
+	<usuario>Usuario32</usuario>
+	<texto>nao me sinto ofendido</texto>
+</mensagem>
+<mensagem>
+	<numero>421</numero>
+	<usuario>Usuario27</usuario>
+	<texto>menos pior assim pq nao é direito de ninguem ofender ninguem mas por favor, mantenha um foco se quiser discutir alguma coisa, caso contrário fica dificil</texto>
+	<referenciaTreinamento>420</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>422</numero>
+	<usuario>Usuario32</usuario>
+	<texto>parece que neste grupo a minoria sou eu...rs</texto>
+</mensagem>
+<mensagem>
+	<numero>423</numero>
+	<usuario>Usuario27</usuario>
+	<texto>todo mundo é minoria de alguma coisa em alguma época da vida</texto>
+	<referenciaTreinamento>422</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>424</numero>
+	<usuario>Usuario32</usuario>
+	<texto>pois é, todo mundo é minoria de alguma coisa...mas nem todos querem mudar o mundo por causa disso</texto>
+	<referenciaTreinamento>423</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>425</numero>
+	<usuario>Usuario27</usuario>
+	<texto>quem quer mudar o mundo?</texto>
+	<referenciaTreinamento>424</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>426</numero>
+	<usuario>Usuario32</usuario>
+	<texto>eu por exemplo gosto de rock, mas não saio por ai exigindo a retirada dos demais estilos músicais do mercado</texto>
+</mensagem>
+<mensagem>
+	<numero>427</numero>
+	<usuario>Usuario27</usuario>
+	<texto>qual a relevancia deste comentario ?</texto>
+	<referenciaTreinamento>426</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>428</numero>
+	<usuario>Usuario32</usuario>
+	<texto>qual é a relevancia deste comentário? existe de fato um argumento relevante? o acrença é que atribui relavancia aos argumentos?</texto>
+	<referenciaTreinamento>427</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>429</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Só detalhe q mercado nada tem haver com Estado, q deve se pautar pela laicidade e a isonomia.</texto>
+</mensagem>
+<mensagem>
+	<numero>430</numero>
+	<usuario>Usuario32</usuario>
+	<texto>isonomia é uma palavra bonita. qual o significado dela?</texto>
+	<referenciaTreinamento>429</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>431</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Pega dicionário, tenho certeza q vc ira gostar muito de aprender sozinho, e não se guiar pela cabeça dos outros.</texto>
+	<referenciaTreinamento>430</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>432</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario32, se vc usar de má-fé, sinta-se ofendido e fique preocupado, pq 'deus não gosta'</texto>
+	<referenciaTreinamento>430</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>433</numero>
+	<usuario>Usuario32</usuario>
+	<texto>devo então me sentir ofendido? isso implica que existe a intenção de ofender ou provocar em mim tal sentimento desconfortável?</texto>
+	<referenciaTreinamento>432</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>434</numero>
+	<usuario>Usuario21</usuario>
+	<texto>rsrs Claro que não, amigo. Bem, falo por mim. Com deus... aí tem que ver com ele.</texto>
+	<referenciaTreinamento>433</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>435</numero>
+	<usuario>Usuario32</usuario>
+	<texto>tenho certeza de que o dicionário é uma fonte valiosa, porém gostaria de conhecer a vossa interpretação desta palavra ISONOmiA</texto>
+	<referenciaTreinamento>431</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>436</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Só eu que to preguiça ou mais alguém?</texto>
+</mensagem>
+<mensagem>
+	<numero>437</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario21 tb to mas tento manter o foco</texto>
+	<referenciaTreinamento>436</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>438</numero>
+	<usuario>Usuario21</usuario>
+	<texto>hum. ok. Vou pegar um café ali</texto>
+	<referenciaTreinamento>437</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>439</numero>
+	<usuario>Usuario32</usuario>
+	<texto>qual é o foco?</texto>
+	<referenciaTreinamento>437</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>440</numero>
+	<usuario>Usuario27</usuario>
+	<texto>vou fazer meu almoço</texto>
+</mensagem>
+<mensagem>
+	<numero>441</numero>
+	<usuario>Usuario21</usuario>
+	<texto>o foco é que agora todos podem se casar.</texto>
+	<referenciaTreinamento>439</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>442</numero>
+	<usuario>Usuario27</usuario>
+	<texto>o foco das minhas indagações sobre o tema que esta sendo discutido no seminario</texto>
+	<referenciaTreinamento>439</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>443</numero>
+	<usuario>Usuario21</usuario>
+	<texto>é uma conquista enorme</texto>
+</mensagem>
+<mensagem>
+	<numero>444</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Recomendo pegar sentença do TJ do Rio Grande so Sul, q determinou a retirada dos simbolos religiosos do espaço público, usando a isonomia.</texto>
+	<referenciaTreinamento>435</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>445</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Acertadíssima decisão do TJ RG</texto>
+	<referenciaTreinamento>444</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>446</numero>
+	<usuario>Usuario32</usuario>
+	<texto>devo entender que tu pensas ser ISONOmiA tem relação com a retirada de símbolos religiosos de prédios públicos? ou tu pensas que ISONOmiA foi o argumento empregado para induzir o juiz a tomada de decisão?</texto>
+	<referenciaTreinamento>444</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>447</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Sim foi um dos argumentos usados pelos juizes.</texto>
+	<referenciaTreinamento>446</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>448</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario32, escreve coloquialmente porque assim cê tá escrevendo com erros.</texto>
+	<referenciaTreinamento>446</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>449</numero>
+	<usuario>Usuario32</usuario>
+	<texto>porém, é correto que um palavra seja um argumento, quando esta esta despida de seu significado?</texto>
+	<referenciaTreinamento>447</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>450</numero>
+	<usuario>Usuario21</usuario>
+	<texto>é um princípio, Jesus, entendeu? as decisões, portanto, devem ser baseadas nele e, claro em outros princípios</texto>
+	<referenciaTreinamento>449</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>451</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ou concordamos que uma palavra só pode ser considerada quando seu significado é conhecido?</texto>
+	<referenciaTreinamento>447</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>452</numero>
+	<usuario>Usuario21</usuario>
+	<texto>"todos são iguais perante a lei"</texto>
+</mensagem>
+<mensagem>
+	<numero>453</numero>
+	<usuario>Usuario32</usuario>
+	<texto>isso é um principio?</texto>
+	<referenciaTreinamento>452</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>454</numero>
+	<usuario>Usuario21</usuario>
+	<texto>isonomia ou princípio de igualdade</texto>
+	<referenciaTreinamento>453</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>455</numero>
+	<usuario>Usuario32</usuario>
+	<texto>muito bem, se isonomia é um principio que diz que todos são iguais perante a lei, então como pode se sustentar o argumento da existência da desigualdade?</texto>
+	<referenciaTreinamento>454</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>456</numero>
+	<usuario>Usuario27</usuario>
+	<texto>o significado da palavra está naquele local chamado dicionario em que temo significado de todas as palavras</texto>
+	<referenciaTreinamento>451</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>457</numero>
+	<usuario>Usuario21</usuario>
+	<texto>ah, Usuario32, achei que a gnt tava conversando sério.</texto>
+	<referenciaTreinamento>455</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>458</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ué, ou todos são iguais ou não são.</texto>
+	<referenciaTreinamento>457</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>459</numero>
+	<usuario>Usuario27</usuario>
+	<texto>e tenho a total certeza de que o emprego dela fui muito bem pautado peloS juizeS no emprego desta</texto>
+</mensagem>
+<mensagem>
+	<numero>460</numero>
+	<usuario>Usuario32</usuario>
+	<texto>se todos são iguais não há desigualdade, se há desigualdade nem todos saõ iguais</texto>
+</mensagem>
+<mensagem>
+	<numero>461</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Iguais perante a lei. é diferente de iguais em sua singularidade</texto>
+	<referenciaTreinamento>460</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>462</numero>
+	<usuario>Usuario32</usuario>
+	<texto>singularidade, é sinonimo de unicidade e se algo é único, óbviamente não é igual amais nada</texto>
+	<referenciaTreinamento>461</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>463</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Jesus, rs eu não se vc tá fingindo que não entende</texto>
+	<referenciaTreinamento>462</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>464</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ou algo que é único pode ter um igual?</texto>
+</mensagem>
+<mensagem>
+	<numero>465</numero>
+	<usuario>Usuario21</usuario>
+	<texto>ou não está entendendo.</texto>
+	<referenciaTreinamento>462</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>466</numero>
+	<usuario>Usuario32</usuario>
+	<texto>eu estou apenas usando o princípio da lógica</texto>
+	<referenciaTreinamento>465</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>467</numero>
+	<usuario>Usuario21</usuario>
+	<texto>clareia pra mim o que tá acontecendo</texto>
+</mensagem>
+<mensagem>
+	<numero>468</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Alguém tem mac e sabe o que fazer para assistir ao seminário?</texto>
+</mensagem>
+<mensagem>
+	<numero>469</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Eu devo dizer que tb estou um pouco perdido</texto>
+	<referenciaTreinamento>467</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>470</numero>
+	<usuario>Usuario21</usuario>
+	<texto>mi4, a transmissão está aprada</texto>
+	<referenciaTreinamento>468</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>472</numero>
+	<usuario>Usuario36</usuario>
+	<texto>E comparto os problemas de plataforma mi4</texto>
+	<referenciaTreinamento>468</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>473</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Só volta mais tarde, mas parece que chrome não consegue ver, só no Internet Explorer</texto>
+	<referenciaTreinamento>472</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>474</numero>
+	<usuario>Usuario36</usuario>
+	<texto>O que estavam discutindo anteriormente?</texto>
+</mensagem>
+<mensagem>
+	<numero>475</numero>
+	<usuario>Usuario32</usuario>
+	<texto>você me diz que todos são iguais perante a lei, mas diferentes em sua singularidade, e eu digo que que isso é algo óbvio. Então se no campo da lei todos saõ iguais e o problema esta no campo da singularidade, por que se tenta solucionar a questão no campo das leis, que parece estar de acordo com o principio da igualdade segundo vocês mesmos?</texto>
+	<referenciaTreinamento>467</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>476</numero>
+	<usuario>Usuario4</usuario>
+	<texto> putz, só Internet Explorer? quem foi a pessoa que fez o setup dessa conferência. falta total de noção de compatibilidade.</texto>
+	<referenciaTreinamento>473</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>477</numero>
+	<usuario>Usuario27</usuario>
+	<texto>eu estou vendo pelo chrome</texto>
+	<referenciaTreinamento>476</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>478</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Então Usuario32, deixa eu desenhar pra ver se vc entende, prestenção:</texto>
+	<referenciaTreinamento>475</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>479</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario36 estava discutindo laicidade</texto>
+	<referenciaTreinamento>474</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>480</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Esse Usuario32 deve estar dando ctrl + c, ctrl + v...</texto>
+</mensagem>
+<mensagem>
+	<numero>481</numero>
+	<usuario>Usuario32</usuario>
+	<texto>por favor, ajude-me a entender este paradoxo</texto>
+	<referenciaTreinamento>480</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>482</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Usuario32, imagine a constituição como uma meta-lei, uma lei sobre o que pode ser lei.</texto>
+	<referenciaTreinamento>481</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>483</numero>
+	<usuario>Usuario27</usuario>
+	<texto>mi4 eu estou vendo pelo chrome</texto>
+</mensagem>
+<mensagem>
+	<numero>484</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Todos tem direito a chupar manga. (igualdade perante a lei)</texto>
+	<referenciaTreinamento>482</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>485</numero>
+	<usuario>Usuario32</usuario>
+	<texto>você sugere que a constituição é uma meta lei?</texto>
+	<referenciaTreinamento>482</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>486</numero>
+	<usuario>Usuario21</usuario>
+	<texto>mas eu em minha singularidade tenho as pernas curtas... :( #triste</texto>
+</mensagem>
+<mensagem>
+	<numero>487</numero>
+	<usuario>Usuario32</usuario>
+	<texto>sim, todos tem o direito de chupar mangas, mas alguns não gostam de mangas</texto>
+	<referenciaTreinamento>484</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>488</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Quem não gosta. fica tranquilo, que ninguem vai te obrigar a chupar um;.... uma manga</texto>
+	<referenciaTreinamento>487</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>489</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Então não façam isso</texto>
+	<referenciaTreinamento>487</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>490</numero>
+	<usuario>Usuario32</usuario>
+	<texto>certo, todos tem o direito de chupar manga, mas você tem as pernas curtas.. continue</texto>
+	<referenciaTreinamento>486</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>491</numero>
+	<usuario>Usuario36</usuario>
+	<texto>O dever do estado é garantir acesso ao direito.</texto>
+	<referenciaTreinamento>487</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>492</numero>
+	<usuario>Usuario21</usuario>
+	<texto>se o estado te fornece um banquinho pra vc pegar as mangas</texto>
+	<referenciaTreinamento>491</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>493</numero>
+	<usuario>Usuario4</usuario>
+	<texto>A constituição diz que todos são/precisam ser iguais perante a lei. Logo, não se pode propor uma lei que diga "Usuario32 tem direito de chupar manga". Só se pode propor lei que diga "todos podem chupar manga" ou "ninguém pode chupar manga". Esse é o princípio.</texto>
+	<referenciaTreinamento>491</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>494</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Igualdade é tratar desiguais de maneira desigual para que tenham acesso aos mesmos direitos. Os setores mais frágeis necessitam essa proteção.</texto>
+	<referenciaTreinamento>493</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>495</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ta, todos tem o direito de chupar mangas, vc tem as pernas curta s e o estado te da um banquinho, prociga</texto>
+	<referenciaTreinamento>492</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>496</numero>
+	<usuario>Usuario21</usuario>
+	<texto>eu que sou pequenininho (singularidade) preciso de um banquinho e uma lata de arroz e ai seim eu alcanço as mangas a que eu tenho direito.</texto>
+	<referenciaTreinamento>495</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>497</numero>
+	<usuario>Usuario32</usuario>
+	<texto>mas você só tem o direito de chupar as mangas que estão em local público ou as que puder comprar. isso é correto?</texto>
+	<referenciaTreinamento>496</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>498</numero>
+	<usuario>Usuario36</usuario>
+	<texto>O estado pode te dar um banquinho, não proibir que vc compre um banquinho, impedir que vc derrube a arvore</texto>
+	<referenciaTreinamento>497</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>499</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Estamos resolvido sobre a Isonomia, Usuario32?</texto>
+</mensagem>
+<mensagem>
+	<numero>500</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Usuario32, você tem uma limitação cognitiva?</texto>
+</mensagem>
+<mensagem>
+	<numero>501</numero>
+	<usuario>Usuario32</usuario>
+	<texto>estou perguntando, pois isto é relevante</texto>
+	<referenciaTreinamento>500</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>502</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Estamos entendidos sobre a Isonomia, Usuario32?</texto>
+	<referenciaTreinamento>501</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>503</numero>
+	<usuario>Usuario32</usuario>
+	<texto>se você só pode chupar as mangas que estão em local público ou as que puder comprar, isso significa que vocÊ não tem o direito de chupar todas as mangas.</texto>
+</mensagem>
+<mensagem>
+	<numero>504</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Usuario32, vc está presa em um ciclo vicioso de falsa lógica. Que parece lógico mas não ê</texto>
+	<referenciaTreinamento>503</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>505</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Qual é o teórico da logica que vc lê, Usuario32?</texto>
+	<referenciaTreinamento>503</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>506</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e por que não é lógico, onde esta minha falta de lógica? aponte por favor?</texto>
+	<referenciaTreinamento>504</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>507</numero>
+	<usuario>Usuario21</usuario>
+	<texto>rs</texto>
+</mensagem>
+<mensagem>
+	<numero>508</numero>
+	<usuario>Usuario32</usuario>
+	<texto>poemos começar por sócrates</texto>
+	<referenciaTreinamento>505</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>509</numero>
+	<usuario>Usuario27</usuario>
+	<texto>PQ VC ESTA ENTRANDO NO AMBITO DE OUTRAS LEIS</texto>
+	<referenciaTreinamento>506</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>510</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Usuario32, vamos conversar sem as metáforas. Que tal?</texto>
+</mensagem>
+<mensagem>
+	<numero>511</numero>
+	<usuario>Usuario32</usuario>
+	<texto>sim, e se existem outras leis significa que não não temos o amplo direito</texto>
+	<referenciaTreinamento>509</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>512</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Gente, que coisa linda o anúncio do JEan sobre o Casamento Civil Igualitário</texto>
+</mensagem>
+<mensagem>
+	<numero>513</numero>
+	<usuario>Usuario27</usuario>
+	<texto>nem Usuario32, significa que somos burros e não sabemos respeitar o direito dos outros</texto>
+	<referenciaTreinamento>511</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>514</numero>
+	<usuario>Usuario32</usuario>
+	<texto>foi vocÊ quem quis chupar mangas, mas podemos cortar as metaforas.</texto>
+	<referenciaTreinamento>510</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>515</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Foi mais um desenho pra vc entender, Usuario32 do que metáfora</texto>
+	<referenciaTreinamento>514</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>516</numero>
+	<usuario>Usuario32</usuario>
+	<texto>será por que o respeito aos direitos dos outros implica em deveres para nós?</texto>
+	<referenciaTreinamento>513</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>517</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Ele não tem mais argumentos para defender a sua posição em tema, ele muda o assunto tenta fazer uma ligação entre temas diferentes, para tentar vencer o debate em 1 parte. Para de alguma forma tentar validar sua visão conservadora.</texto>
+</mensagem>
+<mensagem>
+	<numero>518</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Não dá pra dar pé-de-moleque pra quem não tem dentes né :/</texto>
+</mensagem>
+<mensagem>
+	<numero>519</numero>
+	<usuario>Usuario27</usuario>
+	<texto>implica sim Usuario32</texto>
+	<referenciaTreinamento>516</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>520</numero>
+	<usuario>Usuario32</usuario>
+	<texto>talvez o moleque possa ir chupando até derreter.. que preconceito contra os banguelas...</texto>
+	<referenciaTreinamento>518</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>521</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Hahahahahahahahahahahahaha</texto>
+	<referenciaTreinamento>520</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>522</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario32, formula seu problema com o seminário que nós vamos responder</texto>
+</mensagem>
+<mensagem>
+	<numero>523</numero>
+	<usuario>Usuario32</usuario>
+	<texto>por que apressuposição de que eu tenho um problema?</texto>
+	<referenciaTreinamento>522</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>524</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Alguém aí já vai casar?</texto>
+</mensagem>
+<mensagem>
+	<numero>525</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario21 eu vou (já iria) mas quando tiver dinheiro para tal</texto>
+	<referenciaTreinamento>524</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>526</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Não sei. Porque vc tá perguntando tanto? é uma curiosidade? ou só passatempo de internet</texto>
+	<referenciaTreinamento>523</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>527</numero>
+	<usuario>Usuario21</usuario>
+	<texto>rsrsrsss de Onde Usuario27?</texto>
+	<referenciaTreinamento>525</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>528</numero>
+	<usuario>Usuario32</usuario>
+	<texto>estou exercendo meu direito de perguntar</texto>
+	<referenciaTreinamento>526</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>529</numero>
+	<usuario>Usuario8</usuario>
+	<texto>não sou lgbt, mas sei ser imparcial e ver uma injustiça.</texto>
+</mensagem>
+<mensagem>
+	<numero>530</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e algumas pessoas simpaticas estão me respondendo</texto>
+</mensagem>
+<mensagem>
+	<numero>531</numero>
+	<usuario>Usuario21</usuario>
+	<texto>:) lindo. então continua.</texto>
+	<referenciaTreinamento>530</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>532</numero>
+	<usuario>Usuario27</usuario>
+	<texto>estou agora morando em SERGIPE onde já era possivel casar-se</texto>
+	<referenciaTreinamento>527</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>533</numero>
+	<usuario>Usuario32</usuario>
+	<texto>obrigado</texto>
+	<referenciaTreinamento>531</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>534</numero>
+	<usuario>Usuario21</usuario>
+	<texto>hum bacana. aqui em minas ainda não é.</texto>
+	<referenciaTreinamento>532</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>535</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario21 agora é</texto>
+	<referenciaTreinamento>534</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>536</numero>
+	<usuario>Usuario21</usuario>
+	<texto>já amndei avisar o patrão que agora ele não tem escapatória</texto>
+	<referenciaTreinamento>535</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>537</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Usuario32, mas ao que parece vc já tem sua opinião formada sobre o assunto e só está "perguntando" para tumultuar.</texto>
+	<referenciaTreinamento>528</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>538</numero>
+	<usuario>Usuario32</usuario>
+	<texto>parece?</texto>
+	<referenciaTreinamento>537</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>539</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Sim, Usuario32</texto>
+	<referenciaTreinamento>538</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>540</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario32 o seu problema é que vc não é objetiso e sendo subjetivo as pessoas pensam oq elas quiserem pensar e ai vira uma discussao sem logica e sem um rumo</texto>
+	<referenciaTreinamento>538</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>541</numero>
+	<usuario>Usuario32</usuario>
+	<texto>e qual é sua opinião Usuario27?</texto>
+	<referenciaTreinamento>540</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>542</numero>
+	<usuario>Usuario21</usuario>
+	<texto>kkk a gnt é que tem que saber?</texto>
+	<referenciaTreinamento>541</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>543</numero>
+	<usuario>Usuario32</usuario>
+	<texto>parece que sim, afinal parece que eu tenho uma opinião formada. não é isso?</texto>
+	<referenciaTreinamento>542</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>544</numero>
+	<usuario>Usuario37</usuario>
+	<texto>E não é?</texto>
+	<referenciaTreinamento>543</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>545</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Falta a casa pra morar né Usuario27, rsrs aí vamos ver</texto>
+</mensagem>
+<mensagem>
+	<numero>546</numero>
+	<usuario>Usuario27</usuario>
+	<texto>eu já moro junto Usuario21</texto>
+	<referenciaTreinamento>545</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>547</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Curtiu o seminário até agora, Yeshu?</texto>
+</mensagem>
+<mensagem>
+	<numero>548</numero>
+	<usuario>Usuario27</usuario>
+	<texto>é só p passar no papel e ter a PROVA de que é meu</texto>
+</mensagem>
+<mensagem>
+	<numero>549</numero>
+	<usuario>Usuario32</usuario>
+	<texto>tenho bases de pensamento...</texto>
+</mensagem>
+<mensagem>
+	<numero>550</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Ah, Usuario27, eu vou ter que mudar pra outra cidade, vai dar só confusão rsrs</texto>
+	<referenciaTreinamento>548</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>551</numero>
+	<usuario>Usuario27</usuario>
+	<texto>eu já me mudei de cidade</texto>
+	<referenciaTreinamento>550</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>552</numero>
+	<usuario>Usuario32</usuario>
+	<texto>não tenho opinião</texto>
+</mensagem>
+<mensagem>
+	<numero>553</numero>
+	<usuario>Usuario21</usuario>
+	<texto>coragem de mais rs</texto>
+	<referenciaTreinamento>551</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>554</numero>
+	<usuario>Usuario32</usuario>
+	<texto>em um senário de múltiplas escolhas não ha espaço para opinião</texto>
+</mensagem>
+<mensagem>
+	<numero>555</numero>
+	<usuario>Usuario27</usuario>
+	<texto>pq nao ?</texto>
+	<referenciaTreinamento>554</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>556</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario32, é chato falar, mas é cenário.</texto>
+	<referenciaTreinamento>554</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>557</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario21 tem quantos anos?</texto>
+</mensagem>
+<mensagem>
+	<numero>558</numero>
+	<usuario>Usuario21</usuario>
+	<texto>2 vezes eu não aguento</texto>
+</mensagem>
+<mensagem>
+	<numero>559</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Vc é meio ferro e fogo, não Usuario32?</texto>
+</mensagem>
+<mensagem>
+	<numero>560</numero>
+	<usuario>Usuario21</usuario>
+	<texto>26, Usuario27</texto>
+	<referenciaTreinamento>557</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>561</numero>
+	<usuario>Usuario32</usuario>
+	<texto>depende do senário</texto>
+	<referenciaTreinamento>559</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>562</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Na cabeça dele deve ser com S.</texto>
+	<referenciaTreinamento>561</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>563</numero>
+	<usuario>Usuario32</usuario>
+	<texto>cenário tetral</texto>
+</mensagem>
+<mensagem>
+	<numero>564</numero>
+	<usuario>Usuario21</usuario>
+	<texto>rssss Usuario32, não faz assim, por favor</texto>
+	<referenciaTreinamento>563</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>565</numero>
+	<usuario>Usuario27</usuario>
+	<texto>olha a Isa lobo falando no TWITTER</texto>
+</mensagem>
+<mensagem>
+	<numero>566</numero>
+	<usuario>Usuario32</usuario>
+	<texto>ou senário de espaço de debates ideológicos, como Senado</texto>
+</mensagem>
+<mensagem>
+	<numero>567</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Sdds Aurélio.</texto>
+	<referenciaTreinamento>566</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>568</numero>
+	<usuario>Usuario32</usuario>
+	<texto>claro, só estudando latim pra saber isso</texto>
+	<referenciaTreinamento>567</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>569</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Não força a amizade, Yeshu</texto>
+	<referenciaTreinamento>568</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>570</numero>
+	<usuario>Usuario32</usuario>
+	<texto>vai la e confere...</texto>
+	<referenciaTreinamento>569</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>571</numero>
+	<usuario>Usuario27</usuario>
+	<texto>só eu que estou perdido aqui no bate papo ?</texto>
+</mensagem>
+<mensagem>
+	<numero>572</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Não é senário, é "scenarius" em latim. E aqui falamos português</texto>
+	<referenciaTreinamento>568</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>573</numero>
+	<usuario>Usuario32</usuario>
+	<texto>vou dar uma dica: ROMA, cujo a lingua oficial era o latim</texto>
+	<referenciaTreinamento>572</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>574</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Acho que estamos perdendo o foco da discussão</texto>
+</mensagem>
+<mensagem>
+	<numero>575</numero>
+	<usuario>Usuario27</usuario>
+	<texto>alguem afim de fazer almoço por comemoração ?</texto>
+</mensagem>
+<mensagem>
+	<numero>576</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Existe psicólogo bacana, viu gente. Isa lobo é uma infeliz exceção</texto>
+</mensagem>
+<mensagem>
+	<numero>577</numero>
+	<usuario>Usuario32</usuario>
+	<texto>Aqui falamos um dialeto derivado da matriz portuguesa, que por sua vez deriva do latim</texto>
+</mensagem>
+<mensagem>
+	<numero>578</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Usuario21, quem disse que a Isa Lobo é psicóloga? kkkkkkkkkkkkk</texto>
+	<referenciaTreinamento>576</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>579</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario37, uai, ela se diz rsrs</texto>
+	<referenciaTreinamento>578</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>580</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Então, ela se diz né? Comprou o diploma, certeza! Nem escrever direito ela sabe...</texto>
+	<referenciaTreinamento>579</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>581</numero>
+	<usuario>Usuario36</usuario>
+	<texto>É dever do estado garantir o exercício do livre arbítrio</texto>
+</mensagem>
+<mensagem>
+	<numero>582</numero>
+	<usuario>Usuario32</usuario>
+	<texto>o livre arbitrio de quem?</texto>
+	<referenciaTreinamento>581</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>583</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario36 bem empregado suas falas</texto>
+	<referenciaTreinamento>581</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>584</numero>
+	<usuario>Usuario32</usuario>
+	<texto>aliás, livre arbitrio não é um termo religioso?</texto>
+	<referenciaTreinamento>581</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>585</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Voltamos a isso. Isto é um ciclo vicioso?</texto>
+	<referenciaTreinamento>584</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>586</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Usuario32, beijo na alma.</texto>
+</mensagem>
+<mensagem>
+	<numero>587</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Esclarecemos que a segunda parte do seminário será no Auditório Nereu Ramos.</texto>
+</mensagem>
+<mensagem>
+	<numero>588</numero>
+	<usuario>Usuario27</usuario>
+	<texto>e já tem um link para acompanhar???</texto>
+	<referenciaTreinamento>587</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>589</numero>
+	<usuario>Usuario10</usuario>
+	<texto>A transmissão anterior registrava o Plenário 2, mas agora será no auditório Nereu Ramos.</texto>
+	<referenciaTreinamento>588</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>590</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario10, aqui estamos na internet, queremos o link. Da transmição</texto>
+	<referenciaTreinamento>589</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>591</numero>
+	<usuario>Usuario27</usuario>
+	<texto>entendemos, mas não tem como eu ir fisicamente para o auditorio, quero o link para acompanhar ao vivo rsss</texto>
+	<referenciaTreinamento>589</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>592</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Ele fala como se agente tivesse lá :)</texto>
+	<referenciaTreinamento>591</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>593</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Estou no cel. Uma pena não poder acompanhar</texto>
+</mensagem>
+<mensagem>
+	<numero>594</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Prezados, como o vídeo foi alterado, é preciso dar uma atualizada na página, apertando a tecla F5.</texto>
+</mensagem>
+<mensagem>
+	<numero>595</numero>
+	<usuario>Usuario10</usuario>
+	<texto>O seminário já recomeçou.</texto>
+</mensagem>
+<mensagem>
+	<numero>596</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Nossa passa link do video ao vivo</texto>
+	<referenciaTreinamento>595</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>597</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Prezado Usuario8, basta atualizar a página e utilizar o Internet Explorer.</texto>
+	<referenciaTreinamento>596</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>598</numero>
+	<usuario>Usuario27</usuario>
+	<texto>esse papinho do estado é laico na constituição mas o povo é Usuario1tão já deu né...</texto>
+</mensagem>
+<mensagem>
+	<numero>599</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Parece que ele ta pisando em ovos...fala mas não diz ! Tempo curto 15 minutos...</texto>
+	<referenciaTreinamento>598</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>600</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Não abre video aqui, nem pelo ie nem pelo firefox</texto>
+</mensagem>
+<mensagem>
+	<numero>601</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Aqui também não, talvez seja a internet.</texto>
+	<referenciaTreinamento>600</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>602</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Pq não fala logo o que os Usuario1tãos realmente pensam?</texto>
+	<referenciaTreinamento>599</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>603</numero>
+	<usuario>Usuario8</usuario>
+	<texto>não é a internet tenho 10 mb, é bug</texto>
+	<referenciaTreinamento>601</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>604</numero>
+	<usuario>Usuario27</usuario>
+	<texto>eu estou vendo no chrome</texto>
+</mensagem>
+<mensagem>
+	<numero>605</numero>
+	<usuario>Usuario27</usuario>
+	<texto>sim este cara esta falando falando e nao esta falando nada</texto>
+	<referenciaTreinamento>599</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>606</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Neste ponto o Marco Feliciano não deixa dúvida sobre o pensamento dos evangelicos.</texto>
+</mensagem>
+<mensagem>
+	<numero>607</numero>
+	<usuario>Usuario27</usuario>
+	<texto>mi0 qual ponto?</texto>
+	<referenciaTreinamento>606</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>608</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Dos evangélicos não. O dele!!</texto>
+	<referenciaTreinamento>606</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>609</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Digno ele defende o que acredita..mas foge da Laicidade do Estado....</texto>
+	<referenciaTreinamento>608</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>610</numero>
+	<usuario>Usuario4</usuario>
+	<texto>o pensamento dos povo evangelico sobre o ativismo gay.</texto>
+	<referenciaTreinamento>607</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>611</numero>
+	<usuario>Usuario4</usuario>
+	<texto>O que o movimento LGBT tem feito a favor do Brasil?</texto>
+</mensagem>
+<mensagem>
+	<numero>612</numero>
+	<usuario>Usuario27</usuario>
+	<texto>mi0 o movimento LGBT vem tirando muitos da marginalidade</texto>
+	<referenciaTreinamento>611</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>613</numero>
+	<usuario>Usuario4</usuario>
+	<texto>de que maneira o movimento lgbt tem tirado alguem da criminalidade?</texto>
+	<referenciaTreinamento>612</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>614</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Só queremos os mesmos direitos. Não queremos obrigar os outros a fazerem o que fazemos</texto>
+</mensagem>
+<mensagem>
+	<numero>615</numero>
+	<usuario>Usuario27</usuario>
+	<texto>mostrando para os lgbt e para o POVO que um lgbt não precisa viver na marginalidade e em trabalhos degradantes</texto>
+	<referenciaTreinamento>613</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>616</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Se informa mi0...ta aqui pra assistir o Seminário pra se informar ou polemizar? Assiste com antenção depois debate ! Fui</texto>
+	<referenciaTreinamento>613</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>617</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Se está contra o casamento igualitário, não case</texto>
+</mensagem>
+<mensagem>
+	<numero>618</numero>
+	<usuario>mi3</usuario>
+	<texto>Ter nossos direitos garantidos é completamente diferente de fazer apologia a homossexualidade.</texto>
+	<referenciaTreinamento>614</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>619</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Completamente certa mi3.</texto>
+	<referenciaTreinamento>618</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>620</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Ai é que está a grande "malandragem" do movimento. Inventam uma perseguição que não existe para conseguir dinheiro do governo.</texto>
+</mensagem>
+<mensagem>
+	<numero>621</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Discurso confuso........o Bispo ficou na saia justa agora !</texto>
+</mensagem>
+<mensagem>
+	<numero>622</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Morei na Holanda por 5 anos trabalhando com comunidades desfavorecidas. É um pais laico onde todos tem seus direitos assegurados e TODOS pagam seus impostos</texto>
+</mensagem>
+<mensagem>
+	<numero>623</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario13 realmente ele não se sente avontade quando as pessoas que o assistem conseguem pensar sozinhas</texto>
+	<referenciaTreinamento>621</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>624</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Agora falando o lixo, esgoto, mentiroso dep fruto do bbb.</texto>
+</mensagem>
+<mensagem>
+	<numero>625</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Sério é o Infeliciânus, né mi0?</texto>
+	<referenciaTreinamento>624</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>626</numero>
+	<usuario>Usuario8</usuario>
+	<texto>O pastor quer impor seus valores a todos. Através da ditadura da maioria.</texto>
+</mensagem>
+<mensagem>
+	<numero>627</numero>
+	<usuario>Usuario27</usuario>
+	<texto>mi0, não seja mesquinho</texto>
+	<referenciaTreinamento>624</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>628</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Olá caros amigos. Boa tarde!!!</texto>
+</mensagem>
+<mensagem>
+	<numero>629</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Hilber se o governo libera verbas ele ganha muito mas muito através dos Lgbts se informe primeiro pra depois vir falar alguma coisa!</texto>
+	<referenciaTreinamento>620</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>630</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Concordo Usuario27, mas acho que eles estão se perdendo nas falas e não é de hoje.....</texto>
+	<referenciaTreinamento>623</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>631</numero>
+	<usuario>Usuario4</usuario>
+	<texto>QUE mi0 É ESSE???? RIDÍCULO E ESGOT É VCÊ QUE NINGUÉM SABE QUEM É!!!!</texto>
+	<referenciaTreinamento>624</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>632</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Fica claro como eles desconhecem o que quer dizer Democracia mesmo que falem em nome dela.</texto>
+</mensagem>
+<mensagem>
+	<numero>633</numero>
+	<usuario>Usuario4</usuario>
+	<texto>E a grande maioria dos homossexuais são massa de manobras de um "grupinho" que ficam inventando mentiras, criando estatísticas falsas. Isso nao faz bem para nosso país.</texto>
+</mensagem>
+<mensagem>
+	<numero>634</numero>
+	<usuario>Usuario4</usuario>
+	<texto>MASSA DE MANOBRA SÃO OS FIÉIS SEM CÉREBRO QUE FAEM DE SUAS VIDAS O QUE OS PASTORES DIZEM</texto>
+	<referenciaTreinamento>633</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>635</numero>
+	<usuario>Usuario27</usuario>
+	<texto>mi0 se resua a sua insignificancia e burrice</texto>
+	<referenciaTreinamento>633</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>636</numero>
+	<usuario>Usuario8</usuario>
+	<texto>So to com audio, alguem tem link direito para video sem ser por esse link do bate papo?</texto>
+</mensagem>
+<mensagem>
+	<numero>637</numero>
+	<usuario>Usuario39</usuario>
+	<texto>Putz, eu não estou vendo a imagem do vídeo, só tenho o áudio!</texto>
+	<referenciaTreinamento>636</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>638</numero>
+	<usuario>Usuario4</usuario>
+	<texto>O que um programa igual o bbb pode gerar de bem para nossa sociedade? Sendo assim o nobre dep foi eleito por este esgoto que é bbb.</texto>
+</mensagem>
+<mensagem>
+	<numero>639</numero>
+	<usuario>Usuario4</usuario>
+	<texto>GAYS SÃO BEM SUVEDIDOS ADIVINHA PORQUE, mi0????</texto>
+</mensagem>
+<mensagem>
+	<numero>640</numero>
+	<usuario>Usuario4</usuario>
+	<texto>pq muitos estao vivendo as custas do governo via ongs.</texto>
+	<referenciaTreinamento>639</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>641</numero>
+	<usuario>Usuario4</usuario>
+	<texto>inclusive este 10 mi1 esta sendo bancado pelo governo para discutir algo que nao existe.</texto>
+	<referenciaTreinamento>639</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>642</numero>
+	<usuario>Usuario4</usuario>
+	<texto>ENTÃO É ISSO!!!! VC É LOUCO mi0!!!!</texto>
+	<referenciaTreinamento>641</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>643</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Claro que sou louco vendo o dinheiro do governo sendo usado de forma tao sórdida.</texto>
+	<referenciaTreinamento>642</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>644</numero>
+	<usuario>Usuario37</usuario>
+	<texto>mi0 tem cara de quem segue a página: Tudo virou homofobia, Orgulho de ser hétero, etc.</texto>
+</mensagem>
+<mensagem>
+	<numero>645</numero>
+	<usuario>Usuario27</usuario>
+	<texto>sério que o mi0 acha que vamos cair nessa ?</texto>
+	<referenciaTreinamento>643</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>646</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Vamos falar dos milhões não declarados de impostos das igrejas?</texto>
+</mensagem>
+<mensagem>
+	<numero>647</numero>
+	<usuario>Usuario4</usuario>
+	<texto>A IGREJA É HJ A INSTITUIÇÃO QUE MAIS RECUPERA DROGADOS, FAmiLIAS , ETC.</texto>
+	<referenciaTreinamento>646</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>648</numero>
+	<usuario>Usuario4</usuario>
+	<texto>AGORA PQ O MOVIMENTO LGBT SEMPRE ESTÁ CONTRA A IGREJA?</texto>
+</mensagem>
+<mensagem>
+	<numero>649</numero>
+	<usuario>Usuario4</usuario>
+	<texto>NINGUÉM AQUI É CONTRA IGREJA NENHUMA</texto>
+	<referenciaTreinamento>648</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>650</numero>
+	<usuario>Usuario28</usuario>
+	<texto>mi0 só rindo dessa sua estória viu!Alienado!!</texto>
+	<referenciaTreinamento>648</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>651</numero>
+	<usuario>Usuario4</usuario>
+	<texto>ENTÃO ME DIGAM O QUE O MOVIMENTO LGBT TEM FEITO PARA MELHORAR A VIDA DOS EXCLUIDOS DA SOCIADADE?</texto>
+</mensagem>
+<mensagem>
+	<numero>652</numero>
+	<usuario>Usuario4</usuario>
+	<texto>CONCORDO QUE A IGREJA TEM UM PAPEL IMPORTANTE EM NOSSA SOCIEDADE, O QUE ACHO INADmiSSÍVEL É ESSA MESMA IGREJA E PREOCUPAR COM O QUE EU FAÇO NA CAMA</texto>
+	<referenciaTreinamento>651</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>653</numero>
+	<usuario>Usuario27</usuario>
+	<texto>mi0 nos somos excluidos</texto>
+	<referenciaTreinamento>651</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>654</numero>
+	<usuario>Usuario27</usuario>
+	<texto>aquelas criancas agente quer adotar</texto>
+</mensagem>
+<mensagem>
+	<numero>655</numero>
+	<usuario>Usuario4</usuario>
+	<texto>CLARO QUE QUEREM ADOTAR PARA PODER TER UM PARCEIRO SEXUAL INFANTIL DENTRO DE CASA.</texto>
+	<referenciaTreinamento>654</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>656</numero>
+	<usuario>Usuario27</usuario>
+	<texto>serio que vc é tao BURRO assim mi0?</texto>
+	<referenciaTreinamento>655</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>657</numero>
+	<usuario>Usuario4</usuario>
+	<texto>NOSSA SEU BABACA</texto>
+	<referenciaTreinamento>655</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>658</numero>
+	<usuario>Usuario37</usuario>
+	<texto>De onde vc tirou isso, mi0?</texto>
+	<referenciaTreinamento>655</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>659</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Só nesta sua cabeça imunda e suja mi0.!!!</texto>
+	<referenciaTreinamento>655</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>660</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Esclarecemos que não será tolerada a agressão verbal neste Bate-papo.</texto>
+</mensagem>
+<mensagem>
+	<numero>661</numero>
+	<usuario>Usuario4</usuario>
+	<texto>ALIAS A MAIORIA DOS PEDOFILOS SÃO HOMOSSEXUAIS...</texto>
+</mensagem>
+<mensagem>
+	<numero>662</numero>
+	<usuario>Usuario27</usuario>
+	<texto>a igreja catolica e evangelica tem seus casos de pedofilia</texto>
+	<referenciaTreinamento>661</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>663</numero>
+	<usuario>Usuario37</usuario>
+	<texto>mi0, preste atenção no que acontece a sua volta. Eu já vi pais héteros e homossexuais abusando de crianças, isso é mente doentia, e é crime, independente da orientação sexual.</texto>
+	<referenciaTreinamento>661</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>664</numero>
+	<usuario>Usuario13</usuario>
+	<texto>O Parlamento estava precisando de alguém como o Jean .....:) Que venham muitos mais ............</texto>
+</mensagem>
+<mensagem>
+	<numero>665</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario13 parece q a camara ficou mais aberta com a presença dele na casa né... ou fui eu que fiquei mais politico</texto>
+	<referenciaTreinamento>664</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>666</numero>
+	<usuario>Usuario13</usuario>
+	<texto>O jean não esta sozinho...incrível como ele esta agrupando pessoas do bem....</texto>
+	<referenciaTreinamento>665</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>667</numero>
+	<usuario>Usuario39</usuario>
+	<texto>Usuario13 graças ao trabalho do Jean, hoje posso, mesmo de longe, participar de um Seminário como este.</texto>
+	<referenciaTreinamento>666</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>668</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario39 e olha que este seminario acontece a dez anos e só agora está repercutindo</texto>
+	<referenciaTreinamento>667</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>669</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Usuario39 isto é muito bom Jean esta de parabéns!</texto>
+	<referenciaTreinamento>668</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>670</numero>
+	<usuario>Usuario39</usuario>
+	<texto>Pois é, estou muito feliz, pois esta casa aí é a casa do povo, e eu sou povo, nunca pude participar.</texto>
+	<referenciaTreinamento>668</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>671</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Por que vc acha que tem tanta gente difamando ele ???? A casa esta caindo e nós vamos em frente...ele não milita pela causa GLBT, embora seja parte dela, ele milita pela Democracia !</texto>
+	<referenciaTreinamento>669</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>672</numero>
+	<usuario>Usuario27</usuario>
+	<texto>estou entristecido aqui por ter me mudado de brasilia e nao pude ver ao vivo</texto>
+	<referenciaTreinamento>671</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>673</numero>
+	<usuario>Usuario39</usuario>
+	<texto>Sim, quem acompanha Jean sabe q ele trabalha em muitas outras frentes, mas se destaca pelos direitos LGBT exatamente pq os contrários o desafiam, e ele mostra sempre mais sua capacidade, o seu melhor, frente a todos eles.</texto>
+	<referenciaTreinamento>671</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>674</numero>
+	<usuario>Usuario27</usuario>
+	<texto>virando budista em 3 2 1</texto>
+</mensagem>
+<mensagem>
+	<numero>675</numero>
+	<usuario>Usuario13</usuario>
+	<texto>De que igreja será que é ?? Alguém do PSC ???? :)</texto>
+	<referenciaTreinamento>674</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>676</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Budista.</texto>
+	<referenciaTreinamento>675</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>677</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Budismo é uma Filosofia linda....</texto>
+	<referenciaTreinamento>676</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>678</numero>
+	<usuario>Usuario37</usuario>
+	<texto>A budista falou de uma forma linda!</texto>
+	<referenciaTreinamento>677</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>679</numero>
+	<usuario>Usuario27</usuario>
+	<texto>ja vou virar budista</texto>
+	<referenciaTreinamento>678</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>680</numero>
+	<usuario>Usuario39</usuario>
+	<texto>SOU CONTRA A HOMOSSEXUALIDADE, MASRESPEITO A ESCOLHA HOMOSSEXUAL. PORÉM SOU CONTRA A ADOÇÃO DE CRIANÇAS POR CASAIS GAYS E DA DESCONSTRUÇAO DA HETERONORMATIVIDADE COMO PROPROE OS DIREITOS HUMANOS DE LGBT</texto>
+</mensagem>
+<mensagem>
+	<numero>681</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Ninguém pediu a opinião de ninguém!!</texto>
+	<referenciaTreinamento>680</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>682</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Então, vamos lá Usuario39, em que a adoção de crianças por casais gays desconstruirá a heteronormatividade?</texto>
+	<referenciaTreinamento>680</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>683</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Debater com ignorantes que nada sabem nada se informam fica sem graça .</texto>
+</mensagem>
+<mensagem>
+	<numero>684</numero>
+	<usuario>Usuario38</usuario>
+	<texto>alguém solteiro aí? vamos casar?</texto>
+</mensagem>
+<mensagem>
+	<numero>685</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Solteiros se apresentem ao Usuario38.rsrsrsr</texto>
+	<referenciaTreinamento>684</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>686</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario38 podemos fazer td menos casar pq ja sou casado</texto>
+	<referenciaTreinamento>684</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>687</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Uia, vai sair casamento do chat! É isso?</texto>
+	<referenciaTreinamento>686</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>688</numero>
+	<usuario>Usuario39</usuario>
+	<texto>kkkkkkkk...quem sabe.......e quem sabe eu tenha sorte também...kkkkkk</texto>
+	<referenciaTreinamento>687</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>689</numero>
+	<usuario>Usuario10</usuario>
+	<texto>O tema deste Seminário é A LIBERDADE DE CRENÇA EM RELAÇÃO ÀS OUTRAS LIBERDADES INDIVIDUAIS.</texto>
+</mensagem>
+<mensagem>
+	<numero>690</numero>
+	<usuario>Usuario37</usuario>
+	<texto>To no cel agora, nao ta rodando o vídeo no Safari :(</texto>
+</mensagem>
+<mensagem>
+	<numero>691</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Usuario37, a primeira mesa foi gravada. Provavelmente todas vão ser.</texto>
+	<referenciaTreinamento>690</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>692</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario37 com toda certeza vai ter o video no site da camara depois</texto>
+	<referenciaTreinamento>690</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>693</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Eba! Amanha vou assistir! :)</texto>
+	<referenciaTreinamento>692</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>694</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Prezados, amanhã o histórico deste bate-papo e o vídeo gravado estarão disponíveis neste Portal.</texto>
+</mensagem>
+<mensagem>
+	<numero>695</numero>
+	<usuario>Usuario27</usuario>
+	<texto>historico do bate papo fail</texto>
+	<referenciaTreinamento>694</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>696</numero>
+	<usuario>Usuario34</usuario>
+	<texto>tem intérprete de LIBRAS no seminário?</texto>
+</mensagem>
+<mensagem>
+	<numero>697</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Usuario34 acho que não</texto>
+	<referenciaTreinamento>696</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>698</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Usuario34, não há intérprete de LIBRAS neste Seminário.</texto>
+	<referenciaTreinamento>696</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>699</numero>
+	<usuario>Usuario34</usuario>
+	<texto>Amanhã vou tentar assistir o seminário na íntegra!</texto>
+</mensagem>
+<mensagem>
+	<numero>700</numero>
+	<usuario>Usuario27</usuario>
+	<texto>eu assisti mas vou ver quantas vezes forem necessarias novamente</texto>
+	<referenciaTreinamento>699</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>701</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Vou tentar fazer o mesmo. Tenho um pequeno problema de plataforma</texto>
+	<referenciaTreinamento>700</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>702</numero>
+	<usuario>Usuario35</usuario>
+	<texto>Não to conseguindo assistir!</texto>
+</mensagem>
+<mensagem>
+	<numero>703</numero>
+	<usuario>Usuario34</usuario>
+	<texto>Usuario35, estais utilzando o internet explorer?</texto>
+	<referenciaTreinamento>702</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>704</numero>
+	<usuario>Usuario35</usuario>
+	<texto>nao chrome</texto>
+	<referenciaTreinamento>703</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>705</numero>
+	<usuario>Usuario34</usuario>
+	<texto>Tens esse navegador??</texto>
+	<referenciaTreinamento>704</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>706</numero>
+	<usuario>Usuario35</usuario>
+	<texto>simmmmm</texto>
+	<referenciaTreinamento>705</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>707</numero>
+	<usuario>Usuario34</usuario>
+	<texto>abre pelo explorer q é mne</texto>
+	<referenciaTreinamento>706</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>708</numero>
+	<usuario>Usuario34</usuario>
+	<texto>melhor</texto>
+	<referenciaTreinamento>706</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>709</numero>
+	<usuario>Usuario8</usuario>
+	<texto>flw pessoal</texto>
+</mensagem>
+</discussao>

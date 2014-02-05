@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>ola... q q a gente tava fazendo ontem ?? :-D</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>ola. O relatorio eu acertei. Agora to fazendo a tela de
+			material</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>anota ai entao o login da minha conta pra caso precise pegar
+			alguma coisa aqui. É usuario1</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>ah blz, vlw. Ta anotado</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>gente, como é o nome da pessoa q ta do lado da vanessa?</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>nao sei</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto> e na frente da Carla?</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>Claudia</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>ahhh ta</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>vai flr c ela?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>É q ela me mandou email parabenizando ... mas eu nao sabia qm
+			era hahhahhaaha</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>vc lembra de onde era a torta do brasas? Eu esqueci</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>ihhh nao.Temos q marcar outro aniversario entao para ver da
+			onde vem a torta :-) </texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>12</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>É que vou comprar uma pra minha mae no fds. Aquela é mto boa</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto>pow... show de bola... eu nao lembro o nome da confeitaria ...
+			=/</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>14</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto>nem eu</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>15</referenciaTreinamento>
+	</mensagem>
+</discussao>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>falai Usuario2</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>já fez o exercicio de quimica?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>eu já tinha feito o 1 e o 2. Fiz igual minha cara na aula mesmo</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>kkkk, to fazendo o 3 aqui</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>:)
+			e pra escolher 2
+			se fizer o 3, não precisa fazer o 2...</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>eu sei. Mais pode entregar até mais tarde mesmo né?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>Ele falou que ia poder. Só nao sei até que horas é</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>Ah ta</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

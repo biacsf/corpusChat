@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>tah na faculdade?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>sim, to no lci. E vc?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>no estagio</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>repsosta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+</discussao>

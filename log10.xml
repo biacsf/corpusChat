@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>oie</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>desistiu de fisica?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>oiiii</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>ainda não, to pensando ainda</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>ja fez o exercicio de hj entao?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>vou fazer mais tarde</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>hunn</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>backchannel</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>fazedo o q ai?</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>to no estagio</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>eu sei, rs</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>backchannel</tipo>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+</discussao>

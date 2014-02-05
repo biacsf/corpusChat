@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>krak comer no gremio dah mt sono</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>é muita comida</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>eu tb to me sentindo mto pesada e cansada. quero dormiirrr</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>hahahaha, eu tb quero. Hoje eu comi na rua tb. pq aki era
+			feijoada
+			ai meu prato deu 9 reais
+			heaueua</texto>
+		<usuario>Usuario4</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>krakkkk. olha o q o menino respondeu ao q eu respondi na lista
+    	</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>po, já ta pegando pesado já</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>quem eh esse guilherme? eh o amigo do lucas ?</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>nao, primo do renan</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>e quem é o amigo do lucas? o povo ta que ta hein</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>o amigo do lucas n ta nessa. Nem o lucas</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>ahhh o amigo do lucas foi pra muriqui</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>eh</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>eu confundi as viagens, rs</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>isso msm</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>caramba dinovo!</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>q q foi?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>nao viu. O monitor nem deu aula. Mandou uma ajuda por email msm</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>de matematica?</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>yep</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>nao vi ainda nao, pq eu to no trabalho</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>entendi</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>o monitor mandou email p vc ?
+			p mim naum chegou</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>veio pela lista</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>ah chegou agora
+			google lerdo</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>krak ainda tem q fazer o trab de fisica p amanha</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>sim</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>concordancia</tipo>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>vou mandar email pro professor</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto> ele corrigiu as permissoes
+			prgunta a ele
+			como eh pra entregar</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+</discussao>

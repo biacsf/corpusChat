@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+<mensagem>
+	<numero>1</numero>
+	<usuario>Usuario1</usuario>
+	<texto>boa tarde Senhores e Senhoras</texto>
+</mensagem>
+<mensagem>
+	<numero>2</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Boa tardea todos e sejam Bem Vindas a esta comissão.</texto>
+	<referenciaTreinamento>1</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>3</numero>
+	<usuario>Usuario3</usuario>
+	<texto>bom trabaho aos senhores deputados</texto>
+</mensagem>
+<mensagem>
+	<numero>4</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Boa tarde amigos e amigas de todo o nosso Brasil</texto>
+	<referenciaTreinamento>2</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>5</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Boa tarde a todos! Sejam todos bem vindos à atividade simulação do trabalho das comissões do Programa Estágio Visita!</texto>
+	<referenciaTreinamento>4</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>6</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Hoje, discutiremos dois temas: a criminalização do homofobia e a instituição de cotas sociais e raciais nas universidades.</texto>
+</mensagem>
+<mensagem>
+	<numero>7</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Cerrtamente temas bastante polêmicos</texto>
+	<referenciaTreinamento>6</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>8</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Neste momento, as instrutoras que trabalham em comissões Aparecida de Moura Andrade e Marília Amora de Queiroz conduzem a atividade, orientando todo o processo da simulação da audiência deliberativa, que tenta ser realizada da maneira mais próxima à realidade do Regimento Interno da Câmara dos Deputados.</texto>
+</mensagem>
+<mensagem>
+	<numero>9</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Muito interessante esse novo sistema, pena que na minha edição ainda não estava disponível.</texto>
+	<referenciaTreinamento>8</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>10</numero>
+	<usuario>Usuario7</usuario>
+	<texto>Boa Tarde! Qual é a tua opinião com relação a continuação das cotas nas universidades?</texto>
+</mensagem>
+<mensagem>
+	<numero>11</numero>
+	<usuario>Usuario4</usuario>
+	<texto>pois é Usuario6.... evoluçao do estágio... oportunidade para todos os universitarios do nosso Brasil</texto>
+	<referenciaTreinamento>9</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>12</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Neste momento, daremos início à simulação do funcionamento das comissões, com o debate do tema "criminalização da homofobia".</texto>
+</mensagem>
+<mensagem>
+	<numero>13</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Deputado, o que você acha da volta do presidente Lula em 2014;</texto>
+</mensagem>
+<mensagem>
+	<numero>14</numero>
+	<usuario>Usuario9</usuario>
+	<texto>A homofobia é tão grave quanto o racismo e a punição para quem a prafica deve ser igualmente severa.</texto>
+</mensagem>
+<mensagem>
+	<numero>15</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Concordo com a excelentíssima Usuario9!</texto>
+	<referenciaTreinamento>14</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>16</numero>
+	<usuario>Usuario11</usuario>
+	<texto>É inadimissível criarem lei, proibindo, nós atleticanos de chamarem os cruzeirenses de Maria. Quero deixar claro, que está alcunha não é homofóbica. É somente a constatação da realizade, tá certo?</texto>
+</mensagem>
+<mensagem>
+	<numero>17</numero>
+	<usuario>Usuario4</usuario>
+	<texto>o que é racismo, cara Dep. Usuario32? Ao meu entendimento, só possuimos uma raça: A RAÇA HUMUsuario32</texto>
+	<referenciaTreinamento>14</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>18</numero>
+	<usuario>Usuario6</usuario>
+	<texto>Isso não concordo Usuario29, visto que virar as costas ao assunto é mesmo que desconsiderar os problemas e não resolve-lo. Muito fácil não querer debater visto que causa mais discriminação. Apesar de todos sermos humanos e devêssemos assim pensar, infelizmente não é. O próprio principio da liberdade assume a figura desta ser até o limite do outro, expressamente já em sua figura, mostrando que nos depararíamos com problemas</texto>
+	<referenciaTreinamento>17</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>19</numero>
+	<usuario>Usuario12</usuario>
+	<texto>raça humUsuario32 é uma questão biológica, estamos trantando de uma questão sociológica</texto>
+	<referenciaTreinamento>17</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>20</numero>
+	<usuario>Usuario13</usuario>
+	<texto>POR ISSO MESMO SE SOMOS TODOS IGUAIS, PQ CRIAR MAIS UMA LEI</texto>
+	<referenciaTreinamento>19</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>21</numero>
+	<usuario>Usuario14</usuario>
+	<texto>devemos estimular mais a pensarmos como um todo.. e nao como racas</texto>
+</mensagem>
+<mensagem>
+	<numero>22</numero>
+	<usuario>Usuario15</usuario>
+	<texto>concordo deputado Silas</texto>
+	<referenciaTreinamento>20</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>23</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Perfeito Dep. Silas...</texto>
+	<referenciaTreinamento>22</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>24</numero>
+	<usuario>Usuario8</usuario>
+	<texto>Deputado Max Frota Esse SIlas é homofobico</texto>
+</mensagem>
+<mensagem>
+	<numero>25</numero>
+	<usuario>Usuario1</usuario>
+	<texto>mas como que voce explica a sociedade em si que tem estte preconceito</texto>
+	<referenciaTreinamento>20</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>26</numero>
+	<usuario>Usuario12</usuario>
+	<texto>pq a sociedade não entende que realmente todos são iguais, não sejamos utópicos em pensar que todos são tratados da mesma maneira</texto>
+	<referenciaTreinamento>25</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>27</numero>
+	<usuario>Usuario4</usuario>
+	<texto>se existe crimes contra a vida (homossexual ou não) deverá ser tratado como homicidio e ponto!</texto>
+</mensagem>
+<mensagem>
+	<numero>28</numero>
+	<usuario>Usuario16</usuario>
+	<texto>Concordo Deputado Usuario29</texto>
+	<referenciaTreinamento>27</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>29</numero>
+	<usuario>Usuario13</usuario>
+	<texto>ENTAO RESGUE A CF/88. E POE FOGO NELA Usuario12</texto>
+	<referenciaTreinamento>26</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>30</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Ai Silas, para de falar bobagens!!</texto>
+	<referenciaTreinamento>29</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>31</numero>
+	<usuario>Usuario17</usuario>
+	<texto>Racismo e homofobia deveriam merecer a mesma importância de todas as outras formas de discriminação que vemos todos os dias. Deveria ser passível de punição qualquer forma de abuso de poder ou de diminuição da figura humUsuario32, sendo irrelevante a opção sexual ou cor da pele do agredido.</texto>
+</mensagem>
+<mensagem>
+	<numero>32</numero>
+	<usuario>Usuario10</usuario>
+	<texto>Claro Usuario17!</texto>
+	<referenciaTreinamento>31</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>33</numero>
+	<usuario>Usuario18</usuario>
+	<texto>Faço suas palavras as minhas Dr.Usuario17!</texto>
+	<referenciaTreinamento>31</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>34</numero>
+	<usuario>Usuario13</usuario>
+	<texto>LOGO ENTAO TEREMOS QUE CRIAR UMA LEI EM FAVOR PARA CADA CLASSE DE MINORIA</texto>
+</mensagem>
+<mensagem>
+	<numero>35</numero>
+	<usuario>Usuario12</usuario>
+	<texto>se as classes sofrerem tamanho preconceito como os homexessuais é claro, o Estado está aqui para proteger os cidadãos e essa é uma foma!</texto>
+	<referenciaTreinamento>34</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>36</numero>
+	<usuario>Usuario19</usuario>
+	<texto>certamente Dep, Silas., há penalidades prescrita nas normas para tais crimes, tanto que quem cometer contra hetero ou homo terá que ser punido... agora teremos q criar leis p todas classs? e quem criminaliza os heteros? o</texto>
+	<referenciaTreinamento>34</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>37</numero>
+	<usuario>Usuario4</usuario>
+	<texto>perfeito Dep. Malafaia...</texto>
+	<referenciaTreinamento>34</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>38</numero>
+	<usuario>Usuario5</usuario>
+	<texto>Os nomes de deputados registrados neste debate são fictícios e este é apenas um exercício de simulação de reunião de Comissão.</texto>
+</mensagem>
+<mensagem>
+	<numero>39</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Entre 1980 e 2005, foram assassinados 2.511 homosexuais no Brasil. Vitimas da homofobia, mortos com requintes de crueldade. 2.511 seres humanos assassinados VIOLENTAMENTE apenas pela sua orientação sexual ser diferente da maioria.</texto>
+</mensagem>
+<mensagem>
+	<numero>40</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Prezada Usuario9, quantos heterossexuais foram assassinados no mesmo período com requintes de crueldade? Existe assassinato sem requinte de crueldade?</texto>
+	<referenciaTreinamento>39</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>41</numero>
+	<usuario>Usuario18</usuario>
+	<texto>Dep Usuario32... e os presidiários do Carandiru? e os escravos? e o caso de Vigário Gerla onde em apenas 40 minutos 132 pessoas foram assassinadas por morar em uma comunidade pobre?</texto>
+	<referenciaTreinamento>39</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>42</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Excelentíssimos, um caso de ódio não exclui o outro. A constituição deve lutar pelo direito de igualdade e defender as minorias.</texto>
+	<referenciaTreinamento>41</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>43</numero>
+	<usuario>Usuario19</usuario>
+	<texto>Certamente Usuario20, MUITOS seres humanos (seja hetoro ou homossexual) são mortos diariamente... e MUITOS com REQUINTES de crueldade??? e HÁ pena pra isso já!!!</texto>
+	<referenciaTreinamento>40</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>44</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Deputada Usuario32, e os milhões de brasileiros sem acesso a educação, que não deram a mesma sorte que eu de se tornar deputado??? Milhões vítimas da</texto>
+	<referenciaTreinamento>42</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>45</numero>
+	<usuario>Usuario6</usuario>
+	<texto>A questão somente ainda é polêmica visto que o Estado brasileiro ainda não tomou partido sobre qual o posicionamento final. Não era necessário mas me declaro aqui evangélico e reitero que o Estado não deve ter opinião própria, mas deixar condições adequadas as todas as opções. Na nossa própria biblia existe a afirmação em Dai a Deus o que é de Deus e a César o que é de César. Apesar de todo o discurso, sou contra as medidas desta lei visto que não seriam eficientes mais talvez mais incineratória as desavenças. Cabia aqui ao legislativo caso desejasse especificar sua preocupação, emendasse a atual lei de racismo onde tipifica e dá pena de reclusão de 1 à 3 anos, cabendo então a parte principal aos outros poderes, executivo, principalmente, e judiciário.</texto>
+</mensagem>
+<mensagem>
+	<numero>46</numero>
+	<usuario>Usuario21</usuario>
+	<texto>Nao acredito que com a aprovação da lei oproblema sera resolvido.</texto>
+	<referenciaTreinamento>45</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>47</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Eu sofro preconceito aqui na casa... é notório a discriminação por minha pessoa só por não ser letrado como muitos.... Por favor, criem lei também para que eu possa ser tratado melhor que os demais.</texto>
+</mensagem>
+<mensagem>
+	<numero>48</numero>
+	<usuario>Usuario13</usuario>
+	<texto>CRIAR MAIS UMA LEI NO NOSSO PAIS....INFLAMARA AIDA MAIS NOSSA SOCIEDADE</texto>
+	<referenciaTreinamento>46</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>49</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Prezado Malavéia.. não precisa gritar... Vc não está no "De frente com a Usuario28" e muito menos no púlpito de sua igreja ... Por acaso estou fazendo palhaçada aqui? por favor exijo respeito da vossa senhoria.</texto>
+	<referenciaTreinamento>48</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>50</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Dep Tiririca, o preconceito deve ser combatido com leis SEVERAS. A questão discutida é de um crime de ódio. Segundo os argumentos utilizados pela oposição, o racismo também não deveria ser punido como crime de ódio ,mas sim como umcrime comum, o que não é o caso.</texto>
+	<referenciaTreinamento>47</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>51</numero>
+	<usuario>Usuario4</usuario>
+	<texto>Dep. Usuario32 TODOS nós somos PRÉ-CONCEITUOSOS.... qual o problema de alguém ter um (pré conceito = falo no sentido amplo gramatical)?</texto>
+	<referenciaTreinamento>50</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>52</numero>
+	<usuario>Usuario13</usuario>
+	<texto>Nos EUS tem a pena de MORTE e nem por isso acabou o roubo, assalto...discrimincao...etc</texto>
+</mensagem>
+<mensagem>
+	<numero>53</numero>
+	<usuario>Usuario24</usuario>
+	<texto>O roubo assim como assaltos, não deixou de ocorrer. Porem os indices são bem mais baixos que no Brasl.</texto>
+	<referenciaTreinamento>52</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>54</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Dep Usuario29, o pré-conceito disciminatório é a razão da morte de milhares de seres humanos todos os anos. Para mim, isso parece um ENORME problema.</texto>
+	<referenciaTreinamento>51</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>55</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Dep. Usuario32 Caralho, nem todos os crimes contra gays são por ódio... Quanto mais malafaias, julios severos, bolsonaros tivermos, mais essa minoria homossexual ganhará evidência política.</texto>
+	<referenciaTreinamento>54</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>56</numero>
+	<usuario>Usuario4</usuario>
+	<texto>concordo que seja um problema... mas não concordo com a criação de uma lei ... que já está tipificada...</texto>
+	<referenciaTreinamento>54</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>57</numero>
+	<usuario>Usuario22</usuario>
+	<texto>Se continuarmos nessa política de criação de leis para todas as minorias, o artigo 5ª da nossa Carta Magna perderá a eficácia de seu texto quando refere-se a "todos são iguais perante a lei". O que é inadimisível é qualquer tipo de violência por qualquer opção sexual assim como a discriminação religiosa ou política. Nunca existirá qualquer argumento que justifique a violência principalmente contra os seres humanos. Com a criminalização da homofobia em vez de protege-los irá na verdade aumentar a discriminação, diferenciando-os dos heterossexuais.</texto>
+</mensagem>
+<mensagem>
+	<numero>58</numero>
+	<usuario>Usuario23</usuario>
+	<texto>O preconceito é um problema, Usuario4, mas o que está sendo discutido é a discriminação,que não está tipificada.</texto>
+	<referenciaTreinamento>56</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>59</numero>
+	<usuario>Usuario20</usuario>
+	<texto>A lei já existe, basta aplica-la!</texto>
+	<referenciaTreinamento>57</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>60</numero>
+	<usuario>Usuario4</usuario>
+	<texto>claro que está nobre Usuario23... e a aplitude do Art. 1 da CF?</texto>
+	<referenciaTreinamento>58</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>61</numero>
+	<usuario>Usuario23</usuario>
+	<texto>O projeto de lei que discutimos vem para preencher essa lacuna, adicionando a discriminacao ao genero e orientacao sexual,como forma de reafirmar a necessidade de combater a discriminacao.</texto>
+	<referenciaTreinamento>60</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>62</numero>
+	<usuario>Usuario4</usuario>
+	<texto>acho até nobre o projeto ,,, se não tivesse o entendimento que já existe lei que elenca tal matéria</texto>
+	<referenciaTreinamento>61</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>63</numero>
+	<usuario>Usuario9</usuario>
+	<texto>Usuario20, a maior parte dos crimes cometidos contra homossexuais são por ódio. Compreendemos isso visto a violencia contida nos mesmos. Dezenas de tiros e facadas, tortura prévia, uso de múltiplas armas e atémesmo declarações dos assassinos que admitem ter cometido o ato por ODIAREM HOMOSSEXUAIS.</texto>
+	<referenciaTreinamento>55</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>64</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Dep. Usuario32, vc fala como os crimes fossem motivados por amor.</texto>
+	<referenciaTreinamento>63</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>65</numero>
+	<usuario>Usuario20</usuario>
+	<texto>Prezados, me abstenho agora. Já são 15h e está semUsuario32 fiz hora extra.... Geralmente chegou terça-feira em Brasilia e volto quarta-feira.... Fui!!!! Beach Park me aguarde!</texto>
+</mensagem>
+<mensagem>
+	<numero>66</numero>
+	<usuario>Usuario21</usuario>
+	<texto>pessoal esta um pouco alterado para discussão...</texto>
+</mensagem>
+<mensagem>
+	<numero>67</numero>
+	<usuario>Usuario25</usuario>
+	<texto>é viu Usuario21..tensoooo</texto>
+	<referenciaTreinamento>66</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>68</numero>
+	<usuario>Usuario26</usuario>
+	<texto>o respeito ficou fora da sala</texto>
+</mensagem>
+<mensagem>
+	<numero>69</numero>
+	<usuario>Usuario25</usuario>
+	<texto>nossa Usuario26,é !</texto>
+	<referenciaTreinamento>68</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>70</numero>
+	<usuario>Usuario19</usuario>
+	<texto>Não há lógica o discurso do nobre relator...</texto>
+</mensagem>
+<mensagem>
+	<numero>71</numero>
+	<usuario>Usuario25</usuario>
+	<texto>Verdade nobre amigo Usuario19..</texto>
+	<referenciaTreinamento>70</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>72</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Estatuto dos Homossexuais? Daqui alguns dias terá estatuto para : Gordos, brancos, magros, loiras, goianos, baianos, por classe?</texto>
+</mensagem>
+<mensagem>
+	<numero>73</numero>
+	<usuario>Usuario19</usuario>
+	<texto>Concordo Usuario27</texto>
+	<referenciaTreinamento>72</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>74</numero>
+	<usuario>Usuario29</usuario>
+	<texto>Opa ... Goianos não rs kkkkkkkkkk</texto>
+	<referenciaTreinamento>72</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>75</numero>
+	<usuario>Usuario28</usuario>
+	<texto>Gente.. não vai dar tempo de discutir outro tema!! Vamos votar!!!</texto>
+</mensagem>
+<mensagem>
+	<numero>76</numero>
+	<usuario>Usuario30</usuario>
+	<texto>votação já!</texto>
+	<referenciaTreinamento>75</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>77</numero>
+	<usuario>Usuario30</usuario>
+	<texto>não votar favoravelmente a esta lei não signfica ter o direito de discriminar</texto>
+</mensagem>
+<mensagem>
+	<numero>78</numero>
+	<usuario>Usuario29</usuario>
+	<texto>Bingo Usuario30</texto>
+	<referenciaTreinamento>77</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>79</numero>
+	<usuario>Usuario40</usuario>
+	<texto>isso mesmo nobre amiga Usuario30</texto>
+	<referenciaTreinamento></referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>80</numero>
+	<usuario>Usuario31</usuario>
+	<texto>Homofobia no plenário, triste cena que tive que presenciar!</texto>
+</mensagem>
+<mensagem>
+	<numero>81</numero>
+	<usuario>Usuario32</usuario>
+	<texto>Compartilho daopinião da nobre Usuario31. Lamentável saber que este é o futuro do nosso país.</texto>
+	<referenciaTreinamento></referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>82</numero>
+	<usuario>Usuario12</usuario>
+	<texto>Concordo contigo Usuario31</texto>
+	<referenciaTreinamento>80</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>83</numero>
+	<usuario>Usuario29</usuario>
+	<texto>democraticamente... descondo de Usuario31Lane e Usuario12... não se trata de homofobia no plenário, mas sim.. de aplicabilidade das leis vigentes!</texto>
+	<referenciaTreinamento>82</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>84</numero>
+	<usuario>Usuario26</usuario>
+	<texto>Lembren-se que o que estamos votando e a criminalização da homofobia e não se concordamos com a mesma....</texto>
+	<referenciaTreinamento>83</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>85</numero>
+	<usuario>Usuario25</usuario>
+	<texto>isso mesmo nobre amiga Usuario26!</texto>
+	<referenciaTreinamento>84</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>86</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Neste momento votação</texto>
+</mensagem>
+<mensagem>
+	<numero>87</numero>
+	<usuario>Usuario30</usuario>
+	<texto>certíssimadep. Usuario26</texto>
+	<referenciaTreinamento>84</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>88</numero>
+	<usuario>Usuario1</usuario>
+	<texto>deu nao por 47 a vavor 13 e ontra 43</texto>
+	<referenciaTreinamento>86</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>89</numero>
+	<usuario>Usuario2</usuario>
+	<texto>por 34 votos contra</texto>
+	<referenciaTreinamento>88</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>90</numero>
+	<usuario>Usuario33</usuario>
+	<texto>Pessoas consideradas de baixa renda muitas das vezes não possuem condições o suficiente para obterem um bom estudo, logo, a criação de cotas relacionados as pessoas consideradas de baixa renda é de suma importância, porque, eles sim, não são iguais aos demais quando o assunto é um a renda per capita</texto>
+</mensagem>
+<mensagem>
+	<numero>91</numero>
+	<usuario>Usuario34</usuario>
+	<texto>No momento, os universitários debatem o tema das cotas sociais e raciais nas universidades. Continuem acompanhando!</texto>
+</mensagem>
+<mensagem>
+	<numero>92</numero>
+	<usuario>Usuario27</usuario>
+	<texto>Qual é a opnião sobre o as Cotas sociais e as Cotas Raciais?</texto>
+	<referenciaTreinamento>91</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>93</numero>
+	<usuario>Usuario1</usuario>
+	<texto>O ivenstmento basico deve ser priorizado</texto>
+	<referenciaTreinamento>92</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>94</numero>
+	<usuario>Usuario33</usuario>
+	<texto>e não só o investimento básico, mas sim todas as nessecidades básicas para a subsistência do ser humano com muita dignidade</texto>
+	<referenciaTreinamento>93</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>95</numero>
+	<usuario>Usuario29</usuario>
+	<texto>sem delongas... apesar de ser de origem negra, ter cursado TODO meu ensino básico e médio em escolas públicas sou ABSOLUTAMENTE CONTRA À POLITICAS DE COTAS</texto>
+	<referenciaTreinamento>92</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>96</numero>
+	<usuario>Usuario1</usuario>
+	<texto>Usuario29, voce conseguiu e foi uma luta ardua, mas por seu merito</texto>
+	<referenciaTreinamento>95</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>97</numero>
+	<usuario>Usuario29</usuario>
+	<texto>EXATAMENTE... diga NÃO AS COTAS</texto>
+	<referenciaTreinamento>96</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>98</numero>
+	<usuario>Usuario37</usuario>
+	<texto>Se a educação básica fosse de boa qualidade não precisaria nada disso.</texto>
+</mensagem>
+<mensagem>
+	<numero>99</numero>
+	<usuario>Usuario36</usuario>
+	<texto>Mandou bem Deputado Usuario1...</texto>
+	<referenciaTreinamento>96</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>100</numero>
+	<usuario>Usuario29</usuario>
+	<texto>Tempo esgotado... vamos à votação</texto>
+</mensagem>
+<mensagem>
+	<numero>101</numero>
+	<usuario>Usuario38</usuario>
+	<texto>ja estou com saudades! debate massa</texto>
+</mensagem>
+<mensagem>
+	<numero>102</numero>
+	<usuario>Usuario30</usuario>
+	<texto>debate do mai alto nível misa</texto>
+	<referenciaTreinamento>101</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>103</numero>
+	<usuario>Usuario29</usuario>
+	<texto>Muito me emociona o ato nivel cultural desta massa jovial</texto>
+	<referenciaTreinamento>102</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>104</numero>
+	<usuario>Usuario30</usuario>
+	<texto>muito feliz e satisfeita com nossos debates, caros colegas</texto>
+</mensagem>
+<mensagem>
+	<numero>105</numero>
+	<usuario>Usuario32</usuario>
+	<texto>Idem cara amiga Usuario30</texto>
+	<referenciaTreinamento>104</referenciaTreinamento>
+</mensagem>
+<mensagem>
+	<numero>106</numero>
+	<usuario>Usuario5</usuario>
+	<texto>agradecemos a participação de todos vocês no enriquecimento dos debates e até a próxima!</texto>
+</mensagem>
+<mensagem>
+	<numero>107</numero>
+	<usuario>Usuario2</usuario>
+	<texto>Sessão encerrada, meu voto foi a favor, com algumas ressalvas. Emendas.</texto>
+</mensagem>
+</discussao>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto> oie
+			vc tm o link exato
+			q o prof de ciencias anotou no quadro??
+			achei</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>mals naum tava no pc</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>blz
+			acho q ele passou o link errado</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto> pq ?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto> pq ele respondeu meu 3o email
+			perguntando o link q ele passo</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto> hum
+			seu terceiro email ? O.o
+			eh esse aki</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>eh</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>o email com o site?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>esse mesmo</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>po mas se a gente consegue se logar
+			ele inscreveu a gente nesse curso mmo</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>sim</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>mas ele viu q naum tem link ?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>n sei
+			qr dizr
+			viu
+			viu n</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>12</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>ah menos mal</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto>eu falei</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto>sim, mas ele jah sabe q naum tem neh ? pq qd o alan mandou
+			email ele falou p alan onde tava o link
+			mmo naum estando rs</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>17</numero>
+		<texto>sim
+			ele achava q estava lah
+			eu mndei um email falando q n estava
+			e ele me mandou uma imagm mosrando q estava
+			ai mandei uma imagem mostrando q n estava
+			ai ele perunto o link</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>16</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>18</numero>
+		<texto>eita
+			ng merece
+			esse kra eh meio enrolado
+			pq ele inscreveu o alan com o email errado, a carol</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>17</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>19</numero>
+		<texto>estrahnho. Tem algum Leonardo no seu gtalk?</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>20</numero>
+		<texto>naum mas esse meu email naum eh o q eu dou p profs
+			deve ser o Leonardo mmo</texto>
+		<referenciaTreinamento>19</referenciaTreinamento>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>21</numero>
+		<texto> ah
+			n tm aki nao
+			soh no do Tiago</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

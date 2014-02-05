@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto> Usuario2
+			pessoal, avisa ai pra edite q eu vou ai quinta q vem
+			junto c vc
+			umas 3 e pouco quase 4</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>sem ser essa semana a outra?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>depois a gente tem q combinar se vai sair sexta ou naum</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>sim sim sim tb</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto> q ai eu dormia na sua ksa e tals
+			ai vc me avisa e manda email lah</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto> blz.. o pedro tb aidna n sabe se vai viajar
+			mais se for soh no cine eu vo c vcs
+			podia ser até no fds msm</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>sábado eu naum posso ..
+			e nem domingo rs
+			sohq domingo eu naum sei a hra</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>6</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>kkk, pq?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>sábado eu naum posso a noite
+			sábado a noite eh formatura de uma amiga minha</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>huuunnn</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>e domingo eh churrasco
+			mas naum sei a hora</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>nossa
+			legal XD
+			po
+			vm tentar sexta msm entao</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>mas sexta vc soh vai se for cine ?
+			ou lanche ou o q ?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>12</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>com vcs qlqr coisa</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto>ah tah rs
+			sugere lah no email
+			qqer coisa tah bom
+			soh quero sair sexta</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>14</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto>hehehe
+			blz
+			vou sugerir</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>15</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>17</numero>
+		<texto>se ng for fazer nd eu vou no pastel da tia com a carol rs</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>18</numero>
+		<texto>kkk, aff</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>17</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>19</numero>
+		<texto> pq aff?
+			ta zoando o pastel da tia ?</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>18</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>20</numero>
+		<texto> eu n
+			nunk comi lah
+			mais tm q ter mais coisa no programa XD</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>19</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>21</numero>
+		<texto> 
+			amanha vai ter no buxixo festa go back com o anjos da noite</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>22</numero>
+		<texto> puuuuxaaaa
+			quero ir dinovo
+			mais quinta complica neh</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>21</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>23</numero>
+		<texto>eh. a gente tem q parar de puxar materia sexta
+			rs
+			mas eu iria
+			naum tenho problema p acordar mmo</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>22</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>24</numero>
+		<texto>heuaheaheaheua
+			boa
+			eu tenho mais ou menos</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>23</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>25</numero>
+		<texto>rsrsrsrsrs</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>26</numero>
+		<texto>huaheua
+			olha qm tah no meu gtalk
+			o fabio
+			heuaheua</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>27</numero>
+		<texto>kkkkk
+			o prof resp meu email</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>28</numero>
+		<texto>e oq disse?</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>27</referenciaTreinamento>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>29</numero>
+		<texto>falou q eh p mandar pelo moodle</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>28</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>30</numero>
+		<texto>ah
+			entendi
+			mais aondde lah?
+			e eh pra quinta msm?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>29</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>31</numero>
+		<texto>ele nao respondeu, só disse que é pra enviar pelo moodle</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>30</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>32</numero>
+		<texto>aff</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>33</numero>
+		<texto>pois é. Vou chegar em casa e vou fazer o trabalho de QC e o
+			dele</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>34</numero>
+		<texto>heuaheuaheua</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>35</numero>
+		<texto>ia fazer fds e nao tinha o artigo</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>33</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>36</numero>
+		<texto>o cara da formatura nao para de me ligar</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>37</numero>
+		<texto>ele tinha q ter adiado</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>35</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>38</numero>
+		<texto>é</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>37</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>39</numero>
+		<texto> agente tinha q marcar 1 reuniao c a turma</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>40</numero>
+		<texto>tem q falar com a turma</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>39</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>41</numero>
+		<texto>pra decidir alguma coisa</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>42</numero>
+		<texto>bom, to indo nessa. Bjao</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

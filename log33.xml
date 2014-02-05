@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto> ola Usuario2 td bom?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>oi Bianca! Tudo bem, e vc?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>td bom</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>2</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>eu nem sei usar esse chat aqui. È a primeira vez que estou
+			usando rs</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>heheheh serio? daqui a pouco vc pega</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>4</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>mt coisa pra aprender em pouco tempo rsrs :-p</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>o diogo vai te adicionar tb.vc ta gostando daqui? </texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>estou sim :-)</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>7</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto>vc e o Digo trabalham na petrobras mesmo ou sao contratados
+			como eu ?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>cotratados tb hehehe</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>9</referenciaTreinamento>
+
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>vc está trabalhando c q?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>trabalho com consultoria na Oracle :-). e vcs?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>ah é c tinha falado que era consultoria. Desenvolvimento Java.
+			vms combinar um dia pra almocar por aqui. O diogo vai sair mes que
+			vem</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>vamos combinar sim, claro! E porque ele vai sair</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>13</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto> È por bons motivos
+			vai entrar no doutorado
+			e ficar la fora estudando 1 tempo</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto>eita coisa boa! :-). Ta acompanhando minha conversa com ele?</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+		<referenciaTreinamento>15</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>17</numero>
+		<texto>Não, vo la ver hehehe.</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>16</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>18</numero>
+		<texto>vi um pedaço. Vamos almoçar amanha?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>19</numero>
+		<texto>depois me passa seu celular, please? ainda nao me acostumei com
+			o Notes rs</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>20</numero>
+		<texto>vamos sim</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>18</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>21</numero>
+		<texto>8888-8888</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>19</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>22</numero>
+		<texto>meu celular é 2222-2222</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>23</numero>
+		<texto>vo anotar</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>22</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>24</numero>
+		<texto>Obrigada</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>25</numero>
+		<texto>anotado</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>

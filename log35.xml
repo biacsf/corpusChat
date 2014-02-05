@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussao>
+	<titulo>Gtalk</titulo>
+	<data></data>
+	<mensagem>
+		<numero>1</numero>
+		<texto>oi</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>cumprimento</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>2</numero>
+		<texto>ola</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>cumprimento</tipo>
+		<referenciaTreinamento>1</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>3</numero>
+		<texto>vc pode me ajudar?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>4</numero>
+		<texto>posso, pode flr</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>3</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>5</numero>
+		<texto>na consulta de precos do chile, para o cliente SOC. SERR…
+			VARGAS Y CÕA. LTDA nao aparece organizacao de venda mas no log parece
+			q a query retornou</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>6</numero>
+		<texto>vou verificar</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>5</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>7</numero>
+		<texto>vlw</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>8</numero>
+		<texto>vcs tem alguma ideia do q aconteceu?</texto>
+		<usuario>Usuario3</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>9</numero>
+		<texto> meu tomcat n ta iniciando mais, to tentando ver oq é. Eu vi
+			que realmente nao aparece mas to tentando debugar aqui para ver</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>8</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>10</numero>
+		<texto>pois é... pq no log a query acha um registro. Será q faltou
+			pegar esse valor q voltou da query e passar para a tela?</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>9</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>11</numero>
+		<texto>É, eu acho q pode ter sido. Vo ver se consigo debugar</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>10</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>12</numero>
+		<texto>vlw, achei. Estava jogando no lugar errado. Acertei aqui</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>11</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>13</numero>
+		<texto>vo pedir pro britto subir junto c essa versao nova</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>14</numero>
+		<texto>blz</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>15</numero>
+		<texto>oi</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>16</numero>
+		<texto>ola</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>15</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>17</numero>
+		<texto>1 min. Te passei um erro da tela de upload. Vc pode verificar
+			por favor? Talvez seja problema na msg. Pq o Bruno estava acertando
+			essas msgs e nao sei se ja terminou</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>18</numero>
+		<texto>blz, chegou o email aqui</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>17</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>19</numero>
+		<texto>os codigos sap dos setores de atividade sao LI, PE etc. O
+			código está inválido msm</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>20</numero>
+		<texto>nem tinha visto. To precisando dormir</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>19</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>21</numero>
+		<texto>kkkkk, eu tb nao percebi hehehehe. Foi bom pq tava faltando msm
+			uma msg la</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>20</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>22</numero>
+		<texto>oi</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>23</numero>
+		<texto>ola</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>22</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>22</numero>
+		<texto>vc esta com algum erro agora?</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>24</numero>
+		<texto>nao, eu e Usuario1 estamos vendo a ordenação pela descrição</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>22</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>25</numero>
+		<texto>blz</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>24</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>26</numero>
+		<texto>pode me passar se tiver mais algum</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>27</numero>
+		<texto>oi. vcs tem o pep do projeto ?</texto>
+		<usuario>Usuario1</usuario>
+		<tipo>pergunta</tipo>
+	</mensagem>
+	<mensagem>
+		<numero>28</numero>
+		<texto>sim, vo pegar</texto>
+		<usuario>Usuario2</usuario>
+		<tipo>resposta</tipo>
+		<referenciaTreinamento>27</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>29</numero>
+		<texto>vlw</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>28</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>30</numero>
+		<texto>acabou de funcionar a ordenacao da descricao :-D</texto>
+		<usuario>Usuario3</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>31</numero>
+		<texto>que bom!</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>30</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>32</numero>
+		<texto>vai ter q replicar só</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>33</numero>
+		<texto>para cada entidade ou cada tela ?</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>32</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>34</numero>
+		<texto>para cada tela, nos daos</texto>
+		<usuario>Usuario3</usuario>
+		<referenciaTreinamento>33</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>35</numero>
+		<texto>nao entendi :-(</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>34</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>36</numero>
+		<texto>É para cada tela. Porque eu tenho que alterar os daos de cada
+			tela de configuracao</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>35</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>37</numero>
+		<texto>o pep do projeto È 0000434234324. Vcs podem, por favor, confirmar
+			qual que vcs estao usando?</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>27</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>38</numero>
+		<texto>no meu nao aparece, nao sei se eu aloquei errado agora</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>37</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>39</numero>
+		<texto>vc pode, por favor, alterar a tela de autorizacao de cliente
+			para trazer clientes inativos tb. peguei agora um cliente q foi
+			inativado indevidamente e ai ele nao aparece na consulta :-/</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>40</numero>
+		<texto>ah sim, o britto tinha visto isso outro dia. Essa consulta
+			mostra filiais inativas mais n mostra clientes inativos</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>39</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>41</numero>
+		<texto>vamos fazer o seguinte... vamos tirar aquele checkbox para
+			inativar o cliente pq eles inativam só no SAP</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>42</numero>
+		<texto>aquele campo só ta inativando a filial. vo tirar ele.. mostra
+			só as filiais e clientes ativos entao né?</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>41</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>43</numero>
+		<texto>vo tirar ele.. mostra só as filiais e clientes ativos entao né?</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>44</numero>
+		<texto>sim.. mas vamos parar de inativar deixa eles bloquearem no SAP</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>43</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>45</numero>
+		<texto>ok. O ruim é que nao vamos mais mostrar quais os q estao ativos
+			e quais os que estao inativos</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>44</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>46</numero>
+		<texto>ou entao.. podemos fazer outra coisa essa caixa de texto q
+			busca filial tem q buscar inativas tb</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>45</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>47</numero>
+		<texto>verdade</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>46</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>48</numero>
+		<texto>talvez apontar a busca de filial dessa tela para outro metodo
+			no ajax. pq eles sao viciados em fazer a busca por filial </texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>49</numero>
+		<texto>hhehehe, blza</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>48</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>50</numero>
+		<texto>vlw</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>51</numero>
+		<texto>e continua podendo inativar a filial</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>52</numero>
+		<texto>sim</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>51</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>53</numero>
+		<texto>e mostra agora os cliente inativos tb?</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>54</numero>
+		<texto>sim</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>52</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>55</numero>
+		<texto>ok</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>56</numero>
+		<texto>vlw</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>57</numero>
+		<texto>sabe se hj eles vao ficar até tarde?</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>58</numero>
+		<texto>nao sei, mas acho q nao precisa nao. Pode descansar hoje hehehe</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>57</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>59</numero>
+		<texto>po mas sera q nao vai ter mais nenhum erro?</texto>
+		<usuario>Usuario2</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>60</numero>
+		<texto>isso sempre vai ter</texto>
+		<usuario>Usuario1</usuario>
+		<referenciaTreinamento>59</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>61</numero>
+		<texto>acho que o bruno vai ficar mais um pouco hoje né?</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+	<mensagem>
+		<numero>62</numero>
+		<texto>ele flw q vai, eu vo resolver antes esse do autorizacao</texto>
+		<usuario>Usuario2</usuario>
+		<referenciaTreinamento>61</referenciaTreinamento>
+	</mensagem>
+	<mensagem>
+		<numero>63</numero>
+		<texto>estou indo, qlqr coisa ja passei pro bruno o que eu alterei</texto>
+		<usuario>Usuario2</usuario>
+
+	</mensagem>
+	<mensagem>
+		<numero>64</numero>
+		<texto>vlw</texto>
+		<usuario>Usuario1</usuario>
+	</mensagem>
+</discussao>
